@@ -1,4 +1,4 @@
 # Book Cover
 
-![Constructing Life](CoverBuildingLife.png)
+![Constructing Life](BuildingLife.png)
 
