@@ -32,7 +32,20 @@ a draft of a textbook in a day.
 
 ### Chet Requests
 
+* Content creation begins by making requests to our artificial author
+partner, Chet Gupta (aka chatGPT).
+* These requests are entered into chatGPT.
+* The requests are stored in this directory as individual files to
+give us an audit trail for the design process.
+
 ### Chet Responses
+
+* Chet is producing lots of output in response to each request. The
+output is stored for each of the requests.
+* Some of these requests will be used as the best answer for one segment
+of the book.
+* Hand edited content is created as files in the directory 
+"Shrinking-World-Pubs/Genetics/Book"
 
 ### Book Structure
 
