@@ -1,0 +1,59 @@
+# Genetics 101 Course Outline
+
+## Prompt 
+
+create lesson plan for week 1
+
+---
+
+
+## Week 1 Lesson Plan
+
+Lesson Plan: Introduction to Genetics
+
+### Objectives:
+- Understand the basic principles of genetics, including DNA structure and replication, gene
+  expression, and regulation.
+- Learn about the history of genetics and its significance in modern biology.
+- Develop an understanding of the scientific method and how it applies to genetics research.
+
+### Materials:
+- Textbook: "Genetics: From Genes to Genomes" by Leland Hartwell, et al.
+- Whiteboard and markers
+- Handouts on DNA structure and function
+- Videos on the history of genetics
+
+### Activities:
+- Introduction (10 minutes)
+    - Welcome students to the class and introduce the topic of genetics.
+    - Ask students what they already know about genetics and what they hope to learn in this
+      course.
+- History of Genetics (30 minutes)
+    - Show videos on the history of genetics and its significance in modern biology.
+    - Discuss key historical figures in genetics, such as Gregor Mendel, James Watson, and Francis
+      Crick.
+    - Ask students to identify important discoveries in genetics and how they have impacted modern
+      science.
+- DNA Structure and Function (60 minutes)
+    - Introduce the structure and function of DNA, including base pairing and DNA replication.
+    - Use the whiteboard to draw and label the structure of DNA.
+    - Distribute handouts on DNA structure and function and ask students to read and summarize key
+      points.
+- Gene Expression and Regulation (30 minutes)
+    - Explain how genes are expressed and regulated, including the roles of transcription and
+      translation.
+    - Use examples to illustrate how gene expression can be influenced by environmental factors.
+    - Ask students to brainstorm possible factors that could influence gene expression.
+- Scientific Method (20 minutes)
+    - Introduce the scientific method and how it applies to genetics research.
+    - Discuss the importance of hypothesis testing, data analysis, and peer review in scientific
+      research.
+    - Ask students to develop a hypothesis related to genetics and design an experiment to test it.
+
+### Assessment:
+- Collect completed handouts on DNA structure and function.
+- Assign a homework assignment to write a paragraph summarizing the history of genetics.
+
+### Homework:
+- Write a paragraph summarizing the history of genetics, including key historical figures and
+  discoveries.
