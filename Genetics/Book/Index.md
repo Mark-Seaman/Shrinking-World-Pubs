@@ -5,11 +5,18 @@ by Josiah Seaman, Mark Seaman
 <img src='/static/images/Shrinking-World-Pubs/Genetics/ConstructingLife.png'
 style='max-width: 100%;' width="400" alt="Constructing Life">
 
-## Summary
-
 
 
 ## Table of Contents
+
+### [Cover](Cover)
+
+### [About the Authors](Author)
+
+### [About the Book](Book)
+
+### [Introduction](Intro)
+
 
 ### 1. [Why Carbon? Nutrients and Vitamins](01.md)
 - The significance of carbon in life
