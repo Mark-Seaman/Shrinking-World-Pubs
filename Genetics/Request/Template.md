@@ -4,6 +4,3 @@
 
 create an outline
 
-
-## Response
-

@@ -1,22 +1,21 @@
-# Constructing Life: A Blueprint from the Ground Up
+# Genetics Book Intro
 
-by Josiah Seaman, Mark Seaman
+## Request 
 
-<img src='/static/images/Shrinking-World-Pubs/Genetics/ConstructingLife.png'
-style='max-width: 100%;' width="400" alt="Constructing Life">
+Place all outputs in a markdown formatted code block.
 
+---
 
+Write evocative, interesting, educational, and engaging prose about the intersection of biology and engineering principles. 
 
-## Table of Contents
+---
 
-### [Cover](Cover)
+Expand to 500 words using the snowflake method.
 
-### [About the Authors](Author)
+---
+Constructing Life: A Blueprint from the Ground Up
 
-### [About the Book](Book)
-
-### [Introduction](Intro)
-
+Chapter Contents
 
 ### 1. [Why Carbon? Nutrients and Vitamins](01.md)
 - The significance of carbon in life
@@ -72,3 +71,27 @@ style='max-width: 100%;' width="400" alt="Constructing Life">
 - Stem cells and their potential
 - Cooperation and communication among cells
 - Maintaining homeostasis at the cellular and organismal levels
+
+Respond "..." if you understand.
+
+---
+
+Place all outputs in a markdown formatted code block.
+
+Write intro for book
+
+---
+
+Place all outputs in a markdown formatted code block.
+
+Write a sales summary for book
+
+---
+
+Place all outputs in a markdown formatted code block.
+Write evocative, interesting, educational, and engaging prose.
+Write what you will learn.
+
+---
+
+
