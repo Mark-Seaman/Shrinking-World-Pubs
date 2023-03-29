@@ -1,15 +1,10 @@
-# Constructing Life: A Blueprint from the Ground Up
+# Genetics Book
 
-by Josiah Seaman, Mark Seaman
+## Request 
 
-<img src='/static/images/Shrinking-World-Pubs/Genetics/ConstructingLife.png'
-style='max-width: 100%;' width="400" alt="Constructing Life">
+Place all outputs in a markdown formatted code block.
 
-## Summary
-
-
-
-## Table of Contents
+Outline:
 
 ### 1. [Why Carbon? Nutrients and Vitamins](01.md)
 - The significance of carbon in life
@@ -65,3 +60,21 @@ style='max-width: 100%;' width="400" alt="Constructing Life">
 - Stem cells and their potential
 - Cooperation and communication among cells
 - Maintaining homeostasis at the cellular and organismal levels
+
+---
+
+Create a table of contents for the book
+
+---
+
+Write evocative, interesting, educational, and engaging prose about the intersection of biology and engineering principles. 
+
+---
+
+Write a sales summary for the book
+
+---
+
+Create an inventory of Front Matter for publishing
+
+
