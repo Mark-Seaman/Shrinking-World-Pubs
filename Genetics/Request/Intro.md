@@ -1,12 +1,21 @@
-# Genetics Book
+# Genetics Book Intro
 
 ## Request 
 
+Place all outputs in a markdown formatted code block.
 
-Outline for book:
+---
+
+Write evocative, interesting, educational, and engaging prose about the intersection of biology and engineering principles. 
+
+---
+
+Expand to 500 words using the snowflake method.
+
+---
 Constructing Life: A Blueprint from the Ground Up
 
-by Josiah Seaman, Ph.D and Mark Seaman
+Chapter Contents
 
 ### 1. [Why Carbon? Nutrients and Vitamins](01.md)
 - The significance of carbon in life
@@ -65,35 +74,24 @@ by Josiah Seaman, Ph.D and Mark Seaman
 
 Respond "..." if you understand.
 
-Create a table of contents for the book with all outputs in a markdown formatted code block.
-
 ---
-
-Create short synopsis for each chapter. 
-Place all outputs in a markdown formatted code block.
-
-
----
-
-Create an inventory of Front Matter for publishing
-
----
-
-Expand this outline into 1000 words using the snowflake method. 
-
-Use an active, educational and engaging voice. 
-
-Do not write conclusion statements. Here's the outline.
 
 Place all outputs in a markdown formatted code block.
 
+Write intro for book
+
 ---
 
-This is the book contents for context. 
-<Includes giant text dump>
+Place all outputs in a markdown formatted code block.
 
-Respond "..." if you understand.
+Write a sales summary for book
 
---
+---
 
-  
+Place all outputs in a markdown formatted code block.
+Write evocative, interesting, educational, and engaging prose.
+Write what you will learn.
+
+---
+
+
