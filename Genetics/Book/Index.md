@@ -25,7 +25,7 @@
 ## [6. [Mitosis and Chromosome Structure](06.md)](/genetics/06.md)             
 
 
-## [7. [Organelles, Specialized Functions, and the Origins of Organs](07.md)](/genetics/07.md)
+## [7. Organelles, Specialized Functions, and the Foundations of Organs](/genetics/07.md)
 
 
 ## [8. [Your Body: Trillions of Genius Specialists with the Same Code](08.md)](/genetics/08.md)
