@@ -3,6 +3,10 @@
 by Josiah Seaman, Ph.D and Mark Seaman
 
 
+* [Book Cover](Cover.md)
+* [Constructing Life Image](https://seamansguide.com/static/images/Shrinking-World-Pubs/Genetics/ConstructingLife.png)
+
+
 ## Sales Summary
 
 "Constructing Life: A Blueprint from the Ground Up" is a must-read for anyone interested in the

@@ -6,16 +6,15 @@ by Josiah Seaman, Mark Seaman
 style='max-width: 100%;' width="400" alt="Constructing Life">
 
 
-
 ## Table of Contents
 
-### [Cover](Cover)
+### [Book Cover](Cover.md)
 
-### [About the Authors](Author)
+### [About the Authors](Author.md)
 
-### [About the Book](Book)
+### [About the Book](Book.md)
 
-### [Introduction](Intro)
+### [Introduction](Intro.md)
 
 
 ### 1. [Why Carbon? Nutrients and Vitamins](01.md)
