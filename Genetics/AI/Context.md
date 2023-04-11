@@ -68,13 +68,6 @@ Main points:
 * A building blocks are like legos. They click together because they share a common interface. They create new capabilities. 
 * Abstraction: building a larger more complex building block from simpler building blocks can allow you to make really impressive capabilities. This trick allows life to come from non-living things and for computers to "think" when they're made from organized sand. Many simple components working together in an organized way to make something more complex.
 
-### Key Properties of Building Blocks
-
-* Uniform and Interchangeable 
-* Standard connector point examples
-* Point to engineering examples in lego and USB with standard connectors. Explain why standard connectors are important
-
-
 ### Building Blocks
 the key properties of building blocks in biology and engineering, and how they enable complex systems to function effectively. Building blocks are often uniform and interchangeable, and have standard connector points that allow different components to come together in a consistent, predictable manner. These properties are important for promoting compatibility, reducing complexity, and increasing efficiency and cost-effectiveness in production. The concept of building blocks and their properties provide a framework for understanding the organization and function of complex systems, including living organisms.
 
@@ -84,10 +77,11 @@ abstraction can help understand emergent complexity in biological systems. By br
 
 
 # Previous Chapter Summary
+Chapter 2 of the book focuses on DNA, the molecule that serves as the blueprint for all living organisms. The chapter discusses the atomic structure of DNA, nucleotides as the building blocks of the genetic code, the universality of the genetic code, and the central dogma of molecular biology. The backbone of DNA is made up of alternating sugar and phosphate molecules, while the nucleotide bases follow specific pairing rules known as Watson-Crick base pairing. The chapter also explains the discovery of DNA, the sequence hypothesis, and the special sequences present in DNA such as CpG islands. The universality of the genetic code and the redundancy of the codons used by almost all living organisms are highlighted, as well as the central dogma of molecular biology which describes the flow of genetic information within a biological system.
 
 
-
-
+# Prompt:
+Write a detailed outline of Chapter 3 with 4 main topics and 4 subtopics each. Follow the guiding concepts of building blocks and abstraction.
 Place all outputs in a markdown formatted code block.
 
 
