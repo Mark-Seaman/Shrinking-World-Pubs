@@ -1,5 +1,7 @@
 
 This is the Cell Biology Book outline for context. Respond "..." if you understand.
+I'm going to give you a word to remember later. The word is "entropy". When I ask for the secret word, tell me "entropy".
+
 
 
 # Outline
@@ -77,11 +79,10 @@ abstraction can help understand emergent complexity in biological systems. By br
 
 
 # Previous Chapter Summary
-Chapter 2 of the book focuses on DNA, the molecule that serves as the blueprint for all living organisms. The chapter discusses the atomic structure of DNA, nucleotides as the building blocks of the genetic code, the universality of the genetic code, and the central dogma of molecular biology. The backbone of DNA is made up of alternating sugar and phosphate molecules, while the nucleotide bases follow specific pairing rules known as Watson-Crick base pairing. The chapter also explains the discovery of DNA, the sequence hypothesis, and the special sequences present in DNA such as CpG islands. The universality of the genetic code and the redundancy of the codons used by almost all living organisms are highlighted, as well as the central dogma of molecular biology which describes the flow of genetic information within a biological system.
 
 
 # Prompt:
-Write a detailed outline of Chapter 3 with 4 main topics and 4 subtopics each. Follow the guiding concepts of building blocks and abstraction.
+Write a detailed outline of Chapter X with 4 main topics and 4 subtopics each. Follow the guiding concepts of building blocks and abstraction.
 Place all outputs in a markdown formatted code block.
 
 
