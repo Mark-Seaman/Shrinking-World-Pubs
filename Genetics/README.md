@@ -2,6 +2,8 @@
 
 ## Project
 
+
+
 * This project is an experiment to use AI in a human partnership to create
 a draft of a textbook in a day.
 * This will result in enormous learning for all parties involved.
