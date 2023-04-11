@@ -3,8 +3,10 @@
 by Josiah Seaman, Ph.D and Mark Seaman
 
 
-* [Book Cover](Cover.md)
-* [Constructing Life Image](https://seamansguide.com/static/images/Shrinking-World-Pubs/Genetics/ConstructingLife.png)
+<a href="/static/images/Shrinking-World-Pubs/Genetics/ConstructingLife.png">
+<img src="/static/images/Shrinking-World-Pubs/Genetics/ConstructingLife.png"
+style='max-width: 100%;' width="400" alt="Constructing Life">
+</a>
 
 
 ## Sales Summary
