@@ -3,7 +3,7 @@
 ## Request 
 
 create a bio for Josiah Seaman 
-- genetisist, Queen Mary University, comparitive genetics
+- Computational Biologist, Queen Mary University, comparative genetics
 
 create a bio for Mark Seaman 
 - engineer, author, teacher, publisher

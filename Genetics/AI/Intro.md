@@ -51,12 +51,12 @@ Chapter Contents
 - Promoters and their role in transcription
 - Enhancers and their role in gene expression
 
-### 6. [Mitosis and Chromosome Structure](06.md)
-- The cell cycle and its stages
+### 6. [Chromosome Structure and 3D folding](06.md)
+- Chromatin domains
+- HiC and Contact domains, 3D models of the nucleus
 - The structure and organization of chromosomes
-- The process of mitosis
+- Chromatin loop formation is used to pack chromosomes
 - The role of spindle fibers and centromeres
-- Cell division and its importance
 
 ### 7. [Organelles, Specialized Functions, and the Origins of Organs](07.md)
 - The structure and function of cellular organelles
