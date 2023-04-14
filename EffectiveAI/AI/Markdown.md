@@ -7,5 +7,3 @@ lists, and hyperlinks.
 
 Format lists as "* **list item** - details"
 
-Respond "OK"
-

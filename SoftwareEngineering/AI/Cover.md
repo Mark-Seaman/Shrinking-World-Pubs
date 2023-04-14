@@ -58,3 +58,14 @@ We use img tag to insert the book cover image and h1, h2, and p tags to display 
         </div>
     </body>
     </html>
+
+
+## New Book Cover
+
+Use this pattern to create a book cover for:
+
+    Title: Software Engineering
+    Author: Mark Seaman
+    Tag line: Practical Engineering
+    Cover Image: ../Images/CoverImage.png
+

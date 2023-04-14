@@ -1,12 +1,5 @@
 # Software Engineering - Chapter 1
 
-    ai/Chapter1.md
-
-This is an AI article about the Software Engineering Course
-
-
-## Chat-GPT Prompts
-
 
 Plan a textbook on Software Engineering with 7 Chapters with each containing four subtopics
 
