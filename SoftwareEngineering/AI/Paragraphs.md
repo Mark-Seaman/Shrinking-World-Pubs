@@ -12,6 +12,8 @@ Use Markdown Formatting
 
 No numbered headings
 
+Don't generate the conclusion
+
 ---
 
 ## The Importance of Software Engineering
