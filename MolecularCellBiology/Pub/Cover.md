@@ -1,4 +1,6 @@
-# Constructing Life: A Blueprint from the Ground Up
+# Book Cover
+
+## Constructing Life: A Blueprint from the Ground Up
 
 by Josiah Seaman, Ph.D and Mark Seaman
 
