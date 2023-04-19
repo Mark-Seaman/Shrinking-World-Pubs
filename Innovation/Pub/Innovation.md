@@ -33,14 +33,6 @@ implementing improvements, and continuously measuring and analyzing results. By 
 improvement, you can ensure that your product is always improving and meeting the needs of your
 customers.
 
-Innovation is essential for success in today's world. By understanding the problems you are trying
-to solve, planning an approach to the solution, building the solution incrementally, teaching the
-approach to others, and building a cycle of improvement based on feedback, you can ensure that you
-are developing innovative products that meet the needs of your customers.
-
-
-## Keys to Effective Innovation
-
 We will be exploring several aspects of successful innovation and looking at how to create a practice
 that it produces great results predictably.  Who wants to waste time on projects
 that will not pay off?

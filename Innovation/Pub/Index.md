@@ -26,10 +26,10 @@
 * Provide coaching and mentoring
 * Encourage knowledge sharing and collaboration
 
-## [Build a cycle of improvement based on feedback](/innovation/Process)
-* Collect and analyze feedback from users
-* Identify areas for improvement
-* Prioritize and plan improvements
-* Implement and test the improvements
-
+## [Cycle of Innovation](/innovation/Process)
+- Innovation is not a one-time thing
+- Requires gathering feedback
+- Use feedback to steer the development
+- collaborate with students, readers, and users of software
+- Create a standard process of iteration
 

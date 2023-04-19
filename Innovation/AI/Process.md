@@ -6,7 +6,7 @@ Consider this 1x4 outline:
 
 [outline]
 
-# Cycle of Feedback
+# Cycle of Innovation
     - Innovation is not a one-time thing
     - Requires gathering feedback
     - Use feedback to steer the development
