@@ -1,4 +1,4 @@
-# Software Engineering Theory & Application
+# About the Author
 
 by Mark Seaman
 
