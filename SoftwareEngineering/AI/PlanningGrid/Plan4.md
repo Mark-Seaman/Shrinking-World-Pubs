@@ -1,0 +1,30 @@
+|   row |   col | Deliverable                       | Details                                                                                                                                     |
+|------:|------:|:----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
+|     0 |     0 | Project Charter                   | ['Business proposition', 'Project scope & budget', 'Client communication', 'Sprint Planning meetings']                                      |
+|     1 |     0 | Technology selection              | ['Select Development Tools', 'Infrastructure - Frameworks & Tools', 'Setup Guide', 'Create "Hello World"', 'Decide on App deployment']      |
+|     2 |     0 | Version control                   | ['Setup Github account', 'Setup Github Pages repository', 'Decide how to publish your project docs', 'User Guide for development workflow'] |
+|     3 |     0 | Test Plan                         | ['Outline of testing that will be used', 'Setup structure for testing', 'Log issues', 'Document how to log issues']                         |
+|     0 |     1 | Setup communications              | ['Configure communication tools', 'Team communication', 'Plan daily meetings']                                                              |
+|     1 |     1 | Software Architecture             | ['Apps = Data + Views', 'Data models', 'Views and wireframes']                                                                              |
+|     2 |     1 | Test-driven development workflow  | ['Build simple app', 'Build simple test', 'Document workflow built around tests']                                                           |
+|     3 |     1 | Test Infrastructure               | ['Unit test framework', 'System testing framework', 'Regression testing']                                                                   |
+|     0 |     2 | Functional requirements           | ['Plan User Stories', 'Customer review']                                                                                                    |
+|     1 |     2 | Component Design - API            | ['Prototype - development spike of core functionality', 'Implement data models', 'Implement views', 'Implement URL routes']                 |
+|     2 |     2 | Incremental development (Sprints) | ['Select features for sprint', 'Implement the features', 'Test the features', 'Fix all defects']                                            |
+|     3 |     2 | Automated testing                 | ['Unit testing', 'System testing', 'Code coverage of tests']                                                                                |
+|     0 |     3 | Team coordinator                  | ['Task Kanban', 'Prioritize feature requests', 'Sprint planning']                                                                           |
+|     1 |     3 | Refactoring and code structure    | ['Create code analysis tools', 'Draw diagram of code structure', 'Refine key APIs']                                                         |
+|     2 |     3 | Write code - core features        | ['Implement User Stories', 'Test-driven workflow', 'Implementation Cycle - Test, Fix, Extend, Improve', 'Implement all core features']      |
+|     3 |     3 | Continuous integration            | ['Build and test with every push', 'Implement Travis (CI tool)']                                                                            |
+|     0 |     4 | Project progress                  | ['Burn down graph', 'Prioritize Features', 'Product backlog']                                                                               |
+|     1 |     4 | Help with Code                    | ['Implement all required features', 'Improve code structure', 'Ensure test quality']                                                        |
+|     2 |     4 | Write code - functional complete  | ['Implement all features', 'Test-driven workflow', 'Implementation Cycle - Test, Fix, Extend, Improve']                                     |
+|     3 |     4 | Acceptance testing                | ['Work with Requirements specialist', 'Identify unmet customer needs', 'Develop client acceptance test']                                    |
+|     0 |     5 | Issues Review                     | ['Acceptance criteria', 'Release checkpoint']                                                                                               |
+|     1 |     5 | Resolve open design issues        | ['Assist with defect fixing', 'Assist with completion of tests', 'Ensure test quality']                                                     |
+|     2 |     5 | Write code - debug                | ['Extend test cases', 'Work with burn-down graph', 'Implement regression test cases']                                                       |
+|     3 |     5 | Issue tracking                    | ['Issues management workflow', 'Track metrics for issue found, fixed, outstanding', 'Test resolved issue', 'Close issues that pass test']   |
+|     0 |     6 | First maintenance roll            | ['Downtime management', 'Maintenace plan', 'Upgrade strategy']                                                                              |
+|     1 |     6 | Design future enhancements        | ['Create plan for product upgrade', 'Archive the finish design', 'Update design documents']                                                 |
+|     2 |     6 | Write code - fix issues           | ['Close all remaining issues', 'Complete all missing tests', 'Release checklist']                                                           |
+|     3 |     6 | Software Release                  | ['Release criteria', 'Maintenance plan', 'Server management']                                                                               |

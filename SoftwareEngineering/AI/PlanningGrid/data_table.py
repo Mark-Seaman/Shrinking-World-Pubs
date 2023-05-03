@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+import csv
 from pathlib import Path
 
 
@@ -31,12 +32,8 @@ def convert_JSON_records(infile, outfile):
 
 
 # Define the JSON data as a Python list
-
-def create_table_from_JSON(infile, outfile):
-    # Open the JSON file and read its contents
-    with open(infile) as f:
-        json_data = json.load(f)
-
+def create_table_from_JSON(json_data):
+    
     # initialize the table with empty rows
     table = [[[], [], [], []] for _ in range(7)]
 
@@ -96,16 +93,31 @@ def normalize_json(infile, outfile):
     df = pd.json_normalize(json_data)
 
 
+def save_markdown(infile, outfile):
+    df = pd.read_csv(infile)
+    df.to_markdown(outfile, index=False)
+
 
 def perform_tasks():
+    # data = read_json('Plan.json')
+    # data = convert_JSON_records(data)
+    # write_json('Plan2.json', table)
+
     data = read_json('Plan2.json')
-    save_csv('Plan3.csv', data)
-    save_html('Plan3.html', data)
+    # save_csv('Plan3.csv', data)
+    # save_html('Plan3.html', data)
+
     # print(json)
-    convert_JSON_records('Plan.json', 'Plan2.json')
-    normalize_json('Plan2.json', 'Plan3.csv')
+    # normalize_json('Plan2.json', 'Plan3.csv')
     # load_data_frame()
-    # table = create_table_from_JSON('Plan2.json', 'Plan3.md')
+
+    # with open('Plan3.csv', 'r') as file:
+    #     reader = csv.reader(file)
+    #     for row in reader:
+    #         print(row)
+
+    save_markdown('Plan3.csv', 'Plan4.md')
+    # table = create_table_from_JSON(data)
     # print_table(table)
 
 
