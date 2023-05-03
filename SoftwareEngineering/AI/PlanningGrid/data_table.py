@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+from pathlib import Path
 
 
 def read_json(infile):
@@ -7,8 +8,8 @@ def read_json(infile):
         return json.load(f)
 
 
-def write_json(outfile, json):
-    open(outfile, 'w').write(json.dumps(json, indent=4))
+def write_json(outfile, table):
+    open(outfile, 'w').write(json.dumps(table, indent=4))
 
 
 def convert_JSON_records(infile, outfile):
@@ -23,7 +24,10 @@ def convert_JSON_records(infile, outfile):
             if x:
                 output.append ((x['role'],x['milestone'],x['deliverable'],x['details']))
                 print(x['role'],x['milestone'],x['deliverable'])
-    # write_json(outfile, output)
+    write_json(outfile, output)            
+    # Path(outfile).write_text(output)
+    # open('Plan2.json', 'w').write(json.dumps(output, indent=4))
+
 
 
 # Define the JSON data as a Python list
@@ -73,28 +77,36 @@ def load_data_frame():
     print(table_html)
 
 
+def save_html(outfile, json_data):
+    df = pd.DataFrame(json_data, columns=["row", "col", "Deliverable", "Details"])
+    table_html = df.to_html(index=False)
+    Path(outfile).write_text(table_html)
+
+
+def save_csv(outfile, json_data):
+    df = pd.DataFrame(json_data, columns=["row", "col", "Deliverable", "Details"])
+    df.to_csv(outfile, index=False)
+
+
 def normalize_json(infile, outfile):
-    # Open the JSON file and read its contents
-    with open(infile) as f:
-        data = json.load(f)
+
+    json_data = read_json(infile)
 
     # Convert the JSON data to a pandas DataFrame
     df = pd.json_normalize(json_data)
 
-    # Save the DataFrame to a CSV file
-    df.to_csv(outfile, index=False)
 
 
 def perform_tasks():
-    json = read_json('Plan2.json')
-    print(json)
-    # convert_JSON_records('Plan.json', 'Plan2.json')
-    # normalize_json('Plan2.json', , 'Plan3.json')
+    data = read_json('Plan2.json')
+    save_csv('Plan3.csv', data)
+    save_html('Plan3.html', data)
+    # print(json)
+    convert_JSON_records('Plan.json', 'Plan2.json')
+    normalize_json('Plan2.json', 'Plan3.csv')
+    # load_data_frame()
     # table = create_table_from_JSON('Plan2.json', 'Plan3.md')
     # print_table(table)
-
-# # convert JSON data to Python list
-# data = json.loads(json_data)
 
 
 perform_tasks()
