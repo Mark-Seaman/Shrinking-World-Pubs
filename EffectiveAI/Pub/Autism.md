@@ -7,15 +7,20 @@ affects me in my daily life. However, as I started working in the field of artif
 advantage in this field.
 
 Working alongside many engineers, I quickly realized that autism is not uncommon in the tech
-industry. In fact, many of my colleagues also have autism, which has allowed me to feel more
-comfortable and accepted in my workplace. One of the most significant advantages of my autism is my
-extraordinary focus. I am able to concentrate on a particular task for extended periods without
-getting distracted, which is a valuable skill in the AI field.
+industry. In fact, many of my colleagues also have are on the autistic spectrum, which has allowed
+me to feel more comfortable and accepted in my workplace. One of the most significant advantages of
+my autism is my extraordinary focus. I am able to concentrate on a particular task for extended
+periods without getting distracted, which is a valuable skill for writing and research.
 
 Furthermore, AI has allowed me to express my ideas more effectively. Working with an AI writing
 partner, I can easily share my thoughts and ideas, which can be instantly elaborated on and refined
 by the AI. This collaborative approach has allowed me to produce a higher quality and quantity of
 work than I could have achieved on my own.
+
+Much of my attention in writing is about selecting the right words, grammar, and writing tone.  AI
+allows me to select the proper context for what I want to say and have the words created for me
+in a voice that is grammatically correct. This gives me a high quality first draft that I can 
+refine until it expresses what I want to.
 
 In the past, I struggled to communicate my ideas effectively, often getting lost in tangents or
 failing to articulate my point clearly. However, working with AI has allowed me to overcome these
