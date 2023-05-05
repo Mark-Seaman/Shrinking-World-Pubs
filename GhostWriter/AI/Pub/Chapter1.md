@@ -46,7 +46,6 @@ Additionally, Ghost Writer's unique capabilities, such as its ability to automat
 Kindle Book and website, can help writers streamline the publishing process and reach a wider
 audience.
 
-
 ---
 
 ## 1.2. Target Audience
@@ -88,9 +87,7 @@ creation process and produce high-quality written content more efficiently, whil
 support for organizing ideas, refining drafts, and publishing content across multiple platforms to
 reach a wider audience.
 
-
 ---
-
 
 ### 1.3. Ghost Writer Software Capabilities
 
@@ -130,7 +127,6 @@ tools can be especially useful for writers who need to create content in multipl
 are seeking to optimize their content for different audiences. By using Ghost Writer's AI-powered
 features and functionalities, writers can take advantage of the latest technology to improve their
 writing and achieve their publishing goals.
-
 
 ---
 
