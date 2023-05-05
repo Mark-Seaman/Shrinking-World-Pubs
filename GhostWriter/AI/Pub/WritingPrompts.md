@@ -17,11 +17,11 @@ My technique for writing prompts uses the following formula:
 This technique is designed to give ChatGPT a clearer understanding of what it should do so you can 
 get a less generic response.
 
-That’s where the “context, task, instruction, clarify, refine” technique comes in, it is a simple 
+That's where the "context, task, instruction, clarify, refine” technique comes in, it is a simple 
 yet powerful method for crafting exceptional ChatGPT prompts that deliver unique and accurate 
 responses.
 
-In this article, I’ll explain in more detail why, when dealing with ChatGPT, context is so 
+In this article, I'll explain in more detail why, when dealing with ChatGPT, context is so 
 important and how to provide specific instructions that will allow ChatGPT to deliver unique and 
 accurate responses.
 

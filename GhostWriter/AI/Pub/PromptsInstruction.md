@@ -12,5 +12,5 @@ Do not include an introduction, summary or conclusion.
 
 The item should be approximately 250 words long and written in a conversational style that resonates with beginners in [topic].
 
-Include the word “[insert keyword here]” naturally throughout the response but do not use it more than 3 times. Use formal and instructional words to describe the process.
+Include the word "[insert keyword here]” naturally throughout the response but do not use it more than 3 times. Use formal and instructional words to describe the process.
 
