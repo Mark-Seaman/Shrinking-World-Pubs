@@ -18,38 +18,7 @@ Output content as Markdown
 
 Consider this [book table of contents]
 
-# Ghost Writer - AI for Writers
-
-## Table of Contents
-
-### 1. Introduction
-1.1. Purpose of the book
-1.2. Target audience
-1.3. Ghost Writer software capabilities
-1.4. Structure of the book
-
-### 2. Overview of Ghost Writer
-2.1. Explanation of Ghost Writer software
-2.2. Advantages of using AI for writing
-2.3. Unique features of Ghost Writer
-2.4. Ghost Writer use cases
-
-### 3. Using Ghost Writer
-3.1. How to Use Ghost Writer for Computer Assisted Writing
-3.2. Guidance on the Writing Process from Start to Finish
-3.3. The Complete Workflow (Incubate, Develop, Refine, Publish)
-
-### 4. Creating a Kindle Book and Website
-4.1. Explanation of the Ghost Writer Feature
-4.2. Automatic Kindle Book Creation
-4.3. Automatic Website Creation
-4.4. Publishing Online Courses
-4.5. Customization Options
-
-### 5. Get Started Now
-5.1. Recap of the Benefits of Using Ghost Writer
-5.2. How Ghost Writer Can Improve the Writing Process
-5.3. Try Ghost Writer for Yourself
+[[Pub/TableOfContents.md]]
 
 ---
 
@@ -140,19 +109,19 @@ Create an outline for [Chapter 3]
 - Explanation of the complete workflow for writing with Ghost Writer
 - Detailed guidance on how to use Ghost Writer to move through each stage of the workflow
 
-    #3.3.1. Incubate
+    #Incubate
     - Explanation of the incubation phase and how Ghost Writer can assist with ideation and brainstorming
     - Discussion of how to use Ghost Writer's features to organize ideas and outline a project
 
-    #3.3.2. Develop
+    #Develop
     - Explanation of the development phase and how Ghost Writer can assist with writing and drafting
     - Discussion of how to use Ghost Writer's features to generate content and develop ideas further
 
-    #3.3.3. Refine
+    #Refine
     - Explanation of the refinement phase and how Ghost Writer can assist with revising and editing
     - Discussion of how to use Ghost Writer's features to refine and improve written content
 
-    #3.3.4. Publish
+    #Publish
     - Explanation of the publishing phase and how Ghost Writer can assist with formatting and distribution
     - Discussion of how to use Ghost Writer's features to publish written content on multiple platforms
     
