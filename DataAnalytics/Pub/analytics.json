@@ -1,0 +1,20 @@
+{
+    "name": "analytics",
+    "site_title": "Data Analytics",
+    "site_subtitle": "Priceless and Codeless",
+    "domain": "https://shrinking-world.com",
+    "url": "/analytics",
+    "title": "Data Analytics: Priceless and Codeless",
+    "author": "Robin Tang and Mark Seaman",
+    "description": "Learning data analytics with Knime",
+    "css": "/static/css/book.css",
+    "doc_path": "Documents/Shrinking-World-Pubs/DataAnalytics/Pub",
+    "image_path": "/static/images/Shrinking-World-Pubs/DataAnalytics",
+    "cover_image": "/static/images/Shrinking-World-Pubs/DataAnalytics/Cover.png",
+    "cover_title": false,
+    "pub_type": "private",
+    "menu": "static/js/nav_blog.json",
+    "auto_contents": false,
+    "auto_index": true,
+    "simple_index": true
+}

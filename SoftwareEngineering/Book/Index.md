@@ -2,9 +2,15 @@
 
 * [Software Engineering Theory & Application](/sweng/Title.md)                  
 
-* [Software Engineering Theory & Application](/sweng/Author.md)                 
+* [Book Cover](/sweng/Cover.md)                                                 
 
-* [SoftwareEngineering](/sweng/Index.md)                                        
+* [About the Author](/sweng/Author.md)                                          
 
-* [Document not found](/sweng/O1.md)                                            
+* [Software Apps for Course](/sweng/SoftwareApps.md)                            
+
+* [Milestones for Web-Based Software App](/sweng/Milestones.md)                 
+
+* [ Software Engineering Textbook Outline](/sweng/Outline.md)                   
+
+* [Chapter 1: Introduction to Software Engineering](/sweng/01.md)               
 

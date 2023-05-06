@@ -1,0 +1,17 @@
+{
+    "name": "webapps",
+    "site_title": "Python Web Apps",
+    "site_subtitle": "Intermediate Web Dev",
+    "domain": "https://seamansguide.com",
+    "url": "/webapps",
+    "title": "Build Python Web Apps",
+    "author": "Mark Seaman",
+    "description": "Building web apps using Python and Django.",
+    "doc_path": "Documents/seamansguide.com/webapps",
+    "image_path": "/static/images/seamansguide.com/webapps",
+    "css": "/static/css/book.css",
+    "pub_type": "book",
+    "cover_title": false,
+    "cover_image": "/static/images/seamansguide.com/webapps/PythonWebApps.jpg",
+    "menu": "static/js/nav_sw.json"
+}
