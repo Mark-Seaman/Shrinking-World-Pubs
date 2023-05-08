@@ -1,4 +1,7 @@
-# 2. Micropublishing
+Consider this document written in markdown.
+
+
+# Chapter 2: Micropublishing
 
 ---
 
@@ -46,7 +49,7 @@ interested over time.
 
 ---
 
-## 2.2. Body of Knowledge
+## 2.2: Body of Knowledge
 
 ### 2.2.1. Explanation of the Concept of a "Body of Knowledge"
 
@@ -91,7 +94,7 @@ leading to a more cohesive and effective body of knowledge overall.
 
 ---
 
-## 2.3. Knowledge Payloads
+## 2.3: Knowledge Payloads
 
 ### 2.3.1. Explanation of "Knowledge Payloads" as a Micropublishing Concept
 
@@ -135,7 +138,7 @@ time.
 
 ---
 
-## 2.4. Multiple Formats for Content Delivery
+## 2.4: Multiple Formats for Content Delivery
 
 ### 2.4.1. Overview of Different Formats for Micropublishing Content Delivery
 
@@ -174,4 +177,39 @@ effectively use different formats to deliver information to their audiences, and
 benefits and challenges of using multiple formats for micropublishing content delivery. We'll also
 offer tips for creating a cohesive and effective content strategy that incorporates multiple
 content delivery formats.
+
+
+Your task is to write a Python program that will convert the headings to an outline that indents
+the text with four spaces.
+
+---
+
+    import re
+
+    # Define a regular expression pattern to match headings
+    heading_pattern = r'^(#+)\s+(.*)'
+
+    # Read in the Markdown document as a string
+    with open('document.md', 'r') as f:
+        markdown = f.read()
+
+    # Split the document into lines
+    lines = markdown.split('\n')
+
+    # Initialize the outline
+    outline = ''
+
+    # Loop over the lines
+    for line in lines:
+        # Check if the line matches the heading pattern
+        match = re.match(heading_pattern, line)
+        if match:
+            # Extract the heading level and text
+            level = len(match.group(1))
+            text = match.group(2)
+            # Add the heading to the outline with the appropriate indentation
+            outline += '    ' * (level - 1) + text + '\n'
+
+    # Print the indented outline
+    print(outline)
 
