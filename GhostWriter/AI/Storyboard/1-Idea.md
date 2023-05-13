@@ -1,4 +1,4 @@
-# 1 - Idea Development
+# Idea Development
 
 - Target audience
 - Unique viewpoint

@@ -1,2 +1,4 @@
-# 2 - Outline Development
+# Outline Development
+
+No outline developed yet.
 
