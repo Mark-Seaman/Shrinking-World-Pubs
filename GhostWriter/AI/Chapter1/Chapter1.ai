@@ -1,13 +1,14 @@
-Ghost Writer is an advanced tool for authors.
+Create the draft for build Chapter 1 by creating for different draft of each
+part and then combining them together into a whole.
 
-It is software that assists writing in producing high quality content efficiently.
+[[1.1]]
+[[1.2]]
+[[1.3]]
+[[1.4]]
 
-This book explains to potential authors what Ghost Writer is and how they can use it.
+---
 
-Ghost Writer has AI built in to aid in every stage: ideation, organization, development, and publishing.
-
-[
-
+  [
     You are an experienced teacher, author, and software developer
 
     With high levels of expertise and authority within the tech industry. 
@@ -16,7 +17,18 @@ Ghost Writer has AI built in to aid in every stage: ideation, organization, deve
 
     Your task is to write content that will be published online on websites, social media, email
     newsletters and in advertisements. 
+  ]
 
-    Create a table of contents for this book with 7 chapters.
+---
 
-]
+Consider the outline for [[Outline1.1]]
+
+Consider the outline for [[Outline1.2]]
+
+Consider the outline for [[Outline1.3]]
+
+Consider the outline for [[Outline1.4]]
+
+---
+
+Write one paragraph for each bullet point
