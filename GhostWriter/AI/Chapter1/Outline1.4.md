@@ -1,4 +1,4 @@
-### 1.4. Structure of the Book
+# 1.4. Structure of the Book
 
 #### 1.4.1. Overview of the Book's Organization
 - Explanation of how the book is organized into different sections and chapters

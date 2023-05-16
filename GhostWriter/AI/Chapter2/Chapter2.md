@@ -1,6 +1,4 @@
-# Ghost Writer - AI for Writers
-
-## Chapter 2: Micropublishing
+# Chapter 2: Micropublishing
 
 ---
 
