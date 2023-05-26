@@ -4,5 +4,4 @@
 
 * [Chapter 1 - Introduction](/ghost/Chapter1.md)                                
 
-* [2. Micropublishing](/ghost/Chapter2.md)                                      
-
+* [Chapter 2: Micropublishing](/ghost/Chapter2.md)                              

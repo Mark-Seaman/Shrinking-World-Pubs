@@ -41,7 +41,11 @@ Creating a body of knowledge using micropublishing has a number of advantages ov
 
 ---
 
+<<<<<<< HEAD
 ## 2.3: Knowledge Payloads
+=======
+## Chapter 2.3: Knowledge Payloads
+>>>>>>> 060b54192792f57ac32fb228f805f045b862f89b
 
 ### 2.3.1. Explanation of "Knowledge Payloads" as a Micropublishing Concept
 
@@ -61,7 +65,11 @@ One of the key advantages of using knowledge payloads for micropublishing is tha
 
 ---
 
+<<<<<<< HEAD
 ## 2.4: Multiple Formats for Content Delivery
+=======
+## Chapter 2.4: Multiple Formats for Content Delivery
+>>>>>>> 060b54192792f57ac32fb228f805f045b862f89b
 
 ### 2.4.1. Overview of Different Formats for Micropublishing Content Delivery
 
