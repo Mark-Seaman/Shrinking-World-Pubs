@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Draft Development
-
-Latest Draft ... not yet created
-
-=======
 # 3 - First Draft 
 
 ---
@@ -153,4 +147,3 @@ quality. Consider the strengths and limitations of each collaborator and distrib
 accordingly. Maintain a flexible approach, continually reassessing the workload distribution as the
 writing process evolves. Remember, finding the right balance between human and AI involvement is
 key to achieving the best results.
->>>>>>> 060b54192792f57ac32fb228f805f045b862f89b

@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# Idea Development
-
-- Target audience
-- Unique viewpoint
-- Build credibility
-- Structure and outline
-=======
 # 1 - Idea - Building One Chapter
 
 ---
@@ -19,5 +11,4 @@
 ## 3.3 - Working with the Chapter Browser
 
 ## 3.4 - Human task and AI task
->>>>>>> 060b54192792f57ac32fb228f805f045b862f89b
 
