@@ -1,7 +1,3 @@
-# 3 - First Draft 
-
----
-
 # Chapter 3 - Using Ghost Writer
 
 ## 3.1 - Development Lifecycle
@@ -44,6 +40,9 @@ final adjustments, such as adding references, citations, or visual elements, to 
 reader's experience. You're almost there—soon your chapter will be ready to be shared with the
 world!
 
+
+---
+
 ## 3.2 - Development Guidance: Human/AI Partnership
 
 ### 3.2.1 - Human Guidance and Advice
@@ -75,9 +74,12 @@ Strive to strike a harmonious balance between human and AI involvement in your w
 Recognize the strengths of both and allocate tasks accordingly. Let human writers take the lead on
 creative and critical thinking tasks, while
 
- AI tools can assist with repetitive or content-based tasks. Aim for a synergy where human
- creativity and AI efficiency come together to optimize productivity and produce high-quality
- results.
+AI tools can assist with repetitive or content-based tasks. Aim for a synergy where human
+creativity and AI efficiency come together to optimize productivity and produce high-quality
+results.
+
+
+---
 
 ## 3.3 - Working with the Chapter Browser
 
@@ -117,6 +119,9 @@ content more effectively. Reflect on previous iterations, building upon their st
 addressing any weaknesses or gaps that were identified. By incorporating lessons learned, you can
 refine your chapter iteratively.
 
+
+---
+
 ## 3.4 - Human and AI Tasks in Chapter Development
 
 ### 3.4.1 - Defining Specific Tasks
@@ -147,3 +152,4 @@ quality. Consider the strengths and limitations of each collaborator and distrib
 accordingly. Maintain a flexible approach, continually reassessing the workload distribution as the
 writing process evolves. Remember, finding the right balance between human and AI involvement is
 key to achieving the best results.
+
