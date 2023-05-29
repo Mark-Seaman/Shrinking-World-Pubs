@@ -1,0 +1,12 @@
+C - Outline Development
+
+Consider this [content]:
+
+[[A-Idea.md]]
+
+Expand this outline to add one level of detail by adding four subtopics to each topic.
+
+Limit each bullet point to 7 words.
+
+Produce output as markdown text.
+
