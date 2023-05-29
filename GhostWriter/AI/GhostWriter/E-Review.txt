@@ -1,0 +1,8 @@
+Draft Review
+
+Submit to Josiah for review and feedback.
+
+Then build an AI script to work from "D-Refine.md".
+
+Hand edit the results to produce the final output for this chapter.
+
