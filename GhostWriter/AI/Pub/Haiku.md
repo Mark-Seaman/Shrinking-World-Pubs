@@ -1,10 +1,7 @@
 # Haiku.md
 
-[<OpenAIObject at 0x107fe54a0> JSON: {
-  "finish_reason": "stop",
-  "index": 0,
-  "message": {
-    "content": "**Volcanic eruption:**\n\nFire and ash spew forth with force,  \nNature's power unleashed.",
-    "role": "assistant"
-  }
-}]
+A fiery mountain  
+Lava flows like rivers down  
+Nature's grandeur shown  
+
+- By OpenAI's GPT-3 language model, Language model: Davinci 1.0
