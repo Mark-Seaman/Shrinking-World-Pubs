@@ -3,7 +3,8 @@
 Hello investors,
 
 My name is Josiah Seaman and I am an entrepreneurial technologist excited to share with you the
-roadmap for my latest tech creation.
+roadmap for my latest tech creation. My Company Creative Contours specializes in creating technology for AI-generated artwork attribution.
+
 
 At the heart of this technology lies our commitment to providing significant advancements in the
 field of Artificial Intelligence (AI). Currently AI systems have no good way to attribute the value
