@@ -1,0 +1,21 @@
+
+{
+    "name": "",
+    "site_title": "",
+    "site_subtitle": "",
+    "domain": "https://shrinking-world.com",
+    "url": "/analytics",
+    "title": "",
+    "author": "Josiah Seaman",
+    "description": "",
+    "css": "/static/css/book.css",
+    "doc_path": "Documents/Shrinking-World-Pubs//Pub",
+    "image_path": "/static/images/Shrinking-World-Pubs/",
+    "cover_image": "/static/images/Shrinking-World-Pubs//Cover.png",
+    "cover_title": false,
+    "pub_type": "private",
+    "menu": "static/js/nav_blog.json",
+    "auto_contents": false,
+    "auto_index": true,
+    "simple_index": true
+}
