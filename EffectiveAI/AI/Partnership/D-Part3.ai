@@ -1,0 +1,31 @@
+[[Voice.ai]]
+
+
+Consider this [outline]:
+
+
+3 - Poor Prompt Engineering
+
+- AI performs its task by completely a thought that you start with a prompt
+- The AI thinks about the prompted subject and gives an answer that is typical of content it found
+in the training documents.
+- Prompt Engineering is the practice of learning how to prompt the AI to produce the results you
+want.
+- Parts of the prompt
+    - Set up the personality and voice
+        - eg. You are an expert teacher with a friendly style
+    - Control the format or the output 
+        - eg. markdown text, CSV data
+    - Set a content context
+        - eg. Teaching Python to highschool students
+        - eg. Climate crisis
+    - Assign a task
+        - eg. Create an outline with three levels about these ideas
+        - eg. Write a paragraph for each point in this outline
+- Build a library of reusable prompts
+
+
+Write a teaching article with around 250 words by expanding each bullet into a paragraph.
+
+Output as markdown.
+
