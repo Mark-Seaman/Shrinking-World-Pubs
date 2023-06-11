@@ -1,0 +1,19 @@
+{
+    "name": "innovation",
+    "site_title": "Effective Innovation",
+    "site_subtitle": "A Blueprint from the Ground Up",
+    "domain": "https://shrinking-world.com",
+    "url": "/innovation",
+    "title": "Effective Innovation",
+    "author": "Mark Seaman",
+    "description": "Finally I can get all of the answers I need",
+    "css": "/static/css/book.css",
+    "doc_path": "Documents/Shrinking-World-Pubs/Innovation/Pub",
+    "image_path": "/static/images/Shrinking-World-Pubs/Innovation",
+    "cover_image": "/static/images/Shrinking-World-Pubs/Innovation/Cover.png",
+    "cover_title": true,
+    "pub_type": "private",
+    "menu": "static/js/nav_blog.json",
+    "auto_contents": false,
+    "auto_index": false
+}

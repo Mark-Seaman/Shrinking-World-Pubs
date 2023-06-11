@@ -2,7 +2,19 @@
     "name": "cellbiology",
     "site_title": "Constructing Life",
     "site_subtitle": "A Blueprint from the Ground Up",
-    "url": "/MolecularCellBiology",
-    "author": "Josiah Seaman",
-    "description": "Textbook for molecular cell biology using engineering principles."
+    "domain": "https://shrinking-world.com",
+    "url": "/cellbiology",
+    "title": "Constructing Life",
+    "author": "Dr. Josiah Seaman",
+    "description": "Finally I can get all of the answers I need",
+    "css": "/static/css/book.css",
+    "doc_path": "Documents/Shrinking-World-Pubs/MolecularCellBiology/Pub",
+    "image_path": "/static/images/Shrinking-World-Pubs/MolecularCellBiology",
+    "cover_image": "/static/images/Shrinking-World-Pubs/MolecularCellBiology/Cover.png",
+    "cover_title": false,
+    "pub_type": "private",
+    "menu": "static/js/nav_blog.json",
+    "auto_contents": false,
+    "auto_index": true,
+    "simple_index": true
 }
