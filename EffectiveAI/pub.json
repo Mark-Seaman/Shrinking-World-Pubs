@@ -4,5 +4,15 @@
     "site_subtitle": "Create a Productive Partnership",
     "url": "/ai",
     "author": "Mark Seaman",
-    "description": "How to use AI to product higher quality and quantity work."
+    "description": "How to use AI to product higher quality and quantity work.",
+    "doc_path": "Documents/Shrinking-World-Pubs/EffectiveAI/Pub",
+    "css": "/static/css/book.css",
+    "image_path": "/static/images/shrinking-world.com/ai",
+    "cover_image": "/static/images/shrinking-world.com/tech-cover-400.png",
+    "cover_title": false,
+    "pub_type": "private",
+    "menu": "static/js/nav_blog.json",
+    "auto_contents": true,
+    "auto_index": true,
+    "simple_index": true
 }
