@@ -1,0 +1,18 @@
+{
+    "name": "poem",
+    "site_title": "A Seaman's Poems",
+    "site_subtitle": "From the Edge of Reality",
+    "domain": "https://seamansguide.com",
+    "url": "/poem",
+    "author": "Mark Seaman",
+    "title": "A Seaman's Poems",
+    "description": "What is poetry?  While prose seeks to enlighten, poetry seeks to inspire. \nAuthors speak the language of the head, but poets speak the language of the\nheart and the gut.  Words of logic are no match for words of passion.\n\nTwo views of reality ... one of the waking world ... one of the dream world. \nThe world is filled with issues of politics, economics, survival, and conflict.\nIn this domain the laws of science rule.  Cause and Effect, Quantum Mechanics,\nand Entropy.  Logic is king and every problem has a solution.\n\nBut there is another reality. When we sleep we enter another reality where\nspirits move. This reality is driven by emotion and instinct.  It is impossible\nto look at straight on.  But it is always in our peripheral vision.  It is the\ndomain of ecstasy and terror.  It is the reason to live,  yet this world\nthreatens our sanity if unaware or obsessed with it.",
+    "css": "/static/css/book.css",
+    "doc_path": "Documents/seamansguide.com/poem",
+    "image_path": "/static/images/seamansguide.com/poem",
+    "cover_title": false,
+    "cover_image": "/static/images/seamansguide.com/poem/poem-cover-400.png",
+    "pub_type": "book",
+    "menu": "static/js/nav_blog.json",
+    "auto_index": true
+}
