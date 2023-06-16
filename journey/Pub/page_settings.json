@@ -1,0 +1,15 @@
+{
+  "site_title": "A Seaman's Journey",
+  "site_subtitle": "Adventures of a Lifetime",
+  "site_url": "/journey",
+  "page_title": "Seaman's Journey",
+  "background-image": "/static/images/SWS_Logo_200.jpg",
+  "logo": "/static/images/MarkSeaman/Mark-Seaman-200.jpg",
+  "icon": "/static/favicon.ico",
+  "document": "Index.md",
+  "home": [
+    "Home",
+    "/journey/Index"
+  ],
+  "css": "/static/css/water.css"
+}
