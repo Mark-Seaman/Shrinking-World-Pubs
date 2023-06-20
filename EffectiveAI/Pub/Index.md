@@ -17,7 +17,5 @@
 
 * [Common Mistakes When Using AI](/ai/Mistakes.md)                              
 
-* [The AI Playbook: Tips and Tactics for Effective AI](/ai/Outline.md)          
-
 * [Writer's Guide to AI](/ai/Write.md)                                          
 
