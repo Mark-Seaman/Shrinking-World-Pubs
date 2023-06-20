@@ -1,0 +1,11 @@
+{
+    "site_title": "Writer's Block",
+    "site_subtitle": "Tips for Authors",
+    "site_url": "/seamanslog/write/Index",
+    "logo": "/static/images/MarkSeaman/Mark-Seaman-200.jpg",
+    "icon": "/static/favicon.ico",
+    "document": "Index.md",
+    "home": ["Writer's Block", "/write/Index"],
+    "css": "/static/css/water.css",
+    "settings": "page_settings.json"
+}
