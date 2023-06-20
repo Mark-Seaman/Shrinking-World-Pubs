@@ -1,0 +1,14 @@
+{
+    "name": "tech",
+    "site_title": "Tech Notes",
+    "site_subtitle": "Practical Software Development",
+    "url": "/tech",
+    "title": "Shrinking World Solutions",
+    "css": "/static/css/shrinking-world.css",
+    "doc_path": "Documents/shrinking-world.com/blog",
+    "image_path": "/static/images/Shrinking-World-Pubs/TechNotes",
+    "description": "Using technology to solve problems",
+    "cover_image": "/static/images/Shrinking-World-Pubs/TechNotes/Cover.png",
+    "menu": "static/js/nav_sw.json",
+    "auto_index": true
+}
