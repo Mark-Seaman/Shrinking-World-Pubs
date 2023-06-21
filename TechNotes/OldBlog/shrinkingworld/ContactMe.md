@@ -14,7 +14,7 @@
 <p><a href="https://www.amazon.com/Mark-D-Seaman/e/B0198U6JCA">
 Amazon Author Page</a></p>
 <p>Company: <a href="https://shrinking-world.com">Shrinking World Solutions</a></p>
-<p>Community: <a href="https://shrinking-world.com">Shrinking World I/O</a></p>
+<p>Community: <a href="https://shrinking-world.io">Shrinking World I/O</a></p>
 <p>School: <a href="https://shrinking-world.org">Shrinking World Training</a></p>
 <p>UNC Email: <a href="mailto:Mark.Seaman@unco.edu">Mark.Seaman@unco.edu</a></p>
 </div>
