@@ -1,0 +1,15 @@
+{
+    "name": "mark",
+    "site_title": "Mark Seaman",
+    "site_subtitle": "Inventor, Teacher, Writer",
+    "url": "/mark",
+    "description": "This blog is about the professional and personal life of Mark Seaman.",
+    "logo": "/static/images/MarkSeaman/Mark-Seaman-200.jpg",
+    "css": "/static/css/seamanslog.css",
+    "doc_path": "Documents/markseaman.org",
+    "image_path": "/static/images/MarkSeaman.org",
+    "cover_title": true,
+    "cover_image": "/static/images/MarkSeaman.org/mark-cover-400.png",
+    "author": "Mark Seaman",
+    "menu": "static/js/nav_blog.json"
+}
