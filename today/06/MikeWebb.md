@@ -8,5 +8,5 @@
 
 A Seaman's Journey
 
-[Read the Article](https://seamansguide.com/812)
+[Read the Article](https://seamansguide.com/810)
 
