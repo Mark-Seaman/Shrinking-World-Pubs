@@ -1,0 +1,18 @@
+{
+    "name": "ai",
+    "site_title": "AI Playbook",
+    "site_subtitle": "How to level-up with ChatGPT",
+    "url": "/ai",
+    "description": "How to produce higher quality and quantity work.",
+    "author": "Mark Seaman",
+    "css": "/static/css/book.css",
+    "doc_path": "Documents/Shrinking-World-Pubs/ai",
+    "image_path": "/static/images/shrinking-world.com/ai",
+    "cover_image": "/static/images/shrinking-world.com/tech-cover-400.png",
+    "cover_title": false,
+    "pub_type": "private",
+    "menu": "static/js/nav_blog.json",
+    "auto_contents": true,
+    "auto_index": true,
+    "simple_index": true
+}
