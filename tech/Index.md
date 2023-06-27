@@ -1,4 +1,4 @@
-# Tech Notes
+# Shrinking World Solutions
 
 
 ## [Shrinking World](/tech/shrinkingworld-Index.md)                            
