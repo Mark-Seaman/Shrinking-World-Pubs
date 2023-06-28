@@ -1,6 +1,6 @@
-# 
+# Effective AI
 
-* [](/ai/Index.md)                                                              
+* [Effective AI](/ai/Index.md)                                                  
 
 * [4 Keys to Effective AI](/ai/AIPlaybook.md)                                   
 

@@ -1,9 +1,9 @@
 {
     "name": "ai",
     "site_title": "AI Playbook",
-    "site_subtitle": "How to level-up with ChatGPT",
+    "site_subtitle": "Using ChatGPT for Creative Work",
     "url": "/ai",
-    "description": "How to produce higher quality and quantity work.",
+    "description": "How to produce higher quality and quantity simultaneously.",
     "author": "Mark Seaman",
     "css": "/static/css/book.css",
     "doc_path": "Documents/Shrinking-World-Pubs/ai",

@@ -1,4 +1,4 @@
-# Shrinking World Solutions
+# Software Engineering
 
 * [Software Engineering Theory & Application](/sweng/Title.md)                  
 
