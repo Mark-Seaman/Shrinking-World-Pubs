@@ -12,7 +12,7 @@
     "url": "/analytics",
     "logo": null,
     "words": 3273,
-    "cover_image": "/static/images/Shrinking-World-Pubs/GhostWriter/Cover.png",
+    "cover_image": "/static/images/Shrinking-World-Pubs/GhostWriter/Cover-800.png",
     "menu": "static/js/nav_blog.json",
     "pub_type": "private",
     "auto_remove": false,
