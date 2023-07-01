@@ -1,0 +1,20 @@
+# 1 - Idea Development
+
+# Chapter 3 - Ghost Writer Design
+
+To create a book or a single chapter requires several development steps.
+
+Ghost Writer provides advice and guideance for each step along the way.
+
+Every component in a publication should be built around a single idea. 
+This helps the writer and reader both to focus.
+
+Spend time crafting the best short explantion for the idea you wish to present.
+
+Record your idea in the file [[1.Idea.md]].
+
+Development of an idea: Idea, Outline, Draft, Refinement, publication.
+
+Human guideance and AI assistance throughout the process.
+
+Document browser shows artifacts for each chapter: Draft, Human notes, AI Prompts

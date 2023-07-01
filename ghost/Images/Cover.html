@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .book-cover {
+            position: relative;
+            width: 700px;
+            height: 1120px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .book-cover img {
+            width: 700px;
+            height: 1120px;
+        }
+
+        .book-overlay {
+            position: absolute;
+            top: 30%;
+            left: 10%;
+            width: 80%;
+            height: 30%;
+            background-color: rgba(0, 0, 0, 0.6);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .book-title {
+            font-size: 4rem;
+            font-weight: bold;
+            color: white;
+            margin-bottom: 0.5rem;
+        }
+
+        .book-author {
+            position: absolute;
+            top: 80%;
+            left: 10%;
+            font-size: 4rem;
+            color: white;
+            margin-bottom: 0.5rem;
+        }
+
+        .book-tagline {
+            font-size: 2.5rem;
+            color: white;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="book-cover">
+        <img src="./CoverImage.png" alt="Ghost Writer: Publishing for Authors">
+        <div class="book-overlay">
+            <h1 class="book-title">Ghost Writer</h1>
+            <p class="book-tagline">Publishing Platform for Authors</p>
+
+        </div>
+        <h2 class="book-author">Mark Seaman</h2>
+    </div>
+</body>
+
+</html>

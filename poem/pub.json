@@ -12,7 +12,7 @@
     "url": "/poem",
     "logo": null,
     "words": 16876,
-    "cover_image": "/static/images/seamansguide.com/poem/poem-cover-400.png",
+    "cover_image": "/static/images/seamansguide.com/poem/Cover-400.png",
     "menu": "static/js/nav_blog.json",
     "pub_type": "book",
     "auto_remove": false,

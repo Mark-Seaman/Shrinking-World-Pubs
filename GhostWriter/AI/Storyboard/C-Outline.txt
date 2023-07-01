@@ -1,9 +1,0 @@
-2 - Outline Development
-
-Building a good structure is essential for every chapter.
-
-Consider building an outline by expanding on the content created
-in the file [[1-Idea.md]]
-
-Use AI to recommend some draft text and review and update.
-

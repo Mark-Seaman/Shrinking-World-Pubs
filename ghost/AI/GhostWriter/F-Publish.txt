@@ -1,0 +1,19 @@
+This document will be published as Chapter 3 in "The Ultimate Writer's Guide" 
+
+
+It will be published as a stand-alone article on the "The Writer's Block" and "Tech Notes".
+
+It will be broken into 4 blog Posts for "Shrinking World I/O"
+
+    Development Lifecycle
+    Development Guidance: Human/AI Partnership
+    Working with the Chapter Browser
+    Human and AI Tasks in Chapter Development
+
+It will be turned into a Social Stream for 
+
+* Twitter
+* Linked In
+* Mastodon
+* Intstagram
+

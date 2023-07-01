@@ -1,9 +1,22 @@
-# Contact Info
 
-<div class="container card-panel">
-<div class="row m-3 p-5">
 
-<div class="col-md">
+
+<!-- <div class="card">
+<div class="card-header">
+</div>
+<div class="card-body">
+</div>
+</div>
+
+<div class="card">
+<div class="card-header">
+</div>
+<div class="card-body">
+</div>
+</div>
+
+</div>
+
 <h1>Mark Seaman</h1>
 <p>Email: mark.seaman@shrinking-world.com</p>
 
@@ -26,6 +39,6 @@ alt="Mark Seaman" width="300">
 </a>
 </div>
 
-</div>
-</div>
+</div> -->
+
 

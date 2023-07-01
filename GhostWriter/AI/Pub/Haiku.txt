@@ -1,4 +1,0 @@
-Building Haiku
-
-Writing haiku is a specific kind of poetry that follows the Japanese tradition.
-

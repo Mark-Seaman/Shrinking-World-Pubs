@@ -1,3 +1,16 @@
 Index.md,0
+<<<<<<< HEAD
 AI/Index.md,1
 Pub/Index.md,3
+=======
+AIPlaybook.md,1
+Autism.md,2
+Blog/Index.md,3
+Blog/AICoach.md,3,1
+Blog/MistakesPost.md,3,2
+Blog/PromptEngineering.md,3,3
+BuildPlaybook.md,4
+GettingStarted.md,5
+Mistakes.md,7
+Write.md,8
+>>>>>>> 16165daa5e2b33c84a56d57213f81d4485725ee6
