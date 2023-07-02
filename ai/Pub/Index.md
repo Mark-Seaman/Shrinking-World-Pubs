@@ -2,11 +2,6 @@
 
 * [AI Playbook](/ai/Index.md)                                                   
 
-<<<<<<< HEAD
-* [Document not found](/ai/AI-Index.md)                                         
-
-* [Document not found](/ai/Pub-Index.md)                                        
-=======
 * [4 Keys to Effective AI](/ai/AIPlaybook.md)                                   
 
 * [How Autism and AI Work for Me](/ai/Autism.md)                                
@@ -23,5 +18,4 @@
 * [Common Mistakes When Using AI](/ai/Mistakes.md)                              
 
 * [Writer's Guide to AI](/ai/Write.md)                                          
->>>>>>> 16165daa5e2b33c84a56d57213f81d4485725ee6
 
