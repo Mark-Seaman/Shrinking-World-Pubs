@@ -1,0 +1,22 @@
+# Life With God
+
+- Worship
+    - Trust
+    - Prayer
+    - Suffering
+    - Supernatural Experiences
+- Community
+    - Love
+    - Purpose of Church
+    - Embracing Culture
+    - Cheap Salvation
+- Teaching
+    - Nature of Truth
+    - Battle of Wills
+    - False Teachers
+    - Discernment
+- Discipleship
+    - Character Development
+    - Personal Fruit
+    - Spiritual Practices
+    - The Human Brain
