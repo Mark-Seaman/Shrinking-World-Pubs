@@ -8,7 +8,7 @@
 
 * [How to Organize Your Thoughts and Write Efficiently Using AI](/ai/Organize.md)
 
-* [Writing Techniques to Boost Productivity and Quality with AI](/ai/CoffeeShop.md)
+* [Writing Techniques](/ai/CoffeeShop.md)                                       
 
 * [Common Mistakes When Using AI](/ai/Mistakes.md)                              
 
