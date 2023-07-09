@@ -10,6 +10,10 @@
 
 * [Writing Techniques](/ai/CoffeeShop.md)                                       
 
+* [How AI Can Revolutionize the Writing Process](/ai/EditorialDesk.md)          
+
+* [Publish Your Masterpiece](/ai/Publishing.md)                                 
+
 * [Common Mistakes When Using AI](/ai/Mistakes.md)                              
 
 * [5 Keys to ChatGPT Prompt Engineering](/ai/PromptEngineering.md)              
