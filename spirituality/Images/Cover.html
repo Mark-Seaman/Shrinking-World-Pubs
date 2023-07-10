@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .book-cover {
+            position: relative;
+            width: 700px;
+            height: 1120px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .book-cover img {
+            width: 700px;
+            height: 1120px;
+        }
+
+        .book-overlay {
+            position: absolute;
+            top: 10%;
+            left: 10%;
+            width: 80%;
+            height: 25%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50px;
+        }
+
+        .book-title {
+            font-size: 4rem;
+            font-weight: bold;
+            color: white;
+            margin-bottom: 0rem;
+            margin-top: 0rem;
+        }
+
+        .book-tagline {
+            font-size: 2.5rem;
+            color: white;
+            margin-bottom: 1rem;
+        }
+
+        .book-author {
+            position: absolute;
+            top: 87%;
+            left: 10%;
+            font-size: 3rem;
+            color: white;
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="book-cover">
+        <img src="./CoverImage.jpg" alt="Life With God">
+        <div class="book-overlay">
+            <h1 class="book-title">Life With God</h1>
+            <p class="book-tagline">The Search for Authentic Spirituality</p>
+        </div>
+        <h2 class="book-author">Mark Seaman</h2>
+    </div>
+</body>
+
+</html>
