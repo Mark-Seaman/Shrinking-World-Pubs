@@ -1,8 +1,21 @@
 {
     "name": "spirituality",
-    "site_title": "spirituality",
-    "site_subtitle": "AI tools for Authors",
+    "site_title": "Life with God",
+    "site_subtitle": "The search for Authentic Spirituality",
     "url": "/spirituality",
     "author": "Mark Seaman",
-    "description": "How to produce higher quality and quantity work."
+    "description": "Experiencing God in everyday life.",
+    "image_path": "/static/images/Shrinking-World-Pubs/spirituality",
+    "css": "/static/css/shrinking-world.css",
+    "logo": null,
+    "words": 7526,
+    "cover_image": "/static/images/Shrinking-World-Pubs/spirituality/Cover.png",
+    "menu": "static/js/nav_sw.json",
+    "pub_type": "private",
+    "auto_remove": false,
+    "auto_contents": false,
+    "auto_index": true,
+    "index_folders": false,
+    "index_months": false,
+    "simple_index": true
 }
