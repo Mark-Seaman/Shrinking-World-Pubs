@@ -1,4 +1,4 @@
-# Life with God
+# Life With God
 
 When it comes to a life with God, there are a few key pillars that I always encourage people to
 focus on. These pillars are what help us have a deep and meaningful connection with our Creator,
@@ -29,3 +29,4 @@ In conclusion, a life with God is rich and fulfilling. It's about worship, commu
 discipleship. It's about embracing the truth and allowing God to transform us from the inside out.
 May we all prioritize these pillars in our own lives and experience the fullness of what it means
 to walk with God.
+
