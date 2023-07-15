@@ -6,7 +6,7 @@ by Mark Seaman
 ![Mark Seaman](img/Mark-Seaman-400.jpg)
 
 
-Mark Seaman is a highly experienced software developer with 43 years of experience in the field.
+Mark Seaman is a highly experienced software developer with over four decades of experience in the field.
 During his long and distinguished career, he has worked on a wide range of software development
 projects and has gained extensive knowledge of how to produce high-quality software effectively.
 
