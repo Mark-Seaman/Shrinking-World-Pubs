@@ -1,0 +1,12 @@
+Consider this [article]
+
+[[Transformation.md]]
+
+Create an outline for this subject with bullet lists.
+
+Select four main topics and expand each topic by adding four subtopics.
+
+Limit each bullet point to 7 words.
+
+Output as Markdown with levels as h1, h2, and ul.
+
