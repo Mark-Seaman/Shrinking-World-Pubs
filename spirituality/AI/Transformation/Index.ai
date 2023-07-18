@@ -1,0 +1,18 @@
+Consider this [outline]:
+
+[[Outline.md]]
+
+Select all the h2 headings of the outline.
+
+For each h2 create on item in the bullet list of hyperlinks.
+
+Select a one word title for each heading.
+
+Create a bullet list with markdown hyperlinks of the form '* [title](url)'.
+
+'URL' is formed by selecting one key word from the heading and appending '.md'.
+
+'title' is the heading text.
+
+Output the markdown text for the 'Index.md'.
+
