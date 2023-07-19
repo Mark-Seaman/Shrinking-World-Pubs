@@ -12,3 +12,13 @@
 
 * [Transformation](/spirituality/Transformation.md)                             
 
+* [Why personal transformation is essential](/spirituality/WhyTransform.md)     
+
+* [The Journey of Discovery](/spirituality/Journey.md)                          
+
+* [Authentic Living ](/spirituality/Authenticity.md)                            
+
+* [Transforming Power](/spirituality/Power.md)                                  
+
+* [The Ongoing Process ](/spirituality/Process.md)                              
+

@@ -30,7 +30,7 @@ Furthermore, personal transformation is an ongoing process. It is not a one-time
 lifelong journey of growth and renewal. It requires our willingness to continually surrender
 ourselves to God's leading and allow Him to shape us into the people He created us to be.
 
-In conclusion, personal transformation is not something to be taken lightly or dismissed as
+Personal transformation is not something to be taken lightly or dismissed as
 optional. It is at the very heart of spiritual authenticity and essential for living a life that is
 pleasing to God. As we embrace the process of personal transformation, we can experience a deeper
 sense of alignment with our true selves, a greater impact on the world around us, and a closer
