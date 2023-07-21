@@ -22,3 +22,11 @@
 
 * [The Ongoing Process ](/spirituality/Process.md)                              
 
+* [Unshakable Trust](/spirituality/Trust.md)                                    
+
+* [Communicating with God](/spirituality/Prayer.md)                             
+
+* [Walking with God through Pain](/spirituality/Suffering.md)                   
+
+* [Recognizing God in everyday life](/spirituality/Supernatural.md)             
+
