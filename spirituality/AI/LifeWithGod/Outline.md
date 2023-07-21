@@ -20,3 +20,9 @@
     - Personal Fruit
     - Spiritual Practices
     - The Human Brain
+- Personal Transformation
+    - Why transformation is essential
+    - The journey
+    - Authentic Living
+    - Power to transform
+    - The ongoing process
