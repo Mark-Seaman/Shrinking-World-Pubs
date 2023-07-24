@@ -6,11 +6,11 @@
 ### Specific insights
 ### Incomplete picture of reality
 
-## We each hear differently
-### We are built to hear certain things
+## Each person percieves things differently
+### We all have unique areas of insight and blind spots
 ### Genetics and Environment
-### Specific sensitivity
-### Awareness
+### Specific sensitivity and biases
+### Shapes our awareness
 
 ## We all have the mind of God
 ### Specific body parts

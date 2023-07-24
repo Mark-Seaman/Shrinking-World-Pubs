@@ -30,3 +30,13 @@
 
 * [Recognizing God in everyday life](/spirituality/Supernatural.md)             
 
+* [Hearing the Voices of God](/spirituality/GodsVoice.md)                       
+
+* [Every person hears from God](/spirituality/EachHears.md)                     
+
+* [Each Person has a Unique Perspective](/spirituality/HearDifferently.md)      
+
+* [The Mind of God within Us All](/spirituality/MindOfGod.md)                   
+
+* [Five Voices of God](/spirituality/FiveVoices.md)                             
+
