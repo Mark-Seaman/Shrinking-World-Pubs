@@ -30,7 +30,7 @@
 
 * [Recognizing God in everyday life](/spirituality/Supernatural.md)             
 
-* [Hearing the Voices of God](/spirituality/GodsVoice.md)                       
+* [Hearing the Voices of God](/spirituality/Discernment.md)                     
 
 * [Every person hears from God](/spirituality/EachHears.md)                     
 
@@ -39,4 +39,12 @@
 * [The Mind of God within Us All](/spirituality/MindOfGod.md)                   
 
 * [Five Voices of God](/spirituality/FiveVoices.md)                             
+
+* [Love](/spirituality/Love.md)                                                 
+
+* [Purpose of the Church](/spirituality/PurposeOfChurch.md)                     
+
+* [Embracing Culture](/spirituality/EmbracingCulture.md)                        
+
+* [Cheap Salvation](/spirituality/CheapSalvation.md)                            
 

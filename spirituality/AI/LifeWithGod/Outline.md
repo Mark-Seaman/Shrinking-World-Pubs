@@ -26,3 +26,9 @@
     - Authentic Living
     - Power to transform
     - The ongoing process
+- Discernment
+    - Every Person Hears from God
+    - Each Person has a Unique Perspective
+    - The Mind of God
+    - Five Voices of God
+ 

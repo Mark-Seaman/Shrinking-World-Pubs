@@ -6,7 +6,7 @@
 ### Specific insights
 ### Incomplete picture of reality
 
-## Each person percieves things differently
+## Each person perceives things differently
 ### We all have unique areas of insight and blind spots
 ### Genetics and Environment
 ### Specific sensitivity and biases

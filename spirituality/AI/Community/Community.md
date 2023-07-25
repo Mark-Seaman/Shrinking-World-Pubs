@@ -1,10 +1,6 @@
 # Community
 
-I firmly believe that we were not meant to walk this journey alone. God designed us for community,
-for relationships that are rooted in love and built on mutual support and encouragement. The church
-is the embodiment of that community, a place where we can come together to worship, learn, and grow
-together.
-Without love and connection to others, we are
+Community is at the heart of everything I believe. Without love and connection to others, we are
 left empty and alone. Love is not just a feeling, but a way of living. It is the true test of our
 maturity and character. 
 
@@ -28,6 +24,6 @@ to surrender our own desires and ambitions, in order to gain a life with God. It
 road, the road of obedience. We must remember that the King has a right to rule, and our ultimate
 purpose is to live in submission to His loving leadership. 
 
-Community, love, embracing culture, and rejecting cheap salvation are all essential to following God
-wholeheartedly. May we continue to seek His ways and grow in our understanding of what it means to
-live as His disciples in this world.
+Community, love, embracing culture, and rejecting cheap salvation are all essential
+to following God wholeheartedly. May we continue to seek His ways and grow in our understanding of
+what it means to live as His disciples in this world.

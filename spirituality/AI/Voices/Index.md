@@ -1,4 +1,4 @@
-# [Hearing the Voices of God](GodsVoice.md)
+# [Discernment](Discernment.md)
 
 * [Every Person Hears from God](EachHears.md)
 * [Each Person has a Unique Perspective](HearDifferently.md)
