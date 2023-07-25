@@ -1,4 +1,4 @@
-# Life With God
+# Essence of Life
 
 When it comes to a life with God, there are a few key pillars that I always encourage people to
 focus on. These pillars are what help us have a deep and meaningful connection with our Creator,

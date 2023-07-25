@@ -1,4 +1,4 @@
-# Hearing the Voices of God
+# Discernment
 
 As a firm believer in the interconnectedness of all people, I hold the belief that anyone can hear
 from God. It is not solely reserved for a select few or religious leaders. God speaks to us
