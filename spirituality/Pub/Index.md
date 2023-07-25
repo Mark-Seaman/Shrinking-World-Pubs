@@ -1,7 +1,7 @@
 # Life with God
 
 
-## [Essence of Life](/spirituality/LifeWithGod.md)                               
+## [Essence of Life](/spirituality/LifeWithGod.md)                             
 
 
 ## [Worship](/spirituality/Worship.md)                                         
