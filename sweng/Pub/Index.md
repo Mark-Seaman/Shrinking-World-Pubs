@@ -2,15 +2,17 @@
 
 * [Software Engineering Theory & Application](/sweng/Title.md)                  
 
-* [Book Cover](/sweng/Cover.md)                                                 
+* [Milestones for Web-based Software App](/sweng/Milestones.md)                 
 
-* [About the Author](/sweng/Author.md)                                          
+* [Software Development Roles](/sweng/Roles.md)                                 
 
-* [Software Apps for Course](/sweng/SoftwareApps.md)                            
+* [Job Description: Software Project Manager](/sweng/Requirements.md)           
 
-* [Milestones for Web-Based Software App](/sweng/Milestones.md)                 
+* [Job Description: Software Designer](/sweng/Design.md)                        
 
-* [ Software Engineering Textbook Outline](/sweng/Outline.md)                   
+* [Job Description: Software Engineer](/sweng/Code.md)                          
 
-* [Chapter 1: Introduction to Software Engineering](/sweng/01.md)               
+* [Job Description: QA Engineer](/sweng/Test.md)                                
+
+* [Milestone 1: Project Charter](/sweng/Milestone1.md)                          
 

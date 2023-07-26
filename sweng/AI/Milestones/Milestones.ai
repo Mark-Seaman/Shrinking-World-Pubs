@@ -1,10 +1,8 @@
-Consider this outline of development roles and deliverables on each milestone.
+Consider this table of development roles and milestone deliverables.
 
-[[Outline.md]]
+[[Table.md]]
 
-Use h1 for the title, h2 for the Development Role, and h3 for each Milestone and bullets for tasks.
+Create an outline with an h2 for each Milestone, and h3 for each Development Role.
 
-Label each milestone 'Milestone 1 - ___'  ...   'Milestone 7 - ___'
-
-Output as Markdown.
+Output as a Markdown outline.
 

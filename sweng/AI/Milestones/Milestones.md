@@ -1,162 +1,190 @@
-# Development Role Responsibility
+# Project Deliverables by Milestone
 
-## Project Manager - Requirements
+## Milestone 1: Project Charter
 
-### Milestone 1 - Project Charter
-- Define the business proposition.
-- Determine project scope and budget.
-- Communicate with the client.
-- Conduct Sprint Planning meetings.
+### Project Manager
+- Define project goals and objectives
+- Define project scope and deliverables
+- Identify project stakeholders
+- Develop project timeline and budget
 
-### Milestone 2 - Setup Communications
-- Configure communication tools for seamless collaboration.
-- Establish an initial product backlog.
-- Facilitate team communication.
-- Plan daily meetings for updates and progress reports.
+### Designer
+- Conduct user research and analysis
+- Create wireframes and prototypes
+- Develop visual design concepts
+- Collaborate with project manager on project goals and objectives
 
-### Milestone 3 - Functional Requirements
-- Identify missing requirements and address them.
-- Create a comprehensive product backlog.
-- Plan User Stories for development.
-- Seek customer review for feedback and validation.
+### Programmer
+- Evaluate technology options and make recommendations
+- Set up version control system
+- Develop coding standards and guidelines
+- Implement basic system architecture
 
-### Milestone 4 - Team Coordinator
-- Manage task Kanban for efficient workflow.
-- Prioritize feature requests based on customer needs.
-- Conduct sprint planning meetings to allocate resources effectively.
+### QA Engineer
+- Create test plan
+- Conduct initial testing of software components
+- Identify and report defects
+- Collaborate with project manager on project scope and requirements
 
-### Milestone 5 - Project Progress
-- Monitor project progress through burn down graphs.
-- Continually prioritize features according to business goals.
-- Update the product backlog with new requirements.
 
-### Milestone 6 - Issues Review
-- Define acceptance criteria for each feature.
-- Conduct release checkpoints to ensure quality.
-- Address any issues or bugs discovered.
+## Milestone 2: Setup Communications
 
-### Milestone 7 - First Maintenance Roll
-- Implement downtime management strategies.
-- Establish a maintenance plan for ongoing support.
-- Develop an upgrade strategy for future enhancements.
+### Project Manager
+- Set up team communication channels (e.g., Slack)
+- Define communication protocols and expectations
+- Establish regular team meetings
+- Facilitate effective communication between team members
 
-## Designer - Design
+### Designer
+- Create visual design assets
+- Collaborate with project manager on project communication plan
+- Provide design updates and progress reports
+- Seek feedback from team members and stakeholders
 
-### Milestone 1 - Technology Selection
-- Select appropriate development tools for the project.
-- Create a setup guide to assist the team with tool usage.
-- Create a "Hello World" prototype for testing.
-- Decide on the deployment strategy for the application.
+### Programmer
+- Establish communication with version control system
+- Collaborate with team members on software architecture decisions
+- Communicate progress and challenges with project manager
+- Seek feedback from team members and stakeholders
 
-### Milestone 2 - Software Architecture
-- Define the structure of the software application.
-- Develop data models for capturing and manipulating data.
-- Design views and wireframes to ensure a user-friendly interface.
-- Create a block diagram to visualize the overall system architecture.
+### QA Engineer
+- Collaborate with project manager on test infrastructure setup
+- Communicate test plan and strategy to team members
+- Provide regular updates on testing progress
+- Seek feedback from team members and stakeholders
 
-### Milestone 3 - Component Design - API
-- Develop a prototype of the core functionality.
-- Implement data models according to design specifications.
-- Design and implement views for user interaction.
-- Establish URL routes for seamless navigation.
 
-### Milestone 4 - Refactoring and Code Structure
-- Implement code analysis tools for quality assurance.
-- Create a diagram to illustrate the code structure and relationships.
-- Refine key APIs for optimal performance.
+## Milestone 3: Functional Requirements
 
-### Milestone 5 - Help with Code
-- Implement all required features based on design specifications.
-- Improve the overall code structure for maintainability.
-- Ensure high test quality through thorough testing.
+### Project Manager
+- Validate functional requirements with stakeholders
+- Update project timeline and budget based on requirements
+- Communicate changes to team members
+- Coordinate with designer and programmer for implementation
 
-### Milestone 6 - Resolve Open Design Issues
-- Assist with defect fixing and debugging.
-- Work with the team to complete all required tests.
-- Ensure high test quality through rigorous testing.
+### Designer
+- Translate functional requirements into component design - API
+- Seek feedback from project manager and stakeholders on design
+- Collaborate with programmer on implementation details
+- Provide design updates and progress reports
 
-### Milestone 7 - Design Future Enhancements
-- Create a plan for future upgrades and improvements.
-- Archive the finished design for reference.
-- Update design documents to reflect the latest changes.
+### Programmer
+- Implement incremental development using sprint methodology
+- Collaborate with designer on API implementation
+- Seek feedback from project manager and stakeholders on functionality
+- Communicate challenges and progress to team members
 
-## Programmer - Code
+### QA Engineer
+- Develop automated testing scripts based on functional requirements
+- Conduct regular testing and identify defects
+- Collaborate with programmer on bug fixes
+- Provide regular updates on testing progress
 
-### Milestone 1 - Version Control
-- Set up a Github account for code management.
-- Create a Github Pages repository for documentation.
-- Determine the publishing strategy for project documentation.
-- Develop a user guide for the development workflow.
 
-### Milestone 2 - Test-Driven Development Workflow
-- Build a simple application based on test requirements.
-- Create corresponding tests for each feature.
-- Document the workflow built around testing.
-- Host the application for easy access.
+## Milestone 4: Team Coordinator
 
-### Milestone 3 - Incremental Development (Sprints)
-- Select specific features to be implemented in each sprint.
-- Develop and implement the selected features.
-- Test the features for functionality and quality.
-- Address any defects or issues identified.
+### Project Manager
+- Coordinate team activities and tasks
+- Facilitate effective team communication and collaboration
+- Monitor project progress and identify risks
+- Provide support and guidance to team members
 
-### Milestone 4 - Write Code - Core Features
-- Implement User Stories according to requirements.
-- Follow a test-driven workflow for development.
-- Continually iterate through the implementation cycle: test, fix, extend, and improve.
-- Ensure all core features are implemented successfully.
+### Designer
+- Assist team members with design-related tasks
+- Collaborate with project manager on task prioritization
+- Seek feedback from team members on design decisions
+- Provide design updates and progress reports
 
-### Milestone 5 - Write Code - Functional Complete
-- Implement all required features for the application.
-- Follow a test-driven workflow for development.
-- Continually iterate through the implementation cycle: test, fix, extend, and improve.
+### Programmer
+- Support team members with code-related challenges
+- Collaborate with project manager on task estimation and prioritization
+- Seek feedback from team members on coding practices
+- Provide progress updates on code development
 
-### Milestone 6 - Write Code - Debug
-- Extend test cases to cover all functionalities.
-- Work with burn-down graphs to track progress.
-- Implement regression test cases for thorough testing.
+### QA Engineer
+- Assist team members with testing-related tasks
+- Collaborate with project manager on task allocation and prioritization
+- Seek feedback from team members on testing strategies
+- Provide regular updates on testing progress
 
-### Milestone 7 - Write Code - Fix Issues
-- Close all remaining issues and defects.
-- Complete any missing tests or test cases.
-- Follow a release checklist for quality assurance.
 
-## QA Engineer - Test
+## Milestone 5: Project Progress
 
-### Milestone 1 - Test Plan
-- Develop an outline for testing each aspect of the application.
-- Set up a structured framework for conducting tests.
-- Log any issues or bugs discovered during testing.
-- Document the process for logging issues and reporting them.
+### Project Manager
+- Monitor project progress and identify areas for improvement
+- Conduct regular team meetings to discuss project status
+- Communicate project updates to stakeholders
+- Provide support and guidance to team members
 
-### Milestone 2 - Test Infrastructure
-- Implement a unit test framework for validating individual components.
-- Establish a system testing framework for end-to-end functionality testing.
-- Include regression testing to ensure no existing features are affected.
-- Conduct one view test and one data test for thorough coverage.
+### Designer
+- Provide assistance and support to team members
+- Collaborate with project manager on project evaluation
+- Seek feedback from team members on design improvements
+- Provide design updates and progress reports
 
-### Milestone 3 - Automated Testing
-- Design a workflow for test-driven development.
-- Develop unit tests to validate individual components.
-- Conduct system testing to ensure seamless integration.
-- Measure code coverage of tests to ensure comprehensive testing.
+### Programmer
+- Review code and provide feedback to team members
+- Collaborate with project manager on project evaluation
+- Seek feedback from team members on code improvements
+- Provide progress updates on code development
 
-### Milestone 4 - Continuous Integration
-- Automate the build and test process with every code push.
-- Implement a Continuous Integration (CI) tool, such as Travis, to streamline the process.
+### QA Engineer
+- Conduct acceptance testing and provide feedback to team members
+- Collaborate with project manager on project evaluation
+- Seek feedback from team members on testing improvements
+- Provide regular updates on testing progress
 
-### Milestone 5 - Acceptance Testing
-- Collaborate with the Requirements Specialist to understand customer needs.
-- Identify any unmet customer requirements and address them.
-- Develop client acceptance tests to ensure satisfaction.
 
-### Milestone 6 - Issue Tracking
-- Establish a systematic workflow for managing issues.
-- Track metrics such as the number of issues found, fixed, and outstanding.
-- Test resolved issues to ensure they have been successfully addressed.
-- Close issues that pass the validation tests.
+## Milestone 6: Issues Review
 
-### Milestone 7 - Software Release
-- Define criteria for a successful release.
-- Create a maintenance plan for ongoing support and updates.
-- Manage the server environment to ensure smooth operation.
+### Project Manager
+- Review project issues and challenges
+- Identify root causes and develop action plans
+- Coordinate with team members to resolve issues
+- Communicate issue resolutions to stakeholders
+
+### Designer
+- Review design-related issues and challenges
+- Collaborate with project manager on issue resolution
+- Seek feedback from team members on design improvements
+- Provide design updates and progress reports
+
+### Programmer
+- Review code-related issues and challenges
+- Collaborate with project manager on issue resolution
+- Seek feedback from team members on code improvements
+- Provide progress updates on code development
+
+### QA Engineer
+- Review testing-related issues and challenges
+- Collaborate with project manager on issue resolution
+- Seek feedback from team members on testing improvements
+- Provide regular updates on testing progress
+
+
+## Milestone 7: First Maintenance Roll
+
+### Project Manager
+- Coordinate maintenance activities and tasks
+- Monitor maintenance progress and identify risks
+- Provide support and guidance to team members
+- Communicate maintenance updates to stakeholders
+
+### Designer
+- Assist team members with maintenance-related design tasks
+- Collaborate with project manager on task allocation and prioritization
+- Seek feedback from team members on design improvements
+- Provide design updates and progress reports
+
+### Programmer
+- Support team members with maintenance-related code challenges
+- Collaborate with project manager on task allocation and prioritization
+- Seek feedback from team members on code improvements
+- Provide progress updates on code maintenance
+
+### QA Engineer
+- Assist team members with maintenance-related testing tasks
+- Collaborate with project manager on task allocation and prioritization
+- Seek feedback from team members on testing improvements
+- Provide regular updates on testing progress
+
