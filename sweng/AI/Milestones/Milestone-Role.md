@@ -1,4 +1,7 @@
+# Project Deliverables by Milestone
+
 ## Milestone 1: Project Charter
+
 ### Project Manager
 - Define project goals and objectives
 - Define project scope and deliverables
@@ -23,7 +26,9 @@
 - Identify and report defects
 - Collaborate with project manager on project scope and requirements
 
+
 ## Milestone 2: Setup Communications
+
 ### Project Manager
 - Set up team communication channels (e.g., Slack)
 - Define communication protocols and expectations
@@ -48,7 +53,9 @@
 - Provide regular updates on testing progress
 - Seek feedback from team members and stakeholders
 
+
 ## Milestone 3: Functional Requirements
+
 ### Project Manager
 - Validate functional requirements with stakeholders
 - Update project timeline and budget based on requirements
@@ -73,7 +80,9 @@
 - Collaborate with programmer on bug fixes
 - Provide regular updates on testing progress
 
+
 ## Milestone 4: Team Coordinator
+
 ### Project Manager
 - Coordinate team activities and tasks
 - Facilitate effective team communication and collaboration
@@ -98,7 +107,9 @@
 - Seek feedback from team members on testing strategies
 - Provide regular updates on testing progress
 
+
 ## Milestone 5: Project Progress
+
 ### Project Manager
 - Monitor project progress and identify areas for improvement
 - Conduct regular team meetings to discuss project status
