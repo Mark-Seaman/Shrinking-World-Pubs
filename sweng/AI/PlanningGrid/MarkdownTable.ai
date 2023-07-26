@@ -1,0 +1,750 @@
+Consider this data representing project deliverables by milestone and role.
+
+
+{
+    "course": "bacs350",
+    "title": "CS350 - Software Engineering",
+    "path": "Documents/course/bacs350",
+    "num_units": 7,
+    "num_lessons_per_unit": 5,
+    "num_projects_per_unit": 1,
+    "lessons": {
+        "table": [
+            [
+                {
+                    "url": "01.md",
+                    "lesson": 1,
+                    "title": "Milestone #1 - Project Plan Complete",
+                    "style": "cell-dark",
+                    "milestone": "Milestone #1 - Project Plan Complete",
+                    "details": "Milestone #1 - Project Plan Complete",
+                    "delivery": null
+                },
+                {
+                    "url": "02.md",
+                    "lesson": 2,
+                    "title": "Requirements - Project Plan Complete",
+                    "style": "cell-blue",
+                    "milestone": "Milestone #1 - Project Plan Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 0,
+                        "role_name": "Project Manager - Requirements",
+                        "deliverable": "Project Charter",
+                        "details": [
+                            "Business proposition",
+                            "Project scope & budget",
+                            "Client communication",
+                            "Sprint Planning meetings"
+                        ],
+                        "milestone": 0,
+                        "milestone_name": "Milestone #1 - Project Plan Complete"
+                    }
+                },
+                {
+                    "url": "03.md",
+                    "lesson": 3,
+                    "title": "Design - Project Plan Complete",
+                    "style": "cell-green",
+                    "milestone": "Milestone #1 - Project Plan Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 1,
+                        "role_name": "Designer - Design",
+                        "deliverable": "Technology selection",
+                        "details": [
+                            "Select Development Tools",
+                            "Infrastructure - Frameworks & Tools",
+                            "Setup Guide",
+                            "Create \"Hello World\"",
+                            "Decide on App deployment"
+                        ],
+                        "milestone": 0,
+                        "milestone_name": "Milestone #1 - Project Plan Complete"
+                    }
+                },
+                {
+                    "url": "04.md",
+                    "lesson": 4,
+                    "title": "Code - Project Plan Complete",
+                    "style": "cell-orange",
+                    "milestone": "Milestone #1 - Project Plan Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 2,
+                        "role_name": "Programmer - Code",
+                        "deliverable": "Version control",
+                        "details": [
+                            "Setup Github account",
+                            "Setup Github Pages repository",
+                            "Decide how to publish your project docs",
+                            "User Guide for development workflow"
+                        ],
+                        "milestone": 0,
+                        "milestone_name": "Milestone #1 - Project Plan Complete"
+                    }
+                },
+                {
+                    "url": "05.md",
+                    "lesson": 5,
+                    "title": "Test - Project Plan Complete",
+                    "style": "cell-red",
+                    "milestone": "Milestone #1 - Project Plan Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 3,
+                        "role_name": "QA Engineer - Test",
+                        "deliverable": "Test Plan",
+                        "details": [
+                            "Outline of testing that will be used",
+                            "Setup structure for testing",
+                            "Log issues",
+                            "Document how to log issues"
+                        ],
+                        "milestone": 0,
+                        "milestone_name": "Milestone #1 - Project Plan Complete"
+                    }
+                },
+                {
+                    "url": "06.md",
+                    "lesson": 6,
+                    "title": "Special Topic #1",
+                    "style": "cell-light",
+                    "milestone": "Milestone #1 - Project Plan Complete",
+                    "details": "No Special details",
+                    "delivery": null
+                }
+            ],
+            [
+                {
+                    "url": "07.md",
+                    "lesson": 7,
+                    "title": "Milestone #2 - Technology Proven",
+                    "style": "cell-dark",
+                    "milestone": "Milestone #2 - Technology Proven",
+                    "details": "Milestone #2 - Technology Proven",
+                    "delivery": null
+                },
+                {
+                    "url": "08.md",
+                    "lesson": 8,
+                    "title": "Requirements - Technology Proven",
+                    "style": "cell-blue",
+                    "milestone": "Milestone #2 - Technology Proven",
+                    "details": null,
+                    "delivery": {
+                        "role": 0,
+                        "role_name": "Project Manager - Requirements",
+                        "deliverable": "Setup communications",
+                        "details": [
+                            "Configure communication tools",
+                            "Team communication",
+                            "Plan daily meetings"
+                        ],
+                        "milestone": 1,
+                        "milestone_name": "Milestone #2 - Technology Proven"
+                    }
+                },
+                {
+                    "url": "09.md",
+                    "lesson": 9,
+                    "title": "Design - Technology Proven",
+                    "style": "cell-green",
+                    "milestone": "Milestone #2 - Technology Proven",
+                    "details": null,
+                    "delivery": {
+                        "role": 1,
+                        "role_name": "Designer - Design",
+                        "deliverable": "Software Architecture",
+                        "details": [
+                            "Apps = Data + Views",
+                            "Data models",
+                            "Views and wireframes"
+                        ],
+                        "milestone": 1,
+                        "milestone_name": "Milestone #2 - Technology Proven"
+                    }
+                },
+                {
+                    "url": "10.md",
+                    "lesson": 10,
+                    "title": "Code - Technology Proven",
+                    "style": "cell-orange",
+                    "milestone": "Milestone #2 - Technology Proven",
+                    "details": null,
+                    "delivery": {
+                        "role": 2,
+                        "role_name": "Programmer - Code",
+                        "deliverable": "Test-driven development workflow",
+                        "details": [
+                            "Build simple app",
+                            "Build simple test",
+                            "Document workflow built around tests"
+                        ],
+                        "milestone": 1,
+                        "milestone_name": "Milestone #2 - Technology Proven"
+                    }
+                },
+                {
+                    "url": "11.md",
+                    "lesson": 11,
+                    "title": "Test - Technology Proven",
+                    "style": "cell-red",
+                    "milestone": "Milestone #2 - Technology Proven",
+                    "details": null,
+                    "delivery": {
+                        "role": 3,
+                        "role_name": "QA Engineer - Test",
+                        "deliverable": "Test Infrastructure",
+                        "details": [
+                            "Unit test framework",
+                            "System testing framework",
+                            "Regression testing"
+                        ],
+                        "milestone": 1,
+                        "milestone_name": "Milestone #2 - Technology Proven"
+                    }
+                },
+                {
+                    "url": "12.md",
+                    "lesson": 12,
+                    "title": "Special Topic #2",
+                    "style": "cell-light",
+                    "milestone": "Milestone #2 - Technology Proven",
+                    "details": "No Special details",
+                    "delivery": null
+                }
+            ],
+            [
+                {
+                    "url": "13.md",
+                    "lesson": 13,
+                    "title": "Milestone #3 - Core Features Implemented",
+                    "style": "cell-dark",
+                    "milestone": "Milestone #3 - Core Features Implemented",
+                    "details": "Milestone #3 - Core Features Implemented",
+                    "delivery": null
+                },
+                {
+                    "url": "14.md",
+                    "lesson": 14,
+                    "title": "Requirements - Core Features Implemented",
+                    "style": "cell-blue",
+                    "milestone": "Milestone #3 - Core Features Implemented",
+                    "details": null,
+                    "delivery": {
+                        "role": 0,
+                        "role_name": "Project Manager - Requirements",
+                        "deliverable": "Functional requirements",
+                        "details": [
+                            "Plan User Stories",
+                            "Customer review"
+                        ],
+                        "milestone": 2,
+                        "milestone_name": "Milestone #3 - Core Features Implemented"
+                    }
+                },
+                {
+                    "url": "15.md",
+                    "lesson": 15,
+                    "title": "Design - Core Features Implemented",
+                    "style": "cell-green",
+                    "milestone": "Milestone #3 - Core Features Implemented",
+                    "details": null,
+                    "delivery": {
+                        "role": 1,
+                        "role_name": "Designer - Design",
+                        "deliverable": "Component Design - API",
+                        "details": [
+                            "Prototype - development spike of core functionality",
+                            "Implement data models",
+                            "Implement views",
+                            "Implement URL routes"
+                        ],
+                        "milestone": 2,
+                        "milestone_name": "Milestone #3 - Core Features Implemented"
+                    }
+                },
+                {
+                    "url": "16.md",
+                    "lesson": 16,
+                    "title": "Code - Core Features Implemented",
+                    "style": "cell-orange",
+                    "milestone": "Milestone #3 - Core Features Implemented",
+                    "details": null,
+                    "delivery": {
+                        "role": 2,
+                        "role_name": "Programmer - Code",
+                        "deliverable": "Incremental development (Sprints)",
+                        "details": [
+                            "Select features for sprint",
+                            "Implement the features",
+                            "Test the features",
+                            "Fix all defects"
+                        ],
+                        "milestone": 2,
+                        "milestone_name": "Milestone #3 - Core Features Implemented"
+                    }
+                },
+                {
+                    "url": "17.md",
+                    "lesson": 17,
+                    "title": "Test - Core Features Implemented",
+                    "style": "cell-red",
+                    "milestone": "Milestone #3 - Core Features Implemented",
+                    "details": null,
+                    "delivery": {
+                        "role": 3,
+                        "role_name": "QA Engineer - Test",
+                        "deliverable": "Automated testing",
+                        "details": [
+                            "Unit testing",
+                            "System testing",
+                            "Code coverage of tests"
+                        ],
+                        "milestone": 2,
+                        "milestone_name": "Milestone #3 - Core Features Implemented"
+                    }
+                },
+                {
+                    "url": "18.md",
+                    "lesson": 18,
+                    "title": "Special Topic #3",
+                    "style": "cell-light",
+                    "milestone": "Milestone #3 - Core Features Implemented",
+                    "details": "No Special details",
+                    "delivery": null
+                }
+            ],
+            [
+                {
+                    "url": "19.md",
+                    "lesson": 19,
+                    "title": "Milestone #4 - Functionality Complete",
+                    "style": "cell-dark",
+                    "milestone": "Milestone #4 - Functionality Complete",
+                    "details": "Milestone #4 - Functionality Complete",
+                    "delivery": null
+                },
+                {
+                    "url": "20.md",
+                    "lesson": 20,
+                    "title": "Requirements - Functionality Complete",
+                    "style": "cell-blue",
+                    "milestone": "Milestone #4 - Functionality Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 0,
+                        "role_name": "Project Manager - Requirements",
+                        "deliverable": "Team coordinator",
+                        "details": [
+                            "Task Kanban",
+                            "Prioritize feature requests",
+                            "Sprint planning"
+                        ],
+                        "milestone": 3,
+                        "milestone_name": "Milestone #4 - Functionality Complete"
+                    }
+                },
+                {
+                    "url": "21.md",
+                    "lesson": 21,
+                    "title": "Design - Functionality Complete",
+                    "style": "cell-green",
+                    "milestone": "Milestone #4 - Functionality Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 1,
+                        "role_name": "Designer - Design",
+                        "deliverable": "Refactoring and code structure",
+                        "details": [
+                            "Create code analysis tools",
+                            "Draw diagram of code structure",
+                            "Refine key APIs"
+                        ],
+                        "milestone": 3,
+                        "milestone_name": "Milestone #4 - Functionality Complete"
+                    }
+                },
+                {
+                    "url": "22.md",
+                    "lesson": 22,
+                    "title": "Code - Functionality Complete",
+                    "style": "cell-orange",
+                    "milestone": "Milestone #4 - Functionality Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 2,
+                        "role_name": "Programmer - Code",
+                        "deliverable": "Write code - core features",
+                        "details": [
+                            "Implement User Stories",
+                            "Test-driven workflow",
+                            "Implementation Cycle - Test, Fix, Extend, Improve",
+                            "Implement all core features"
+                        ],
+                        "milestone": 3,
+                        "milestone_name": "Milestone #4 - Functionality Complete"
+                    }
+                },
+                {
+                    "url": "23.md",
+                    "lesson": 23,
+                    "title": "Test - Functionality Complete",
+                    "style": "cell-red",
+                    "milestone": "Milestone #4 - Functionality Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 3,
+                        "role_name": "QA Engineer - Test",
+                        "deliverable": "Continuous integration",
+                        "details": [
+                            "Build and test with every push",
+                            "Implement Travis (CI tool)"
+                        ],
+                        "milestone": 3,
+                        "milestone_name": "Milestone #4 - Functionality Complete"
+                    }
+                },
+                {
+                    "url": "24.md",
+                    "lesson": 24,
+                    "title": "Special Topic #4",
+                    "style": "cell-light",
+                    "milestone": "Milestone #4 - Functionality Complete",
+                    "details": "No Special details",
+                    "delivery": null
+                }
+            ],
+            [
+                {
+                    "url": "25.md",
+                    "lesson": 25,
+                    "title": "Milestone #5 - Test Complete",
+                    "style": "cell-dark",
+                    "milestone": "Milestone #5 - Test Complete",
+                    "details": "Milestone #5 - Test Complete",
+                    "delivery": null
+                },
+                {
+                    "url": "26.md",
+                    "lesson": 26,
+                    "title": "Requirements - Test Complete",
+                    "style": "cell-blue",
+                    "milestone": "Milestone #5 - Test Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 0,
+                        "role_name": "Project Manager - Requirements",
+                        "deliverable": "Project progress",
+                        "details": [
+                            "Burn down graph",
+                            "Prioritize Features",
+                            "Product backlog"
+                        ],
+                        "milestone": 4,
+                        "milestone_name": "Milestone #5 - Test Complete"
+                    }
+                },
+                {
+                    "url": "27.md",
+                    "lesson": 27,
+                    "title": "Design - Test Complete",
+                    "style": "cell-green",
+                    "milestone": "Milestone #5 - Test Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 1,
+                        "role_name": "Designer - Design",
+                        "deliverable": "Help with Code",
+                        "details": [
+                            "Implement all required features",
+                            "Improve code structure",
+                            "Ensure test quality"
+                        ],
+                        "milestone": 4,
+                        "milestone_name": "Milestone #5 - Test Complete"
+                    }
+                },
+                {
+                    "url": "28.md",
+                    "lesson": 28,
+                    "title": "Code - Test Complete",
+                    "style": "cell-orange",
+                    "milestone": "Milestone #5 - Test Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 2,
+                        "role_name": "Programmer - Code",
+                        "deliverable": "Write code - functional complete",
+                        "details": [
+                            "Implement all features",
+                            "Test-driven workflow",
+                            "Implementation Cycle - Test, Fix, Extend, Improve"
+                        ],
+                        "milestone": 4,
+                        "milestone_name": "Milestone #5 - Test Complete"
+                    }
+                },
+                {
+                    "url": "29.md",
+                    "lesson": 29,
+                    "title": "Test - Test Complete",
+                    "style": "cell-red",
+                    "milestone": "Milestone #5 - Test Complete",
+                    "details": null,
+                    "delivery": {
+                        "role": 3,
+                        "role_name": "QA Engineer - Test",
+                        "deliverable": "Acceptance testing",
+                        "details": [
+                            "Work with Requirements specialist",
+                            "Identify unmet customer needs",
+                            "Develop client acceptance test"
+                        ],
+                        "milestone": 4,
+                        "milestone_name": "Milestone #5 - Test Complete"
+                    }
+                },
+                {
+                    "url": "30.md",
+                    "lesson": 30,
+                    "title": "Special Topic #5",
+                    "style": "cell-light",
+                    "milestone": "Milestone #5 - Test Complete",
+                    "details": "No Special details",
+                    "delivery": null
+                }
+            ],
+            [
+                {
+                    "url": "31.md",
+                    "lesson": 31,
+                    "title": "Milestone #6 - Release",
+                    "style": "cell-dark",
+                    "milestone": "Milestone #6 - Release",
+                    "details": "Milestone #6 - Release",
+                    "delivery": null
+                },
+                {
+                    "url": "32.md",
+                    "lesson": 32,
+                    "title": "Requirements - Release",
+                    "style": "cell-blue",
+                    "milestone": "Milestone #6 - Release",
+                    "details": null,
+                    "delivery": {
+                        "role": 0,
+                        "role_name": "Project Manager - Requirements",
+                        "deliverable": "Issues Review",
+                        "details": [
+                            "Acceptance criteria",
+                            "Release checkpoint"
+                        ],
+                        "milestone": 5,
+                        "milestone_name": "Milestone #6 - Release"
+                    }
+                },
+                {
+                    "url": "33.md",
+                    "lesson": 33,
+                    "title": "Design - Release",
+                    "style": "cell-green",
+                    "milestone": "Milestone #6 - Release",
+                    "details": null,
+                    "delivery": {
+                        "role": 1,
+                        "role_name": "Designer - Design",
+                        "deliverable": "Resolve open design issues",
+                        "details": [
+                            "Assist with defect fixing",
+                            "Assist with completion of tests",
+                            "Ensure test quality"
+                        ],
+                        "milestone": 5,
+                        "milestone_name": "Milestone #6 - Release"
+                    }
+                },
+                {
+                    "url": "34.md",
+                    "lesson": 34,
+                    "title": "Code - Release",
+                    "style": "cell-orange",
+                    "milestone": "Milestone #6 - Release",
+                    "details": null,
+                    "delivery": {
+                        "role": 2,
+                        "role_name": "Programmer - Code",
+                        "deliverable": "Write code - debug",
+                        "details": [
+                            "Extend test cases",
+                            "Work with burn-down graph",
+                            "Implement regression test cases"
+                        ],
+                        "milestone": 5,
+                        "milestone_name": "Milestone #6 - Release"
+                    }
+                },
+                {
+                    "url": "35.md",
+                    "lesson": 35,
+                    "title": "Test - Release",
+                    "style": "cell-red",
+                    "milestone": "Milestone #6 - Release",
+                    "details": null,
+                    "delivery": {
+                        "role": 3,
+                        "role_name": "QA Engineer - Test",
+                        "deliverable": "Issue tracking",
+                        "details": [
+                            "Issues management workflow",
+                            "Track metrics for issue found, fixed, outstanding",
+                            "Test resolved issue",
+                            "Close issues that pass test"
+                        ],
+                        "milestone": 5,
+                        "milestone_name": "Milestone #6 - Release"
+                    }
+                },
+                {
+                    "url": "36.md",
+                    "lesson": 36,
+                    "title": "Special Topic #6",
+                    "style": "cell-light",
+                    "milestone": "Milestone #6 - Release",
+                    "details": "No Special details",
+                    "delivery": null
+                }
+            ],
+            [
+                {
+                    "url": "37.md",
+                    "lesson": 37,
+                    "title": "Milestone #7 - First Upgrade",
+                    "style": "cell-dark",
+                    "milestone": "Milestone #7 - First Upgrade",
+                    "details": "Milestone #7 - First Upgrade",
+                    "delivery": null
+                },
+                {
+                    "url": "38.md",
+                    "lesson": 38,
+                    "title": "Requirements - First Upgrade",
+                    "style": "cell-blue",
+                    "milestone": "Milestone #7 - First Upgrade",
+                    "details": null,
+                    "delivery": {
+                        "role": 0,
+                        "role_name": "Project Manager - Requirements",
+                        "deliverable": "First maintenance roll",
+                        "details": [
+                            "Downtime management",
+                            "Maintenace plan",
+                            "Upgrade strategy"
+                        ],
+                        "milestone": 6,
+                        "milestone_name": "Milestone #7 - First Upgrade"
+                    }
+                },
+                {
+                    "url": "39.md",
+                    "lesson": 39,
+                    "title": "Design - First Upgrade",
+                    "style": "cell-green",
+                    "milestone": "Milestone #7 - First Upgrade",
+                    "details": null,
+                    "delivery": {
+                        "role": 1,
+                        "role_name": "Designer - Design",
+                        "deliverable": "Design future enhancements",
+                        "details": [
+                            "Create plan for product upgrade",
+                            "Archive the finish design",
+                            "Update design documents"
+                        ],
+                        "milestone": 6,
+                        "milestone_name": "Milestone #7 - First Upgrade"
+                    }
+                },
+                {
+                    "url": "40.md",
+                    "lesson": 40,
+                    "title": "Code - First Upgrade",
+                    "style": "cell-orange",
+                    "milestone": "Milestone #7 - First Upgrade",
+                    "details": null,
+                    "delivery": {
+                        "role": 2,
+                        "role_name": "Programmer - Code",
+                        "deliverable": "Write code - fix issues",
+                        "details": [
+                            "Close all remaining issues",
+                            "Complete all missing tests",
+                            "Release checklist"
+                        ],
+                        "milestone": 6,
+                        "milestone_name": "Milestone #7 - First Upgrade"
+                    }
+                },
+                {
+                    "url": "41.md",
+                    "lesson": 41,
+                    "title": "Test - First Upgrade",
+                    "style": "cell-red",
+                    "milestone": "Milestone #7 - First Upgrade",
+                    "details": null,
+                    "delivery": {
+                        "role": 3,
+                        "role_name": "QA Engineer - Test",
+                        "deliverable": "Software Release",
+                        "details": [
+                            "Release criteria",
+                            "Maintenance plan",
+                            "Server management"
+                        ],
+                        "milestone": 6,
+                        "milestone_name": "Milestone #7 - First Upgrade"
+                    }
+                },
+                {
+                    "url": "42.md",
+                    "lesson": 42,
+                    "title": "Special Topic #7",
+                    "style": "cell-light",
+                    "milestone": "Milestone #7 - First Upgrade",
+                    "details": "No Special details",
+                    "delivery": null
+                }
+            ]
+        ],
+        "headings": [
+            {
+                "title": "Project Milestones",
+                "style": "cell-light"
+            },
+            {
+                "title": "Requirements",
+                "style": "cell-light"
+            },
+            {
+                "title": "Design",
+                "style": "cell-light"
+            },
+            {
+                "title": "Code",
+                "style": "cell-light"
+            },
+            {
+                "title": "Test",
+                "style": "cell-light"
+            },
+            {
+                "title": "Other Topics",
+                "style": "cell-light"
+            }
+        ]
+    }
+}
+
+Create a markdown table that shows the deliverable for each cell.
+

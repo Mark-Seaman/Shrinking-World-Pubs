@@ -8,4 +8,4 @@ Pivot the data to organize it by Milestone and then Role.
 
 Output as Markdown.
 
-Use h1,h2,h3 and bullets.
+Use h1 for the title, h2 for each Milestone, and h3 for the Development Role and bullets for tasks.

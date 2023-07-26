@@ -1,4 +1,4 @@
-# Milestones for Web-Based Software App
+# Milestones for Web-based Software App
 
 
 ## Milestone 1: Requirements Gathering and Analysis
@@ -45,7 +45,7 @@ needed. We will also monitor the performance and usage of the app to identify an
 for improvement.
 
 
-## Milestone 7: Project Closeout
+## Milestone 7: Project Release
 
 In this milestone, we will conduct a project review and analyze the project performance. We will
 document any lessons learned and prepare a final report. We will celebrate our successes and
