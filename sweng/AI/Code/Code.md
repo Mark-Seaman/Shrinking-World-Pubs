@@ -6,7 +6,7 @@ We are seeking a highly skilled and motivated Software Engineer to join our dyna
 
 To succeed in this role, you should have:
 
-- Bachelor’s degree in Computer Science or a related field
+- Bachelor's degree in Computer Science or a related field
 - Proven experience as a Software Engineer, with at least 3 years of professional experience
 - Strong understanding of software development principles and methodologies
 - Proficiency in programming languages such as Java, C++, or Python

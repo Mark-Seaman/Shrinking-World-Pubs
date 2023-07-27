@@ -25,7 +25,7 @@ The programmer brings technical expertise to the project. They evaluate technolo
 
 ### Test
 
-The QA engineer’s role is critical in ensuring the quality of the software. They create a test plan, which outlines the testing approach and objectives. By conducting initial testing of the software components, they identify and report defects. Collaboration with the project manager is essential to ensure that the project scope and requirements are being met. The QA engineer serves as the gatekeeper for quality, ensuring that the software meets the desired standards.
+The QA engineer's role is critical in ensuring the quality of the software. They create a test plan, which outlines the testing approach and objectives. By conducting initial testing of the software components, they identify and report defects. Collaboration with the project manager is essential to ensure that the project scope and requirements are being met. The QA engineer serves as the gatekeeper for quality, ensuring that the software meets the desired standards.
 
 
 ## Development Criteria - Milestone 1: Project Charter

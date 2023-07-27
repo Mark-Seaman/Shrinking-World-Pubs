@@ -23,6 +23,10 @@
 
 ## [Discipleship](/spirituality/Discipleship.md)                               
 
+* [The Human Brain](/spirituality/HumanBrain.md)                                
+* [Character Development](/spirituality/Character.md)                           
+* [Personal Fruit](/spirituality/Fruit.md)                                      
+* [Spiritual Practices](/spirituality/Practices.md)                             
 
 ## [Transformation](/spirituality/Transformation.md)                           
 

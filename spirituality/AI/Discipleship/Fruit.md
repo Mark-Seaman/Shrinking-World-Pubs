@@ -1,0 +1,15 @@
+# Personal Fruit
+
+As a follower of Jesus, I believe in the importance of cultivating personal inner qualities in our lives. These qualities, are the characteristics that we possess and express to both ourselves and others. They play a crucial role in how we serve ourselves and serve others in a meaningful and impactful way.
+
+Our mental perspective should be marked by love, joy, and peace. This mentality is essential for true discipleship.  Without it we will be stuck in harmful thought patterns that blind us
+to reality.
+
+Love allows us to genuinely care for ourselves and others, motivating us to act with compassion and kindness. Joy brings a sense of inner contentment and happiness, regardless of the circumstances we may face. Peace grants us a calm and tranquil state of mind, even in the midst of chaos and turmoil.
+
+The spiritual fruit is demonstrated by how we relate to others. Patience enables us to be understanding and tolerant, even in difficult situations or with challenging people. Kindness encourages us to be considerate and helpful towards others, treating them with dignity and respect. Gentleness allows us to interact with others in a tender and nurturing manner, creating an atmosphere of warmth and safety.
+
+Other aspects of fruit in our lives govern our motivation.
+Goodness motivates us to do what is right and just, even when it might be difficult or unpopular. Faithfulness enables us to be reliable and trustworthy, staying true to our commitments and promises. Self-control empowers us to have discipline and restraint in our actions and choices, resisting temptations and living in alignment with our values.
+
+By intentionally cultivating and embodying these personal fruit in our lives, we not only become the best versions of ourselves, but we also have the ability to positively impact the lives of others. Through love, joy, peace, patience, kindness, gentleness, goodness, faithfulness, and self-control, we can create a loving and harmonious world. In this world, we are able to serve ourselves and serve others with genuine care and compassion.
