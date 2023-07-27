@@ -1,6 +1,8 @@
 # Software Engineering
 
-* [Software Engineering Theory & Application](/sweng/Title.md)                  
+* [Document not found](/sweng/LearningSkills.md)                                
+
+* [Planning Grid](/sweng/PlanningGrid.md)                                       
 
 * [Milestones for Web-based Software App](/sweng/Milestones.md)                 
 
