@@ -1,20 +1,25 @@
 # Software Engineering
 
-* [Document not found](/sweng/LearningSkills.md)                                
 
+## [Software Engineering Theory & Application](/sweng/Overview.md)             
+
+* [Software Development Life Cycle](/sweng/LifeCycle.md)                        
+* [Milestones for Web-based Software App](/sweng/Milestones.md)                 
+* [Software Development Roles](/sweng/Roles.md)                                 
 * [Planning Grid](/sweng/PlanningGrid.md)                                       
 
-* [Milestones for Web-based Software App](/sweng/Milestones.md)                 
-
-* [Software Development Roles](/sweng/Roles.md)                                 
+## [Responsibilities in a Software Development Project](/sweng/DevRoles.md)    
 
 * [Job Description: Software Project Manager](/sweng/Requirements.md)           
-
 * [Job Description: Software Designer](/sweng/Design.md)                        
-
 * [Job Description: Software Engineer](/sweng/Code.md)                          
-
 * [Job Description: QA Engineer](/sweng/Test.md)                                
 
-* [Milestone 1: Project Charter](/sweng/Milestone1.md)                          
+## [Software Application Team Project](/sweng/TeamProject.md)                  
 
+* [Application Project](/sweng/Application.md)                                  
+* [Software Application Team Project](/sweng/Assignments.md)                    
+
+## [Software Project Milestones](/sweng/MilestoneDetails.md)                   
+
+* [Milestone 1: Project Charter](/sweng/Milestone1.md)                          
