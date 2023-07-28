@@ -4,24 +4,21 @@ by Mark Seaman
 
 ---
 
-## Textbook on Software Engineering
+## About the Course - Software Engineering Skills
 
-## About the Book
-
-This textbook has been designed to cover the fundamental concepts and practices of software
+This course has been designed to cover the fundamental concepts and practices of software
 engineering, making it suitable for both college courses and as a reference for practicing
-engineers. The textbook's comprehensive coverage of software engineering topics, including software
+engineers. The course's comprehensive coverage of software engineering topics, including software
 design, construction, maintenance, project management, and emerging trends, will provide a solid
 foundation for students to become proficient software engineers.
 
-For practicing engineers, this textbook can serve as a valuable resource for updating their
-knowledge and improving their software development practices. The text provides a detailed overview
+For practicing engineers, this course can serve as a valuable resource for updating their
+knowledge and improving their software development practices. This provides a detailed overview
 of software engineering processes, tools, and techniques that can be applied in real-world
-scenarios to develop reliable, efficient, and scalable software systems. Additionally, the emerging
-trends chapter provides insight into the latest developments in software engineering, helping
-engineers stay up-to-date with the latest technology and practices.
+scenarios to develop reliable, efficient, and scalable software systems. 
 
-* [About the Author](Author) 
+During this course engineers will build an application that requires learning the engineering
+techniques that go beyond writing code.
 
 
 ## Theory and Application
@@ -63,3 +60,24 @@ teamwork, and critical thinking.
 By providing students with hands-on experience, teachers can help students bridge the gap between
 theory and practice. This approach allows students to develop a deeper understanding of the
 theoretical concepts and see how they can be applied in real-world scenarios. 
+
+
+## Overview of Software Engineering
+
+Software engineering is the application of engineering principles to the design, development, and
+maintenance of software. It is a discipline that combines knowledge from computer science,
+mathematics, and engineering to produce high-quality software products.  Software Engineers need to
+possess a broad set of skills, including technical expertise, analytical and problem-solving
+skills, communication and collaboration skills, and project management skills. 
+
+The field of software engineering has evolved significantly over the years, driven by the demand for
+better software products and the need to manage the complexity of software systems. Software
+engineering involves various processes, tools, and techniques that enable software developers to
+create software that meets user requirements, is reliable, scalable, and maintainable. These
+processes include requirements analysis, design, implementation, testing, and maintenance.
+
+
+Software Engineering encompasses a wide range of activities, including project planning, risk
+management, quality assurance, configuration management, and documentation. Software engineering is
+essential for the development of reliable, efficient, and scalable software systems that meet the
+needs of users and organizations. 

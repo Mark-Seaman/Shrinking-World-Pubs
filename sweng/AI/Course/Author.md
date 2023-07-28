@@ -1,10 +1,6 @@
-# About the Author
-
-by Mark Seaman
-
+# About the Author & Teacher
 
 ![Mark Seaman](img/Mark-Seaman-400.jpg)
-
 
 Mark Seaman is a highly experienced software developer with over four decades of experience in the field.
 During his long and distinguished career, he has worked on a wide range of software development
@@ -35,3 +31,4 @@ teaching and writing, makes him a valuable resource for anyone interested in lea
 produce high-quality software effectively. His contributions to the field have helped to shape the
 software engineering profession and will continue to inspire and guide future generations of
 software engineers.
+

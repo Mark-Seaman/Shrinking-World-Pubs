@@ -2,6 +2,7 @@
 
 We are seeking a highly skilled and motivated Software Engineer to join our dynamic team. As a Software Engineer, your primary responsibility will be to deliver high-quality software solutions by following industry best practices and applying your extensive knowledge.
 
+
 ## Qualifications and Experience
 
 To succeed in this role, you should have:
@@ -15,6 +16,7 @@ To succeed in this role, you should have:
 - Knowledge of software testing and debugging techniques
 - Excellent problem-solving and analytical skills
 - Strong written and verbal communication skills
+
 
 ## Responsibilities
 

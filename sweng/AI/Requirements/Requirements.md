@@ -41,3 +41,28 @@ As a Software Project Manager, you will be responsible for leading and overseein
 ## How to Apply:
 
 If you are passionate about software project management and possess the necessary qualifications and experience, we would love to hear from you. Please submit your resume and a cover letter highlighting your relevant experience and why you are a good fit for this role.
+
+---
+
+
+### Software Requirements
+
+Software Requirements are the foundation of software development. Requirements define what the
+software system should do and how it should behave. Requirements can be classified into different
+types, including functional requirements, non-functional requirements, and domain requirements.
+
+Functional requirements describe the software system's behavior and functionality, such as user
+interfaces, data processing, and business rules. Non-functional requirements describe the software
+system's quality attributes, such as performance, reliability, usability, and security. Domain
+requirements describe the specific characteristics of the application domain, such as regulations,
+standards, and best practices.
+
+Requirements engineering is the process of eliciting, analyzing, specifying, validating, and
+managing requirements. Requirements engineering involves collaboration between stakeholders, such
+as users, customers, developers, and testers. Conclusion
+
+Requirements engineering is an essential aspect of software engineering because it lays the
+foundation for the entire software development process. Poorly defined requirements can lead to
+software products that do not meet user needs, are unreliable, and difficult to maintain.
+Therefore, requirements engineering must be done carefully, and software requirements must be
+documented, validated, and verified throughout the software development life cycle. 
