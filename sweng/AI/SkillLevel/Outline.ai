@@ -1,0 +1,154 @@
+# Skill Level
+
+Learning a skill is an exponential effort.  
+There are five levels of experience.  
+
+Skills levels: L1-Novice, L2-Beginner, L3-Competent, L4-Proficient, L5-Expert
+
+To get to level 5 requires 10000 hours. 
+
+Create a formula that shows the effort required for each level of skill.
+
+    Experience = (10 ^ Skill_level) Hours of Practice
+
+---
+
+Skills levels: L1-Novice, L2-Beginner, L3-Competent, L4-Proficient, 5L-Expert
+
+Project Effort Required: L1-2000 hours, L3-500 hours, L5-100
+
+Skill Level 1 = 0.1 * (10 ^ 1) = 1 hour
+Skill Level 2 = 0.1 * (10 ^ 2) = 10 hours
+Skill Level 3 = 0.1 * (10 ^ 3) = 100 hours
+Skill Level 4 = 0.1 * (10 ^ 4) = 1000 hours
+Skill Level 5 = 0.1 * (10 ^ 5) = 10000 hours
+
+Experience = (10 ^ Skill_level) Hours of Practice
+
+
+Create a CSV text block with each row being the Skill Level at the beginning of the project.
+Column one is the skill level.
+Column two is the number of hours of practice to gain the skill level.
+
+    Skill Level,Hours of Practice to Gain Skill Level
+    1,1
+    2,10
+    3,100
+    4,1000
+    5,10000
+
+Add a column to show to skill level after the hours in column 2.
+
+Show the Skill Level over the course of 20000 hours of practice.
+
+---
+
+Productivity
+
+Work Units/Hour
+
+* Level 1 = 1 unit/hours
+* Level 2 = 2 unit/hours
+* Level 3 = 4 unit/hours
+* Level 4 = 8 unit/hours
+* Level 5 = 16 unit/hours
+
+Productivity is measured in Units/Hours of effort.
+
+Calculate a formula for productivity (units/hour)
+
+    P(S) = 2^(S-1)
+
+---
+
+Create a CSV text block with each row being the Skill Level at the beginning of the project.
+Column one is the skill level.
+Column two is Productivity
+
+    Skill Level,Productivity (Units/Hours of Effort)
+    1,1 unit per hour
+    2,2 units per hour
+    3,4 units per hour
+    4,8 units per hour
+    5,16 units per hour
+
+---
+
+Combine tables
+
+    Skill Level,Hours of Practice to Gain Skill Level
+    1,1
+    2,10
+    3,100
+    4,1000
+    5,10000
+
+    Skill Level,Productivity (Units/Hours of Effort)
+    1,1 unit per hour
+    2,2 units per hour
+    3,4 units per hour
+    4,8 units per hour
+    5,16 units per hour
+
+
+Add a Column to show the Units produced in this stage.
+
+---
+
+Skill Level,Hours of Practice to Gain Skill Level,Productivity (Units/Hours of Effort),Units Produced
+1,1,1 unit per hour,1 unit
+2,10,2 units per hour,20 units
+3,100,4 units per hour,400 units
+4,1000,8 units per hour,8000 units
+5,10000,16 units per hour,160000 units
+
+---
+
+Add column to show cumulative hours.
+Add column to show cumulative Units produced.
+
+
+Skill Level,Hours of Practice to Gain Skill Level,Productivity (Units/Hours of Effort),Units Produced,Cumulative Hours,Cumulative Units Produced
+1,1,1 unit per hour,1 unit,1,1
+2,10,2 units per hour,20 units,11,21
+3,100,4 units per hour,400 units,111,421
+4,1000,8 units per hour,8000 units,1111,8421
+5,10000,16 units per hour,160000 units,11111,168421
+
+---
+
+Add column to show cumulative productivity
+
+Skill Level,Hours of Practice to Gain Skill Level,Productivity (Units/Hours of Effort),Units Produced,Cumulative Hours,Cumulative Units Produced,Cumulative Productivity (Units/Hours)
+1,1,1 unit per hour,1 unit,1,1,1 unit per hour
+2,10,2 units per hour,20 units,11,21,2.1 units per hour
+3,100,4 units per hour,400 units,111,421,3.78 units per hour
+4,1000,8 units per hour,8000 units,1111,8421,7.21 units per hour
+5,10000,16 units per hour,160000 units,11111,168421,14.40 units per hour
+
+---
+
+Each level is achieved by gaining experience
+
+    Experience = (10 ^ Skill_level) Hours of Practice
+
+Add a column showing the experience required
+
+
+---
+
+As Effort is spent the skill level increases at the following rate.
+
+Skill Level 1 = 0.1 * (10 ^ 1) = 1 hour
+Skill Level 2 = 0.1 * (10 ^ 2) = 10 hours
+Skill Level 3 = 0.1 * (10 ^ 3) = 100 hours
+Skill Level 4 = 0.1 * (10 ^ 4) = 1000 hours
+Skill Level 5 = 0.1 * (10 ^ 5) = 10000 hours
+
+---
+
+Create a CSV text block with each row being the Skill Level at the beginning of the project.
+
+
+Column two contains the Effort Assuming that learning occurs from the project experience.
+
