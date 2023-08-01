@@ -23,3 +23,10 @@
 ## [Software Project Milestones](/sweng/MilestoneDetails.md)                   
 
 * [Milestone 1: Project Charter](/sweng/Milestone1.md)                          
+
+## [How Experience Affects Productivity](/sweng/Productivity.md)               
+
+* [Learning and Doing](/sweng/LearningDoing.md)                                 
+* [Experience is Learned Skills](/sweng/Experience.md)                          
+* [Stages of Experience: Navigating the Path to Success](/sweng/Stages.md)      
+* [Quantified Learning: Enhancing Skill Development](/sweng/QuantifiedLearning.md)
