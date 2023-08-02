@@ -1,0 +1,19 @@
+# Technology Selection
+
+Consider this description.
+
+    Ghost Writer is an application for authors that dramatically increases productivity by
+    calling the Open AI API with prompts.  The author develops AI prompts and edits the resulting
+    files together in a seamless workflow.
+
+Our project has 7 milestones. 
+
+During milestone 1 we must select the technology that will be used on this project.  
+
+Compare web frameworks: React, Django, Express, Angular
+
+Suggest a rationale for the choices.
+
+Select a technology for the Ghost Writer software project.  
+
+Output as Markdown with h2 headings.

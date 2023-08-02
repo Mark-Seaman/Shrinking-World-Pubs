@@ -1,0 +1,10 @@
+## Project Charter
+
+Prometa is a seminary for Spanish students (Doctoral, Masters, Undergrad).
+The Student Information System is designed to manage all of the course registration tasks.
+It will serve different users: student, registrar, professor, sysadmin.
+It is being developed by Shrinking World Solutions and will be released Sep 1, 2023. 
+
+Create a project charter for the Student Information System software project.  
+
+Output text as Markdown with h1, h2, h3, ol, and bold.

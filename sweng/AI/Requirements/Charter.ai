@@ -1,0 +1,9 @@
+## Project Charter
+
+Ghost Writer is an application for authors that dramatically increases productivity by
+calling the Open AI API with prompts.  The author develops AI prompts and edits the resulting
+files together in a seamless workflow.
+
+Create a project charter for the Ghost Writer software project.  
+
+Output text as Markdown with h1, h2, h3, ol, and bold.
