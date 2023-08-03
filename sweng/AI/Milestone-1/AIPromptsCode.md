@@ -37,19 +37,19 @@ Pattern the code repo structure after this directory tree
 
     .
     ├── Documents
-    │   ├── AI
-    │   ├── Code
-    │   ├── Communication
-    │   ├── Design
-    │   ├── DevOps
-    │   ├── Requirements
-    │   └── Test
+    │   ├── AI
+    │   ├── Code
+    │   ├── Communication
+    │   ├── Design
+    │   ├── DevOps
+    │   ├── Requirements
+    │   └── Test
     ├── config
     ├── data
     ├── register
-    │   ├── management
-    │   ├── migrations
-    │   └── templates
+    │   ├── management
+    │   ├── migrations
+    │   └── templates
     └── static
         ├── css
         ├── images
