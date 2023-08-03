@@ -4,5 +4,5 @@
     Use simple language and short explanations.
     Output text in markdown using h1, h2, h3, b, ul.
     
-    Explain Student.objects.values() and model_to_dict(student)
+    Explain values and dictionary
 
