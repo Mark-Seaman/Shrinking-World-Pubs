@@ -1,0 +1,47 @@
+Playbook.md,AI Playbook for web app development
+Tools.md,    Tools Setup
+Frameworks.md,        Compare Web Frameworks
+Development.md,        Plan for Django Development Tools
+Python.md,        Setup Python & Django
+VSCode.md,        Setup Visual Studio Code
+Github.md,        Setup Github Repo
+VSCGit.md,        Integrate VS Code and Github
+Hosting.md,    App Hosting
+DigitalOcean.md,        Digital Ocean
+StaticServer.md,        App Platform - Static Server
+DjangoApp.md,        App Platform - Django App
+Deployment.md,        Deployment with Github
+DatabaseSetup.md,        Database Setup
+AppSpec.md,        App Spec YAML File
+AppStructure.md,    App Structure
+Settings.md,        Settings
+Views.md,        Views
+Templates.md,        Templates
+URLs.md,        URLs
+ViewInheritance.md,        View Inheritance
+TemplateEngine.md,        Template Engine
+DataInViews.md,        Data in Views
+DataViews.md,        Data Views
+ViewWidgets.md,        View Widgets
+ViewInheritance.md,        View Inheritance
+TabbedView.md,        Tabbed View
+AccordionView.md,        Accordion View
+CarouselView.md,        Carousel View
+Composite Views.md,        Composite Views
+ORM.md,        Database & ORM
+Data Models.md,        Data Models
+CRUD.md,        CRUD Operations
+Filter.md,        filter attributes
+OrderBy.md,        order_by
+ValuesDict.md,        values and dictionary
+SimpleUnitTests.md,        Simple Unit Tests
+DataTests.md,        Data Tests
+ViewTests.md,        View Tests
+ManagementCommands.md,        Custom Management Commands
+SystemTests.md,        System Tests
+Devops.md,    Devops
+ProductionSettings.md,        Production Settings
+ProductionDatabase.md,        Production Database
+SecretSettings.md,        Secret Settings
+DeploymentScript.md,        Deployment Script
+ContinuousIntegration.md,        Continuous Integration
