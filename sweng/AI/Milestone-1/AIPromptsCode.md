@@ -1,4 +1,4 @@
-# AI Playbook: Design Prompts - Milestone 1
+# AI Playbook: Code Prompts - Milestone 1
 
 ## Milestone 1: Code Role
 

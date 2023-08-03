@@ -1,4 +1,4 @@
-# AI Playbook: Design Prompts - Milestone 1
+# AI Playbook: Test Prompts - Milestone 1
 
 ## Milestone 1: Test Role
 
@@ -14,8 +14,7 @@ Consider this description.
 
 Create a test plan document
 
-Collaborate with other teams to align devops activities
-
+---
 
 ## Setup the application hosting service
 
@@ -23,6 +22,10 @@ Write a set of instructions for setting up the Django App at Digital Ocean
 
 ---
 
+## Server Deployment
+
 Create instructions for code updates on Digital Ocean server
+
+Collaborate with other teams to align devops activities
 
 ---
