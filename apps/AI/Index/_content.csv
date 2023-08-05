@@ -40,9 +40,10 @@ Data.md,38
 ORM.md,38,39
 DataModels.md,38,40
 CRUD.md,38,41
-Filter.md,38,42
+DataViews.md,38,42
 OrderBy.md,38,43
 ValuesDict.md,38,44
+Filter.md,38,45
 Test.md,45
 SimpleUnitTests.md,45,46
 DataTests.md,45,47
