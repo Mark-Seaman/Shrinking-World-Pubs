@@ -1,8 +1,18 @@
 {
     "name": "apps",
-    "site_title": "apps",
-    "site_subtitle": "AI tools for Authors",
+    "site_title": "AI Playbook for App Developers",
+    "site_subtitle": "Software on Demand",
     "url": "/apps",
     "author": "Mark Seaman",
-    "description": "How to produce higher quality and quantity work."
+    "description": "How to produce software using ChatGPT.",
+    "css": "/static/css/book.css",
+    "doc_path": "Documents/Shrinking-World-Pubs/apps/Pub",
+    "image_path": "/static/images/Shrinking-World-Pubs/apps",
+    "cover_image": "/static/images/Shrinking-World-Pubs/apps/Cover-800.png",
+    "cover_title": false,
+    "pub_type": "private",
+    "menu": "static/js/nav_blog.json",
+    "auto_contents": false,
+    "auto_index": true,
+    "simple_index": true
 }
