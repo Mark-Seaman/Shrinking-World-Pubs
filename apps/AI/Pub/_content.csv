@@ -1,5 +1,5 @@
-AI Playbook: Web Apps.md,None,0
-Playbook.md,None,1
+WebApps.md,0
+Playbook.md,1
 UsingPlaybook.md,2
 PromptEngineering.md,2,3
 Progression.md,2,4
@@ -35,14 +35,15 @@ ViewInheritance.md,30,33
 TabbedView.md,30,34
 AccordionView.md,30,35
 CarouselView.md,30,36
-CompositeViews.md,30,37
+Composite Views.md,30,37
 Data.md,38
 ORM.md,38,39
 DataModels.md,38,40
 CRUD.md,38,41
-Filter.md,38,42
+DataViews.md,38,42
 OrderBy.md,38,43
 ValuesDict.md,38,44
+Filter.md,38,45
 Test.md,45
 SimpleUnitTests.md,45,46
 DataTests.md,45,47

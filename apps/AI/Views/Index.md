@@ -1,4 +1,4 @@
-# Chapter 30 - Views
+## Chapter 6 - Views
 
 * [Views.md](Views.md)
 * [DataInViews.md](DataInViews.md)
