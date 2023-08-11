@@ -1,9 +1,9 @@
-## Chapter 3 - Tools
+## Chapter 2 - Tools Setup
 
-* [Tools.md](Tools.md)
-* [Frameworks.md](Frameworks.md)
-* [Development.md](Development.md)
-* [Python.md](Python.md)
-* [VSCode.md](VSCode.md)
-* [Github.md](Github.md)
-* [VSCGit.md](VSCGit.md)
+* [Tools Setup](Tools)
+* [Compare Web Frameworks](Frameworks)
+* [Plan for Django Development Tools](Development)
+* [Setup Python & Django](Python)
+* [Setup Visual Studio Code](VSCode)
+* [Setup Github Repo](Github)
+* [Integrate VS Code and Github](VSCGit)

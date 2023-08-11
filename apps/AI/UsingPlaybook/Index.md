@@ -1,9 +1,9 @@
-## Chapter 2 - UsingPlaybook
+## Chapter 1 - Using This Playbook
 
-* [UsingPlaybook.md](UsingPlaybook.md)
-* [PromptEngineering.md](PromptEngineering.md)
-* [Progression.md](Progression.md)
-* [Strategy.md](Strategy.md)
-* [Workflow.md](Workflow.md)
-* [UseWhatWorks.md](UseWhatWorks.md)
-* [LearningTool.md](LearningTool.md)
+* [Using This Playbook](UsingPlaybook)
+* [Problem - Prompts - Prompt Engineering](PromptEngineering)
+* [Move from the Small to the Ginormous](Progression)
+* [Develop Your Own Strategy](Strategy)
+* [Build the Workflow](Workflow)
+* [Use What Works](UseWhatWorks)
+* [ChatGPT as a Universal Learning Tool](LearningTool)

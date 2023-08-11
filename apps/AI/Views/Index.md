@@ -1,10 +1,10 @@
-## Chapter 6 - Views
+## Chapter 5 - Views
 
-* [Views.md](Views.md)
-* [DataInViews.md](DataInViews.md)
-* [ViewWidgets.md](ViewWidgets.md)
-* [ViewInheritance.md](ViewInheritance.md)
-* [TabbedView.md](TabbedView.md)
-* [AccordionView.md](AccordionView.md)
-* [CarouselView.md](CarouselView.md)
-* [Composite Views.md](Composite Views.md)
+* [Views](Views)
+* [Data in Views](DataInViews)
+* [View Widgets](ViewWidgets)
+* [View Inheritance](ViewInheritance)
+* [Tabbed View](TabbedView)
+* [Accordion View](AccordionView)
+* [Carousel View](CarouselView)
+* [Composite Views](CompositeViews)

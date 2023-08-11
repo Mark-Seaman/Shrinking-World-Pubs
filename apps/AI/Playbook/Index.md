@@ -1,3 +1,3 @@
-## Chapter 1 - Playbook
+## Chapter 0 - AI Playbook for web app development
 
-* [Playbook.md](Playbook.md)
+* [AI Playbook for web app development](Playbook)
