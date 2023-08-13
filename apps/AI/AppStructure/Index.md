@@ -1,9 +1,9 @@
-## Chapter 5 - AppStructure
+## Chapter 4 - App Structure
 
-* [AppStructure.md](AppStructure.md)
-* [Settings.md](Settings.md)
-* [Views.md](Views.md)
-* [Templates.md](Templates.md)
-* [URLs.md](URLs.md)
-* [ViewInheritance.md](ViewInheritance.md)
-* [TemplateEngine.md](TemplateEngine.md)
+* [App Structure](AppStructure)
+* [Settings](Settings)
+* [Views](Views)
+* [Templates](Templates)
+* [URLs](URLs)
+* [View Inheritance](ViewInheritance)
+* [Template Engine](TemplateEngine)

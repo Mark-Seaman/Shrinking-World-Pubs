@@ -1,8 +1,8 @@
-## Chapter 9 - Devops
+## Chapter 8 - Devops
 
-* [Devops.md](Devops.md)
-* [ProductionSettings.md](ProductionSettings.md)
-* [ProductionDatabase.md](ProductionDatabase.md)
-* [SecretSettings.md](SecretSettings.md)
-* [DeploymentScript.md](DeploymentScript.md)
-* [ContinuousIntegration.md](ContinuousIntegration.md)
+* [Devops](Devops)
+* [Production Settings](ProductionSettings)
+* [Production Database](ProductionDatabase)
+* [Secret Settings](SecretSettings)
+* [Deployment Script](DeploymentScript)
+* [Continuous Integration](ContinuousIntegration)

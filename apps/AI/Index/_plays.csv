@@ -1,57 +1,56 @@
-AI Playbook: Web Apps.md, Playbook: Web Apps,AI Playbook: Web Apps
-Playbook.md,laybook for web app development,AI Playbook for web app development
-UsingPlaybook.md,Using This Playbook,Using This Playbook
-PromptEngineering.md,Using This Playbook,Problem - Prompts - Prompt Engineering
-Progression.md,Using This Playbook,Move from the Small to the Ginormous
-Strategy.md,Using This Playbook,Develop Your Own Strategy
-Workflow.md,Using This Playbook,Build the Workflow
-UseWhatWorks.md,Using This Playbook,Use What Works
-LearningTool.md,Using This Playbook,ChatGPT as a Universal Learning Tool
-Tools.md,Tools Setup,Tools Setup
-Frameworks.md,Tools Setup,Compare Web Frameworks
-Development.md,Tools Setup,Plan for Django Development Tools
-Python.md,Tools Setup,Setup Python & Django
-VSCode.md,Tools Setup,Setup Visual Studio Code
-Github.md,Tools Setup,Setup Github Repo
-VSCGit.md,Tools Setup,Integrate VS Code and Github
-Hosting.md,App Hosting,App Hosting
-DigitalOcean.md,App Hosting,Digital Ocean
-StaticServer.md,App Hosting,App Platform - Static Server
-DjangoApp.md,App Hosting,App Platform - Django App
-Deployment.md,App Hosting,Deployment with Github
-DatabaseSetup.md,App Hosting,Database Setup
-AppSpec.md,App Hosting,App Spec YAML File
-AppStructure.md,App Structure,App Structure
-Settings.md,App Structure,Settings
-Views.md,App Structure,Views
-Templates.md,App Structure,Templates
-URLs.md,App Structure,URLs
-ViewInheritance.md,App Structure,View Inheritance
-TemplateEngine.md,App Structure,Template Engine
-Views.md,Views,Views
-DataInViews.md,Views,Data in Views
-ViewWidgets.md,Views,View Widgets
-ViewInheritance.md,Views,View Inheritance
-TabbedView.md,Views,Tabbed View
-AccordionView.md,Views,Accordion View
-CarouselView.md,Views,Carousel View
-Composite Views.md,Views,Composite Views
-Data.md,Data,Data
-ORM.md,Data,Database & ORM
-DataModels.md,Data,Data Models
-CRUD.md,Data,CRUD Operations
-Filter.md,Data,filter attributes
-OrderBy.md,Data,order_by
-ValuesDict.md,Data,values and dictionary
-Test.md,Test,Test
-SimpleUnitTests.md,Test,Simple Unit Tests
-DataTests.md,Test,Data Tests
-ViewTests.md,Test,View Tests
-ManagementCommands.md,Test,Custom Management Commands
-SystemTests.md,Test,System Tests
-Devops.md,Devops,Devops
-ProductionSettings.md,Devops,Production Settings
-ProductionDatabase.md,Devops,Production Database
-SecretSettings.md,Devops,Secret Settings
-DeploymentScript.md,Devops,Deployment Script
-ContinuousIntegration.md,Devops,Continuous Integration
+Playbook.md,0,0,AI Playbook for web app development
+UsingPlaybook.md,1,1,    Using This Playbook
+PromptEngineering.md,1,2,        Problem - Prompts - Prompt Engineering
+Progression.md,1,3,        Move from the Small to the Ginormous
+Strategy.md,1,4,        Develop Your Own Strategy
+Workflow.md,1,5,        Build the Workflow
+UseWhatWorks.md,1,6,        Use What Works
+LearningTool.md,1,7,        ChatGPT as a Universal Learning Tool
+Tools.md,8,8,    Tools Setup
+Frameworks.md,8,9,        Compare Web Frameworks
+Development.md,8,10,        Plan for Django Development Tools
+Python.md,8,11,        Setup Python & Django
+VSCode.md,8,12,        Setup Visual Studio Code
+Github.md,8,13,        Setup Github Repo
+VSCGit.md,8,14,        Integrate VS Code and Github
+Hosting.md,15,15,    App Hosting
+DigitalOcean.md,15,16,        Digital Ocean
+StaticServer.md,15,17,        App Platform - Static Server
+DjangoApp.md,15,18,        App Platform - Django App
+Deployment.md,15,19,        Deployment with Github
+DatabaseSetup.md,15,20,        Database Setup
+AppSpec.md,15,21,        App Spec YAML File
+AppStructure.md,22,22,    App Structure
+Settings.md,22,23,        Settings
+Views.md,22,24,        Views
+Templates.md,22,25,        Templates
+URLs.md,22,26,        URLs
+ViewInheritance.md,22,27,        View Inheritance
+TemplateEngine.md,22,28,        Template Engine
+Views.md,29,29,    Views
+DataInViews.md,29,30,        Data in Views
+ViewWidgets.md,29,31,        View Widgets
+ViewInheritance.md,29,32,        View Inheritance
+TabbedView.md,29,33,        Tabbed View
+AccordionView.md,29,34,        Accordion View
+CarouselView.md,29,35,        Carousel View
+CompositeViews.md,29,36,        Composite Views
+Data.md,37,37,    Data
+ORM.md,37,38,        Database & ORM
+DataModels.md,37,39,        Data Models
+CRUD.md,37,40,        CRUD Operations
+Filter.md,37,41,        filter attributes
+OrderBy.md,37,42,        order_by
+ValuesDict.md,37,43,        values and dictionary
+Test.md,44,44,    Test
+SimpleUnitTests.md,44,45,        Simple Unit Tests
+DataTests.md,44,46,        Data Tests
+ViewTests.md,44,47,        View Tests
+ManagementCommands.md,44,48,        Custom Management Commands
+SystemTests.md,44,49,        System Tests
+Devops.md,50,50,    Devops
+ProductionSettings.md,50,51,        Production Settings
+ProductionDatabase.md,50,52,        Production Database
+SecretSettings.md,50,53,        Secret Settings
+DeploymentScript.md,50,54,        Deployment Script
+ContinuousIntegration.md,50,55,        Continuous Integration

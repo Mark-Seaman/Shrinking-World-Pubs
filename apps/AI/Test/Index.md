@@ -1,8 +1,8 @@
-## Chapter 8 - Test
+## Chapter 7 - Test
 
-* [Test.md](Test.md)
-* [SimpleUnitTests.md](SimpleUnitTests.md)
-* [DataTests.md](DataTests.md)
-* [ViewTests.md](ViewTests.md)
-* [ManagementCommands.md](ManagementCommands.md)
-* [SystemTests.md](SystemTests.md)
+* [Test](Test)
+* [Simple Unit Tests](SimpleUnitTests)
+* [Data Tests](DataTests)
+* [View Tests](ViewTests)
+* [Custom Management Commands](ManagementCommands)
+* [System Tests](SystemTests)
