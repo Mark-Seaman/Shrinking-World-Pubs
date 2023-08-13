@@ -60,3 +60,18 @@ Remember, Milestone 1 lays the groundwork for the entire project, setting the st
 * Identify and report defects: The QA engineer should thoroughly document and communicate any issues or bugs discovered during testing.
 * Collaborate with the project manager on project scope and requirements: Regular collaboration ensures that the project's scope and requirements are understood and met.
 
+
+## Lessons
+
+- 1 - [Software Lifecycle](01)
+- 2 - [Technology Selection](02)
+- 3 - [Version Control](03)
+- 4 - [App Hosting](04)
+
+## Project Assignments
+
+- [Requirements](M1-Requirements)
+- [Design](M1-Design)
+- [Code](M1-Code)
+- [Test](M1-Test)
+

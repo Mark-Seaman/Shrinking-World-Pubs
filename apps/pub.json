@@ -10,7 +10,7 @@
     "image_path": "/static/images/Shrinking-World-Pubs/apps",
     "cover_image": "/static/images/Shrinking-World-Pubs/apps/Cover-800.png",
     "cover_title": false,
-    "pub_type": "private",
+    "pub_type": "course",
     "menu": "static/js/nav_blog.json",
     "auto_contents": false,
     "auto_index": true,

@@ -4,7 +4,7 @@
 
 ## M1 for Requirements
 
-Our project has 7 milestones. 
+Our software project has 7 milestones. 
 
 During milestone 1 we must set the product definition.  
 
