@@ -70,8 +70,8 @@ Remember, Milestone 1 lays the groundwork for the entire project, setting the st
 
 ## Project Assignments
 
-- [Requirements](M1-Requirements)
-- [Design](M1-Design)
-- [Code](M1-Code)
-- [Test](M1-Test)
+- [Requirements](m1-Requirements)
+- [Design](m1-Design)
+- [Code](m1-Code)
+- [Test](m1-Test)
 
