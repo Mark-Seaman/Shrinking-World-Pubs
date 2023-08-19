@@ -69,4 +69,5 @@
 * [My friend Rodney ](/journey/Rodney.md)                                       
 * [When the World Burned](/journey/WorldBurned.md)                              
 * [Banks of the Missouri](/journey/Missouri.md)                                 
+* [Life Is What Happens When You're Busy Making Other Plans: Reflecting on Unpredictability and](/journey/LifeHappens.md)
 * [Stories To Tell Before I Die](/journey/StoriesToTell.md)                     

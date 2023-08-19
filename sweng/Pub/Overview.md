@@ -1,6 +1,9 @@
-# Software Engineering Theory & Application
+# Software Engineering with AI 
+
+Building your AI Playbook
 
 by Mark Seaman
+
 
 ---
 
@@ -75,7 +78,6 @@ better software products and the need to manage the complexity of software syste
 engineering involves various processes, tools, and techniques that enable software developers to
 create software that meets user requirements, is reliable, scalable, and maintainable. These
 processes include requirements analysis, design, implementation, testing, and maintenance.
-
 
 Software Engineering encompasses a wide range of activities, including project planning, risk
 management, quality assurance, configuration management, and documentation. Software engineering is

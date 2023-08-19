@@ -11,6 +11,8 @@ Throughout this course you will build a medium sized application with the follow
 * Deliver code on a fixed schedule with 7 milestones
 * Each milestone every member will be assigned a unique role (requirements, design, code, test) that rotates 
 
+I hope you are excited about this Software Application Team Project! This project will give you the opportunity to gain hands-on experience in software engineering and work on a medium-sized application with a team of four people. Remember to adhere to the project guidelines and deliver your work on schedule. Good luck and enjoy the learning journey!
+
 
 ## Goals
 
@@ -63,6 +65,3 @@ There will be specific assignments for each milestone and each development role:
 Please note that these assignments will rotate with each milestone, meaning that each team member will have the opportunity to take on different roles throughout the project.
 
 
-## Conclusion
-
-I hope you are excited about this Software Application Team Project! This project will give you the opportunity to gain hands-on experience in software engineering and work on a medium-sized application with a team of four people. Remember to adhere to the project guidelines and deliver your work on schedule. Good luck and enjoy the learning journey!
