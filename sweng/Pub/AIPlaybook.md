@@ -1,4 +1,6 @@
-# 4 Keys to Effective AI
+# Building Your AI Playbook
+
+## 4 Keys to Effective AI
 
 Artificial Intelligence (AI) is becoming increasingly important in the world of business. Companies
 are using it to streamline processes, improve customer experience, and gain a competitive edge.
