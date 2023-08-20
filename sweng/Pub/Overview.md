@@ -1,4 +1,4 @@
-# Software Engineering with AI 
+# Course Overview
 
 Building your AI Playbook
 
