@@ -1,4 +1,7 @@
-# Milestones for Web-based Software App
+# Software Development Milestones
+
+The development proceed through a series of milestones.  At each checkpoint a number of criteria
+must be met in order for development to continue.
 
 
 ## Milestone 1: Requirements Gathering and Analysis
@@ -50,3 +53,4 @@ for improvement.
 In this milestone, we will conduct a project review and analyze the project performance. We will
 document any lessons learned and prepare a final report. We will celebrate our successes and
 identify areas for improvement for future projects.
+

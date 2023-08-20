@@ -7,6 +7,12 @@ Milestone 1 is the check point for launching a new project with a clear understa
 of the business proposition, scope and priorities of the project, and the technology
 that will be used to create the desired solution.
 
+**Team Github Repo**:  [{{ github }}]({{ github }})
+
+**Team Application Server**:  [{{ server }}]({{ server }})
+
+**Team Status Website**:  [{{ team }}]({{ team }})
+
 ---
 
 ## Requirements - Mark Seaman
@@ -24,6 +30,8 @@ that will be used to create the desired solution.
 - Project scope & budget
 - Client communication
 - Sprint Planning meetings
+
+**Ghost Writer Project Charter**
 
 * [Project Charter]({{ github }}/Requirements/)
     * [Project Objectives]({{ github }}/Requirements/Objectives.md)
