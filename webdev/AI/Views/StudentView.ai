@@ -1,0 +1,32 @@
+# Student View
+
+class Student(models.Model):
+    user = models.ForeignKey(
+        User, on_delete=models.CASCADE, null=True, editable=False)
+    course = models.ForeignKey(
+        Course, on_delete=models.CASCADE, null=True, editable=False)
+    github = models.URLField(null=True, blank=True)
+    server = models.URLField(null=True, blank=True)
+
+    @property
+    def name(self):
+        return f"{self.user.first_name} {self.user.last_name}"
+
+Create a view to show the student details based on Template view.
+
+# class SectionDetailView(TemplateView):
+#     template_name = 'section_detail.html'
+
+#     def get_context_data(self, **kwargs):
+#         context = super().get_context_data(**kwargs)
+#         context.update(section_details(user=self.request.user, **kwargs))
+#         # section_id = kwargs.get('pk')
+#         # section = get_object_or_404(CourseSection, pk=section_id)
+#         # context['menu'] = select_menu(self.request.user)
+#         # context['object'] = section
+#         # context['professors'] = Professor.objects.all()
+#         # context['section_professors'] = Professor.objects.filter(
+#         #     section=section)
+#         # context['title'] = section.section_number
+#         return context
+

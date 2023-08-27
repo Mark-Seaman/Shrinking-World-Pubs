@@ -1,0 +1,19 @@
+{
+    "site_title": "Python Web Apps",
+    "site_subtitle": "Intermediate Web Dev",
+    "site_url": "/course/bacs350",
+    "course": "bacs350",
+    "course_title": "BACS 350 - Fall 2022",
+    "instructor": "Mark Seaman",
+    "organization": "Shrinking World",
+    "page_title": "Web Apps with Python/Django",
+    "logo": "/static/images/course/bacs350/Bear.png",
+    "cover": "/static/images/course/bacs350/treetops.800.jpg",
+    "icon": "https://shrinking-world.com/static/favicon.ico",
+    "images": "static/images/shrinking-world.com/bacs350",
+    "image_path": "/static/images/shrinking-world.com/bacs350/treetops.800.jpg",
+    "css": "/static/css/unc.css",
+    "week": 1,
+    "week_label": "Week ",
+    "num_weeks": 14
+}
