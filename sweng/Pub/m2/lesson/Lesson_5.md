@@ -97,3 +97,16 @@ creating the necessary features for the first release.
 **Development Process:** The development team will work on the features in the order specified in the product backlog. Each sprint will draw user stories from the backlog, focusing on implementing and testing the highest-priority features first, ensuring that the most valuable aspects of the application are delivered early in the development process.
 Start every project by describing in one sentence the value of the product.
 
+
+## AI Prompts
+
+Here are some interesting AI prompts to try.
+
+* Explain how to create a feature list for a software MVP and a future enhancement list (each with 20 elements).
+
+* My software application is for authors to create content for an upcoming book.  Build a list of 20 features that should be in the MVP.
+
+* Estimate the effort required to build these features.
+
+* Describe the features as user stories.
+

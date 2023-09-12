@@ -73,3 +73,15 @@ Test each CRUD operation on the data.
 Test each CRUD operation on the views.
 Plan to build 10 tests for each data type.
 
+
+## AI Prompts
+
+Here are some interesting AI prompts to try.
+
+* Display Markdown text from a file within a Django web app.
+
+* Build a React application to implement a shopping cart.
+
+* Write a Django app to upload images to a server.
+
+* Create a simple app patterned after Linked In with Django.
