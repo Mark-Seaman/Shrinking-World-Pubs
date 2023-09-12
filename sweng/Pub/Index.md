@@ -6,7 +6,7 @@
 * [Learn By Doing](/sweng/LearnByDoing.md)                                      
 * [Software Application Team Project](/sweng/TeamProject.md)                                                          
 
-## [Milestone 1: Project Charter](/sweng/m1-Milestone_1.md)    
+## Milestone 1: Project Charter   
 
 **Lessons**
 
@@ -17,7 +17,7 @@
 
 **Project Assignments**
 
-* [Team Project](/sweng/m1-project-Requirements.md)
+* [Team Project](/sweng/m1-Milestone_1.md)
 * [Milestone 1 - Project Assignments](/sweng/m1-project-Requirements.md)
 * [Requirements](/sweng/m1-project-Requirements.md)
 * [Design](/sweng/m1-project-Design.md)
@@ -28,3 +28,13 @@
 
 * [Instructor Project Solution](/sweng/m1-Instructor_1.md)
 * [Team Project Solution](/sweng/m1-Team_1.md)
+
+
+## Milestone 2: Technical Feasibility  
+
+**Lessons**
+
+* [Lesson 5](/sweng/m2-lesson-Lesson_5.md) - Feature Set
+* [Lesson 6](/sweng/m2-lesson-Lesson_6.md) - Architecture
+* [Lesson 7](/sweng/m2-lesson-Lesson_7.md) - Prototype
+* [Lesson 8](/sweng/m2-lesson-Lesson_8.md) - Deployment 
