@@ -7,19 +7,19 @@ Refactoring, as taught by Martin Fowler, is a disciplined technique for restruct
 
 Here are the key principles and practices of refactoring, as taught by Martin Fowler:
 
-**1. Maintain External Behavior:** The most fundamental principle of refactoring is that you should not change the observable behavior of the code when you refactor it. This means that the inputs, outputs, and side effects of the code must remain the same after the refactoring is complete.
+**Maintain External Behavior:** The most fundamental principle of refactoring is that you should not change the observable behavior of the code when you refactor it. This means that the inputs, outputs, and side effects of the code must remain the same after the refactoring is complete.
 
-**2. Small, Incremental Changes:** Refactoring is performed through a series of small, incremental changes to the code. Each step should be simple and well-understood, making it easy to verify that the behavior remains intact.
+**Small, Incremental Changes:** Refactoring is performed through a series of small, incremental changes to the code. Each step should be simple and well-understood, making it easy to verify that the behavior remains intact.
 
-**3. Comprehensive Testing:** Before starting any refactoring, it's essential to have a comprehensive suite of automated tests in place. These tests act as a safety net, allowing you to detect regressions quickly. After each refactoring step, you should rerun the tests to ensure you haven't introduced any defects.
+**Comprehensive Testing:** Before starting any refactoring, it's essential to have a comprehensive suite of automated tests in place. These tests act as a safety net, allowing you to detect regressions quickly. After each refactoring step, you should rerun the tests to ensure you haven't introduced any defects.
 
-**4. Code Smells:** Martin Fowler and Kent Beck introduced the concept of "code smells" in their book "Refactoring: Improving the Design of Existing Code." Code smells are indicators of potential issues in your code, such as duplicated code, long methods, or excessive complexity. Recognizing these smells is the first step in identifying areas where refactoring can be beneficial.
+**Code Smells:** Martin Fowler and Kent Beck introduced the concept of "code smells" in their book "Refactoring: Improving the Design of Existing Code." Code smells are indicators of potential issues in your code, such as duplicated code, long methods, or excessive complexity. Recognizing these smells is the first step in identifying areas where refactoring can be beneficial.
 
-**5. Catalog of Refactorings:** Martin Fowler's book on refactoring includes a catalog of common refactoring techniques. This catalog provides detailed descriptions of various refactorings, such as Extract Method, Rename Variable, or Replace Conditional with Polymorphism. These refactorings serve as practical guidelines for improving code quality.
+**Catalog of Refactorings:** Martin Fowler's book on refactoring includes a catalog of common refactoring techniques. This catalog provides detailed descriptions of various refactorings, such as Extract Method, Rename Variable, or Replace Conditional with Polymorphism. These refactorings serve as practical guidelines for improving code quality.
 
-**6. Continuous Improvement:** Refactoring is not a one-time activity; it's an ongoing process. As you work on your codebase, you should constantly look for opportunities to refactor and make improvements. This helps prevent code from becoming overly complex and difficult to maintain over time.
+**Continuous Improvement:** Refactoring is not a one-time activity; it's an ongoing process. As you work on your codebase, you should constantly look for opportunities to refactor and make improvements. This helps prevent code from becoming overly complex and difficult to maintain over time.
 
-**7. Refactoring Tools:** To facilitate refactoring, many integrated development environments (IDEs) provide built-in or third-party refactoring tools. These tools automate many of the tedious aspects of code restructuring, making it easier and safer to refactor.
+**Refactoring Tools:** To facilitate refactoring, many integrated development environments (IDEs) provide built-in or third-party refactoring tools. These tools automate many of the tedious aspects of code restructuring, making it easier and safer to refactor.
 
 **Example: Extract Method Refactoring**
 
@@ -59,3 +59,5 @@ In this refactoring, we extracted the code responsible for getting the product p
 
 By following the principles and practices of refactoring as taught by Martin Fowler, developers can maintain and improve their codebase over time, making it easier to understand, modify, and extend. This leads to more robust and maintainable software systems.
 
+
+<iframe width="481" height="271" src="https://www.youtube.com/embed/7oZBfpI_hxI" title="4 Tips for Refactoring Your Code for Readability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

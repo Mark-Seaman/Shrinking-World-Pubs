@@ -1,14 +1,12 @@
 # Lesson 9 - Milestone 3 - Requirements
 
-## Agile Software Engineering
+## Agile Software History
 
 Agile software development is a modern approach to software development that prioritizes flexibility, collaboration, and customer satisfaction. It emerged as a response to the limitations of traditional software development methodologies, such as the Waterfall model, which often led to lengthy and rigid development processes. The history of Agile software development and its principles can be summarized as follows:
 
-**History of Agile Software Development:**
+**1970s-1980s:** The roots of Agile can be traced back to various software development methodologies developed during this period, including Rapid Application Development (RAD), Scrum, and various iterative and incremental approaches. These methodologies emphasized faster development cycles and customer involvement.
 
-1. **1970s-1980s:** The roots of Agile can be traced back to various software development methodologies developed during this period, including Rapid Application Development (RAD), Scrum, and various iterative and incremental approaches. These methodologies emphasized faster development cycles and customer involvement.
-
-2. **1990s:** The Agile movement gained momentum in the 1990s, with notable events and publications:
+**1990s:** The Agile movement gained momentum in the 1990s, with notable events and publications:
    
    - **DSDM (Dynamic Systems Development Method)** was introduced in 1994, focusing on iterative and incremental development.
    
@@ -16,7 +14,7 @@ Agile software development is a modern approach to software development that pri
 
    - **Extreme Programming (XP)**, introduced by Kent Beck in the late 1990s, promoted practices like test-driven development, continuous integration, and frequent customer feedback.
 
-3. **Manifesto for Agile Software Development (2001):** A significant milestone in Agile's history was the publication of the Agile Manifesto in 2001. Seventeen prominent software developers and thought leaders met in Snowbird, Utah, and crafted the manifesto, which outlined the guiding principles of Agile development. The Agile Manifesto values:
+**Manifesto for Agile Software Development (2001):** A significant milestone in Agile's history was the publication of the Agile Manifesto in 2001. Seventeen prominent software developers and thought leaders met in Snowbird, Utah, and crafted the manifesto, which outlined the guiding principles of Agile development. The Agile Manifesto values:
 
    - **Individuals and interactions** over processes and tools.
    - **Working software** over comprehensive documentation.
@@ -25,9 +23,9 @@ Agile software development is a modern approach to software development that pri
 
    While the manifesto values the items on the right, it values the items on the left more. This shift in mindset represented a fundamental change in how software development was approached.
 
-4. **Agile Frameworks and Practices:** Following the Agile Manifesto, various frameworks and practices were developed and refined, including Scrum, Extreme Programming (XP), Kanban, and Lean, among others. These approaches all align with the Agile principles and offer specific guidelines for implementing Agile methodologies.
+**Agile Frameworks and Practices:** Following the Agile Manifesto, various frameworks and practices were developed and refined, including Scrum, Extreme Programming (XP), Kanban, and Lean, among others. These approaches all align with the Agile principles and offer specific guidelines for implementing Agile methodologies.
 
-**Key Principles of Agile Software Development:**
+## Key Principles of Agile Software
 
 The Agile Manifesto provides the foundation for Agile principles, but the Agile community has expanded on these principles over time. Some of the key principles of Agile software development include:
 
@@ -78,3 +76,5 @@ Transparency, inspection, and adaptation are the pillars of Scrum. Teams regular
 
 Ultimately, Scrum is not just a set of roles, events, and artifacts. It's a mindset and a way of working that empowers teams to deliver value incrementally and respond effectively to change. It's about fostering collaboration, delivering quality, and continuously improving to meet the ever-changing demands of the market.
 
+
+<iframe width="481" height="271" src="https://www.youtube.com/embed/XU0llRltyFM" title="Intro to Scrum in Under 10 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
