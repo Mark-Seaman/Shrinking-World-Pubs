@@ -121,6 +121,23 @@ By following the TDD cycle, you ensure that each piece of functionality you add 
 
 In summary, Test-Driven Development is a software development approach that promotes writing tests before writing code. It follows a cycle of "Red-Green-Refactor" to ensure code quality, rapid feedback, and maintainability. It is widely used across different programming languages and helps in building reliable and robust software.
 
+
+# Tutorial Video
+
 <iframe width="481" height="271" src="https://www.youtube.com/embed/Jv2uxzhPFl4" title="Test-Driven Development // Fun TDD Introduction with JavaScript" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="481" height="271" src="https://www.youtube.com/embed/amkDB_oPix0" title="Test-Driven Development explained in 3 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# AI Prompts
+
+Here are some interesting AI prompts to try.
+
+* Show how to setup Django automated tests.
+
+* Create tests for Student data and Student views.
+
+* Explain how to run the debugger in Visual Studio Code.
+
+* Explain how to create an "implementation spike".
+

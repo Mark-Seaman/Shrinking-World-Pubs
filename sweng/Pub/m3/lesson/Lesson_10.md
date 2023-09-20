@@ -27,37 +27,49 @@ One of the most commonly used refactoring techniques is "Extract Method." This r
 
 **Original Code:**
 
-```java
-public double calculateTotalPrice(List<Product> products) {
-    double totalPrice = 0.0;
-    for (Product product : products) {
-        totalPrice += product.getPrice();
+    public double calculateTotalPrice(List<Product> products) {
+        double totalPrice = 0.0;
+        for (Product product : products) {
+            totalPrice += product.getPrice();
+        }
+        return totalPrice;
     }
-    return totalPrice;
-}
-```
 
 In this example, we have a method that calculates the total price of a list of products. We can apply the "Extract Method" refactoring to improve code readability and maintainability:
 
 **Refactored Code:**
 
-```java
-public double calculateTotalPrice(List<Product> products) {
-    double totalPrice = 0.0;
-    for (Product product : products) {
-        totalPrice += getProductPrice(product);
+    public double calculateTotalPrice(List<Product> products) {
+        double totalPrice = 0.0;
+        for (Product product : products) {
+            totalPrice += getProductPrice(product);
+        }
+        return totalPrice;
     }
-    return totalPrice;
-}
 
-private double getProductPrice(Product product) {
-    return product.getPrice();
-}
-```
+    private double getProductPrice(Product product) {
+        return product.getPrice();
+    }
 
-In this refactoring, we extracted the code responsible for getting the product price into a separate method called `getProductPrice()`. This makes the code more readable and also allows us to reuse this logic if needed.
+In this refactoring, we extracted the code responsible for getting the product price into a separate method called getProductPrice(). This makes the code more readable and also allows us to reuse this logic if needed.
 
 By following the principles and practices of refactoring as taught by Martin Fowler, developers can maintain and improve their codebase over time, making it easier to understand, modify, and extend. This leads to more robust and maintainable software systems.
 
 
+# Tutorial Video
+
 <iframe width="481" height="271" src="https://www.youtube.com/embed/7oZBfpI_hxI" title="4 Tips for Refactoring Your Code for Readability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# AI Prompts
+
+Here are some interesting AI prompts to try.
+
+* Identify the core data types within my app [app overview]
+
+* Try to reduce the data types to support.
+
+* Create Django data model for Student: name, email, github, server
+
+* Write function stubs for views of Student data type: List, Detail, Edit, Create, Delete
+

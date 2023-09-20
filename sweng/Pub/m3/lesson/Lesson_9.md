@@ -77,4 +77,20 @@ Transparency, inspection, and adaptation are the pillars of Scrum. Teams regular
 Ultimately, Scrum is not just a set of roles, events, and artifacts. It's a mindset and a way of working that empowers teams to deliver value incrementally and respond effectively to change. It's about fostering collaboration, delivering quality, and continuously improving to meet the ever-changing demands of the market.
 
 
+# Tutorial Video
+
 <iframe width="481" height="271" src="https://www.youtube.com/embed/XU0llRltyFM" title="Intro to Scrum in Under 10 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# AI Prompts
+
+Here are some interesting AI prompts to try.
+
+* Explain how to create a product backlog for my software app.
+
+* Identify the core feature in this app [app overview].
+
+* Create a simple plan for this sprint by prioritizing the core features
+
+* Explain how to measure product velocity.
+

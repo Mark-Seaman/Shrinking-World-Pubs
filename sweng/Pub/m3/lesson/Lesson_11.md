@@ -131,4 +131,22 @@ todo_list.list_tasks()
 
 With each iteration, the to-do list application becomes more feature-rich and refined. It demonstrates the incremental and feedback-driven nature of iterative development, where each iteration builds upon the previous one and delivers a working product increment.
 
+
+# Tutorial Video
+
 <iframe width="481" height="271" src="https://www.youtube.com/embed/T8xvMIiFzD0" title="How To Create An MVP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+# AI Prompts
+
+Here are some interesting AI prompts to try.
+
+* Create Django data model for Student: name, email, github, server
+
+* Explain how to migrate the database
+
+* Write functions for views of Student data type: List, Detail, Edit, Create, Delete
+
+* Create tests for Student data and Student views
+
