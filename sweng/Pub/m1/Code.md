@@ -1,4 +1,16 @@
-# Job Description: Software Engineer
+# Code Role Assignments - Milestone 1
+
+## Milestone 1 Code Deliverables
+
+**Version control**
+
+- Setup Github account
+- Setup Github Pages repository
+- Decide how to publish your project docs
+- User Guide for development workflow
+
+
+## Job Description: Software Engineer
 
 We are seeking a highly skilled and motivated Software Engineer to join our dynamic team. As a Software Engineer, your primary responsibility will be to deliver high-quality software solutions by following industry best practices and applying your extensive knowledge.
 

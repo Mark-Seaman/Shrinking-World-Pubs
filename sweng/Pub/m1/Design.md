@@ -1,4 +1,16 @@
-# Job Description: Software Designer
+# Design Role Assignments - Milestone 1
+
+## Milestone 1 Design Deliverables
+
+**Define the Technology and Tools**
+
+* Technology Selection Report
+* Tool Chain Setup Guide
+* AI Prompts
+* Status Report with Video
+
+
+## Job Description: Software Designer
 
 ## Overview
 
@@ -36,4 +48,4 @@ We are seeking a talented and experienced Software Designer to join our team and
 - Opportunity to work on cutting-edge software projects
 - Influence and shape the design and architecture of software solutions
 
-If you are passionate about software design, have a strong background in software architecture, and enjoy collaborating with multidisciplinary teams, we would love to hear from you. Join us and be a part of our mission to create innovative and functional software solutions.
+

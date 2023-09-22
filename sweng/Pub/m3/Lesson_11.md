@@ -1,11 +1,10 @@
-# Lesson 9 - Milestone 3 - Code
+# Lesson 11 - Milestone 3 - Code
 
 ## Iterative Development
 
 Uncle Bob Martin, also known as Robert C. Martin, is a well-respected software engineer and one of the leading figures in the software development community. He has advocated for various software development principles and practices, including iterative development. Iterative development is a fundamental approach to building software systems, and Uncle Bob's teachings emphasize its importance. 
 
-Development Process
-
+## Development Process
 
 * **Incremental and Iterative:** Iterative development is a software development approach that focuses on building a system in small, incremental steps. Instead of trying to create the entire system in one go, developers work on a series of iterations, each of which adds new functionality or improvements to the existing system. These iterations are typically short and time-boxed, often lasting a few weeks.
 
@@ -50,84 +49,81 @@ Imagine you're building a to-do list application in Python using an iterative de
 **Iteration 1: Basic To-Do List**
 In this first iteration, you focus on creating a basic to-do list with the ability to add and list tasks.
 
-```python
-class TodoList:
-    def __init__(self):
-        self.tasks = []
+    class TodoList:
+        def __init__(self):
+            self.tasks = []
 
-    def add_task(self, task):
-        self.tasks.append(task)
+        def add_task(self, task):
+            self.tasks.append(task)
 
-    def list_tasks(self):
-        for task in self.tasks:
-            print(task)
+        def list_tasks(self):
+            for task in self.tasks:
+                print(task)
 
-# Initial usage
-todo_list = TodoList()
-todo_list.add_task("Buy groceries")
-todo_list.add_task("Write a report")
-todo_list.list_tasks()
-```
+    # Initial usage
+    todo_list = TodoList()
+    todo_list.add_task("Buy groceries")
+    todo_list.add_task("Write a report")
+    todo_list.list_tasks()
 
 **Iteration 2: Mark Tasks as Completed**
 In the second iteration, you add the ability to mark tasks as completed.
 
-```python
-class TodoList:
-    def __init__(self):
-        self.tasks = []
+    class TodoList:
+        def __init__(self):
+            self.tasks = []
 
-    def add_task(self, task):
-        self.tasks.append({"task": task, "completed": False})
+        def add_task(self, task):
+            self.tasks.append({"task": task, "completed": False})
 
-    def list_tasks(self):
-        for task in self.tasks:
-            status = "[x]" if task["completed"] else "[ ]"
-            print(f"{status} {task['task']}")
+        def list_tasks(self):
+            for task in self.tasks:
+                status = "[x]" if task["completed"] else "[ ]"
+                print(f"{status} {task['task']}")
 
-    def complete_task(self, task_index):
-        if 0 <= task_index < len(self.tasks):
-            self.tasks[task_index]["completed"] = True
+        def complete_task(self, task_index):
+            if 0 <= task_index < len(self.tasks):
+                self.tasks[task_index]["completed"] = True
 
-# Iteration 2 usage
-todo_list = TodoList()
-todo_list.add_task("Buy groceries")
-todo_list.add_task("Write a report")
-todo_list.complete_task(0)  # Mark the first task as completed
-todo_list.list_tasks()
-```
+usage
+
+    todo_list = TodoList()
+    todo_list.add_task("Buy groceries")
+    todo_list.add_task("Write a report")
+    todo_list.complete_task(0)  # Mark the first task as completed
+    todo_list.list_tasks()
+
 
 **Iteration 3: Remove Completed Tasks**
 In the third iteration, you add the ability to remove completed tasks.
 
-```python
-class TodoList:
-    def __init__(self):
-        self.tasks = []
+    class TodoList:
+        def __init__(self):
+            self.tasks = []
 
-    def add_task(self, task):
-        self.tasks.append({"task": task, "completed": False})
+        def add_task(self, task):
+            self.tasks.append({"task": task, "completed": False})
 
-    def list_tasks(self):
-        for i, task in enumerate(self.tasks):
-            status = "[x]" if task["completed"] else "[ ]"
-            print(f"{i+1}. {status} {task['task']}")
+        def list_tasks(self):
+            for i, task in enumerate(self.tasks):
+                status = "[x]" if task["completed"] else "[ ]"
+                print(f"{i+1}. {status} {task['task']}")
 
-    def complete_task(self, task_index):
-        if 0 <= task_index < len(self.tasks):
-            self.tasks[task_index]["completed"] = True
+        def complete_task(self, task_index):
+            if 0 <= task_index < len(self.tasks):
+                self.tasks[task_index]["completed"] = True
 
-    def remove_completed_tasks(self):
-        self.tasks = [task for task in self.tasks if not task["completed"]]
+        def remove_completed_tasks(self):
+            self.tasks = [task for task in self.tasks if not task["completed"]]
 
-# Iteration 3 usage
-todo_list = TodoList()
-todo_list.add_task("Buy groceries")
-todo_list.add_task("Write a report")
-todo_list.complete_task(0)
-todo_list.remove_completed_tasks()  # Remove completed tasks
-todo_list.list_tasks()
-```
+usage
+
+    todo_list = TodoList()
+    todo_list.add_task("Buy groceries")
+    todo_list.add_task("Write a report")
+    todo_list.complete_task(0)
+    todo_list.remove_completed_tasks()  # Remove completed tasks
+    todo_list.list_tasks()
 
 With each iteration, the to-do list application becomes more feature-rich and refined. It demonstrates the incremental and feedback-driven nature of iterative development, where each iteration builds upon the previous one and delivers a working product increment.
 

@@ -19,6 +19,17 @@ The primary goal of this project is for you to learn software engineering by act
 Additionally, you will have the opportunity to build a medium-sized app from start to finish with a team of four people. This will give you a taste of what it's like to work on a software development project in the real world. You will learn how to collaborate, delegate tasks, and make decisions as a team.
 
 
+## Project Guidelines
+
+**Application Design**: Your application should be patterned after a popular web-based application. This means that you should analyze existing web applications and identify the features and design patterns that make them successful. Use this analysis as a guide when designing your own application.
+
+**Team Composition**: The project will be carried out in teams of four people. Each team member will have a specific role assigned to them for each milestone. These roles include requirements, design, code, and test. The roles will rotate with each milestone, ensuring that every team member gets hands-on experience in each aspect of the software development process.
+
+**Milestone Deliverables**: There will be seven milestones throughout the course, with one milestone every two weeks. Each milestone will have specific deliverables that need to be completed by each team member based on their assigned role. It is important that you adhere to the fixed schedule and submit your work on time.
+
+**Responsibilities Rotation**: As mentioned earlier, the responsibilities will rotate with each milestone. This means that each team member will have the opportunity to take on different roles throughout the project. This rotation is designed to help you gain a comprehensive understanding of the entire software development process and develop a well-rounded skill set.
+
+
 ## Application Teams
 
 You will be assigned to an application team.  If you would like to request to work on a specific application then let me know and I will try to accomodate your wishes.

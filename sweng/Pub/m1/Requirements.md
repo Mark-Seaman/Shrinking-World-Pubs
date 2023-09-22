@@ -1,8 +1,21 @@
 # Requirements Role Assignments - Milestone 1
 
-## Assignment: Project Charter for your application
+## Project Manager Responsibilities
 
-### Build your AI Playbook
+* Define project goals and objectives: The project manager must clearly articulate the purpose and desired outcomes of the project.
+* Define project scope and deliverables: The project manager needs to establish the boundaries and specific deliverables of the project.
+* Identify project stakeholders: Identifying all stakeholders involved in the project is essential for effective communication and collaboration.
+* Develop project timeline and budget: The project manager should create a timeline that outlines the project's milestones and a budget that outlines the estimated costs.
+
+**Project Charter**
+
+- Business proposition
+- Project scope & budget
+- Client communication
+- Sprint Planning meetings
+
+
+**Build your AI Playbook**
 
 Learning to accomplish any task can be easy if you use the correct prompt in ChatGPT.
 
@@ -10,58 +23,62 @@ Try out these sample prompts and build your own.
 
 Use ChatGPT to guide you through the specific details of how to accomplish your goals.
 
-### Describe your project scope
 
-#### Development Criteria for Milestone 1: Project Charter
-Milestone 1 of a software development project is crucial as it lays the foundation for the entire project. To successfully pass this milestone, there are 16 key development criteria that need to be met. These criteria are divided among the roles of the project manager, designer, programmer, and QA engineer.
+## Requirements for Milestone 1
 
-#### Project Manager Responsibilities
-* Define project goals and objectives: The project manager must clearly articulate the purpose and desired outcomes of the project.
-* Define project scope and deliverables: The project manager needs to establish the boundaries and specific deliverables of the project.
-* Identify project stakeholders: Identifying all stakeholders involved in the project is essential for effective communication and collaboration.
-* Develop project timeline and budget: The project manager should create a timeline that outlines the project's milestones and a budget that outlines the estimated costs.
-
-### Lead the team
-* Meet with the team and discuss how to define the project scope, the selection of the
-technology and hosting to be done and how to use version control.
-* Setup a standard place to document your team meetings.  Hold a weekly team meeting to have
-each person document what they did, what they plan to do, and what challenges they face.  
-Track the engineering time spent by each team member and add it to the document. Keep
-this meeting short, but document the results.
-* Record a five-minute video to document and demonstrate the work you did.
-
-### Setup your Github repo with links
-* Use the Github repo that was created by the coder.
-* Write a short document to set expectations for what each team member will create.
-* Publish you video, meeting notes, and project charter at the required URLs.  Test these
-URLs with the self [test page](selftest) provided.
-
-
-
-## Instructor App - Ghost Writer
-Visit these pages to see the expected format of a good solution.  I have developed the
-Ghost Writer application to demonstrate how to do the engineering tasks.  Please study this
-code and use it in any way to meet your project goals.
-
-* [Project Charter]({github}/Documents/M1-Milestone.md)
+* Project Charter
     - Understand the project goals and objectives
     - Define the project scope and boundaries
     - Identify key stakeholders
     - Create a project charter document
-* [Status Update Video]({github}/Documents/Video/M1-Requirements.md)
+* Status Update Video
     - What did I do?
     - What will I do?
     - What challenges do I see?
     - Effort in hours
-* [Team Meeting]({github}/Documents/Meeting/M1.md)
+* Team Meeting
     - Status report for each team member 
-* [AI Playbook]({github}/Documents/AI/M1-Requirements.md)
+* AI Playbook
+    - Create AI Prompts to learn more about software engineering requirements gathering.
 
 Each deliverable is satisfied or will remain incomplete.  Grading is all or nothing for each item.
 
 
+## Job Description: Requirements Engineer
 
-## Self Test
+As a Software Project Manager, you will be responsible for leading and overseeing the successful execution of software projects from initiation to closure. You will work closely with cross-functional teams, stakeholders, and clients to ensure the timely delivery of high-quality software solutions. We are looking for a skilled individual who possesses strong leadership abilities, excellent communication skills, and a deep understanding of software development processes. 
 
-* Publish your video, meeting notes, and project charter at the required URLs.  Test these
-URLs with the self [test page](selftest) provided.
+## Responsibilities:
+
+- **Project Planning**: Collaborate with stakeholders to define project goals, objectives, and scope. Develop comprehensive project plans, timelines, and budgets.
+
+- **Risk Management**: Identify potential risks and develop strategies for mitigating them. Monitor project risks throughout the development lifecycle and take proactive measures to address them.
+
+- **Team Management**: Assign tasks to team members and track progress. Provide guidance, support, and mentorship to team members. Foster a collaborative and productive work environment.
+
+- **Stakeholder Management**: Establish effective communication channels with stakeholders. Keep stakeholders informed of project progress, issues, and changes. Address stakeholder concerns in a timely manner.
+
+- **Quality Assurance**: Ensure that software deliverables meet high-quality standards. Conduct regular reviews and inspections to identify and resolve any issues or bugs.
+
+- **Documentation and Reporting**: Maintain accurate and up-to-date project documentation. Generate regular progress reports, status updates, and post-mortem analysis.
+
+- **Resource Allocation**: Manage project resources effectively, including personnel, equipment, and software tools. Optimize resource utilization to meet project goals and deadlines.
+
+## Qualifications:
+
+- **Education**: Bachelor's degree in Computer Science, Software Engineering, or a related field.
+
+- **Project Management Experience**: Minimum of 5 years of experience in managing software projects, preferably in a fast-paced and dynamic environment.
+
+- **Technical Knowledge**: Strong understanding of software development methodologies, tools, and best practices. Familiarity with popular programming languages and frameworks.
+
+- **Leadership Skills**: Demonstrated ability to lead and motivate cross-functional teams. Experience in managing remote teams is a plus.
+
+- **Communication Skills**: Exceptional verbal and written communication skills. Ability to effectively communicate complex technical concepts to non-technical stakeholders.
+
+- **Problem-Solving Abilities**: Strong analytical and problem-solving skills. Ability to think critically and make informed decisions under pressure.
+
+- **Adaptability and Flexibility**: Ability to adapt to changing project requirements and priorities. Flexible mindset and willingness to learn new technologies and methodologies.
+
+- **Certifications**: Project management certifications such as PMP (Project Management Professional) or PRINCE2 (Projects IN Controlled Environments) are highly desirable.
+

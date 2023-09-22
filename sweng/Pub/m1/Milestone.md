@@ -9,10 +9,10 @@ Collaboration among team members is key to successful software development. Each
 
 **Lessons**
 
-* [Lesson 1](m1-lesson-Lesson_1.md) - Software Lifecycle
-* [Lesson 2](m1-lesson-Lesson_2.md) - Development Roles
-* [Lesson 3](m1-lesson-Lesson_3.md) - Planning Grid
-* [Lesson 4](m1-lesson-Lesson_4.md) - Software Engineering with AI 
+* [Lesson 1](m1-Lesson_1.md) - Software Lifecycle
+* [Lesson 2](m1-Lesson_2.md) - Development Roles
+* [Lesson 3](m1-Lesson_3.md) - Planning Grid
+* [Lesson 4](m1-Lesson_4.md) - Software Engineering with AI 
 
 **Project**
 

@@ -1,4 +1,16 @@
-# Job Description: QA Engineer
+# Code Role Assignments - Milestone 1
+
+## Milestone 1 Test Deliverables
+
+**Web App Hosting**
+
+* Application Server URL
+* App Hosting Guide
+* AI Prompts
+* Status Report with Video
+
+
+## Job Description: QA Engineer
 
 ## Overview:
 

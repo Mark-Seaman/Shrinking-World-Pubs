@@ -1,4 +1,4 @@
-# Lesson 9 - Milestone 3 - Requirements
+# Lesson 12 - Milestone 3 - Test
 
 ## Test-Driven Development
 
@@ -6,47 +6,57 @@ Test-Driven Development (TDD) is a software development methodology that emphasi
 
 **Key Principles of TDD:**
 
-1. **Write Tests First:** In TDD, you begin by writing a failing test that specifies the desired behavior of the code you're about to write. This test is a small, automated script that checks if the code functions as expected.
+**Write Tests First:** 
 
-2. **Write the Minimum Code:** After writing the failing test, you write the minimum amount of code necessary to make the test pass. This code should be simple and straightforward.
+In TDD, you begin by writing a failing test that specifies the desired behavior of the code you're about to write. This test is a small, automated script that checks if the code functions as expected.
 
-3. **Refactor:** Once the test passes, you can refactor the code without changing its external behavior. This step ensures that the code remains clean, maintainable, and efficient.
+**Write the Minimum Code:** 
 
-4. **Repeat:** The TDD cycle continues iteratively for each new piece of functionality or feature you want to add. Write a failing test, write the minimum code to pass it, and refactor as needed.
+After writing the failing test, you write the minimum amount of code necessary to make the test pass. This code should be simple and straightforward.
+
+**Refactor:** 
+
+Once the test passes, you can refactor the code without changing its external behavior. This step ensures that the code remains clean, maintainable, and efficient.
+
+**Repeat:** 
+
+The TDD cycle continues iteratively for each new piece of functionality or feature you want to add. Write a failing test, write the minimum code to pass it, and refactor as needed.
 
 **The TDD Cycle:**
 
 Let's break down the TDD cycle into three main phases:
 
-1. **Red:** In this phase, you write a failing test case. You're essentially defining what you want the code to do. Your test case checks whether the code exhibits the expected behavior. 
+**Red:** 
+
+In this phase, you write a failing test case. You're essentially defining what you want the code to do. Your test case checks whether the code exhibits the expected behavior. 
 
     *Example: Imagine you're building a simple calculator, and you want to add two numbers.*
 
-    ```python
     def test_addition():
         result = add(2, 3)
         assert result == 5  # This test will fail initially because 'add' is not defined yet.
-    ```
 
-2. **Green:** In this phase, you write the minimum code to make the test pass. Your goal is to make the test case go from red (failing) to green (passing).
+**Green:** 
+
+In this phase, you write the minimum code to make the test pass. Your goal is to make the test case go from red (failing) to green (passing).
 
     *Example: You implement the 'add' function.*
 
-    ```python
     def add(a, b):
         return a + b
-    ```
 
-3. **Refactor:** In this phase, you review your code to improve its structure, readability, or performance. You make changes without altering the external behavior validated by the test. 
+**Refactor:** 
+
+In this phase, you review your code to improve its structure, readability, or performance. You make changes without altering the external behavior validated by the test. 
 
     *Example: You refactor the 'add' function for clarity.*
 
-    ```python
     def add(augend, addend):
         return augend + addend
-    ```
 
-4. **Repeat:** You continue this cycle, adding more tests and code incrementally to build your application while ensuring that it behaves correctly and efficiently. Each cycle tightens the code and improves its quality.
+**Repeat:** 
+
+You continue this cycle, adding more tests and code incrementally to build your application while ensuring that it behaves correctly and efficiently. Each cycle tightens the code and improves its quality.
 
 **Why TDD?**
 
@@ -72,21 +82,20 @@ TDD is typically implemented using testing frameworks for various programming la
 
 **Additional Concepts:**
 
-1. **Unit Testing:** TDD primarily focuses on unit testing, where you test individual components (e.g., functions or methods) in isolation. This helps identify issues at the smallest level.
+**Unit Testing:** TDD primarily focuses on unit testing, where you test individual components (e.g., functions or methods) in isolation. This helps identify issues at the smallest level.
 
-2. **Integration Testing:** In addition to unit tests, integration tests ensure that different components work together correctly.
+**Integration Testing:** In addition to unit tests, integration tests ensure that different components work together correctly.
 
-3. **Continuous Integration (CI):** CI systems like Jenkins, Travis CI, or CircleCI automatically run your tests whenever you make changes to your code, ensuring that new code doesn't break existing functionality.
+**Continuous Integration (CI):** CI systems like Jenkins, Travis CI, or CircleCI automatically run your tests whenever you make changes to your code, ensuring that new code doesn't break existing functionality.
 
-4. **Test Doubles:** During testing, you might use test doubles like mocks, stubs, or fakes to isolate the code being tested.
+**Test Doubles:** During testing, you might use test doubles like mocks, stubs, or fakes to isolate the code being tested.
 
 **Example: Building a Simple Stack**
 
 Let's illustrate TDD with an example of building a simple stack data structure using Python and the `unittest` framework.
 
-1. **Red:** Write a failing test for the stack's `push` and `pop` operations.
+**Red:** Write a failing test for the stack's `push` and `pop` operations.
 
-    ```python
     import unittest
 
     class TestStack(unittest.TestCase):
@@ -94,11 +103,9 @@ Let's illustrate TDD with an example of building a simple stack data structure u
             stack = Stack()
             stack.push(5)
             self.assertEqual(stack.pop(), 5)  # This test will fail as the Stack class doesn't exist yet.
-    ```
 
-2. **Green:** Write the minimum code to make the test pass. Implement the `Stack` class with `push` and `pop` methods.
+**Green:** Write the minimum code to make the test pass. Implement the `Stack` class with `push` and `pop` methods.
 
-    ```python
     class Stack:
         def __init__(self):
             self.items = []
@@ -111,11 +118,10 @@ Let's illustrate TDD with an example of building a simple stack data structure u
                 return self.items.pop()
             else:
                 raise IndexError("pop from empty stack")
-    ```
 
-3. **Refactor:** No refactoring is needed in this simple example.
+**Refactor:** No refactoring is needed in this simple example.
 
-4. **Repeat:** Continue adding more test cases and code for other stack operations like `is_empty`, `peek`, and error handling.
+**Repeat:** Continue adding more test cases and code for other stack operations like `is_empty`, `peek`, and error handling.
 
 By following the TDD cycle, you ensure that each piece of functionality you add to your stack is tested thoroughly, and you have confidence that it works correctly. This iterative process continues as you expand your stack's capabilities and maintain its quality.
 

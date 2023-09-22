@@ -45,10 +45,10 @@
 
 **Lessons**
 
-* [Lesson 5](/sweng/m3-Lesson_9.md) - Agile Software Development
-* [Lesson 6](/sweng/m3-Lesson_10.md) - Refactoring
-* [Lesson 7](/sweng/m3-Lesson_11.md) - Iterative Development
-* [Lesson 8](/sweng/m3-Lesson_12.md) - Test-Driven Development 
+* [Lesson 9](/sweng/m3-Lesson_9.md) - Agile Software Development
+* [Lesson 10](/sweng/m3-Lesson_10.md) - Refactoring
+* [Lesson 11](/sweng/m3-Lesson_11.md) - Iterative Development
+* [Lesson 12](/sweng/m3-Lesson_12.md) - Test-Driven Development 
 
 **Project**
 

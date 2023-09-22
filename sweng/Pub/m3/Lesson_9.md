@@ -29,27 +29,27 @@ Agile software development is a modern approach to software development that pri
 
 The Agile Manifesto provides the foundation for Agile principles, but the Agile community has expanded on these principles over time. Some of the key principles of Agile software development include:
 
-1. **Customer Collaboration:** Agile development involves continuous collaboration with customers and stakeholders to understand their needs and priorities. Feedback from customers is incorporated throughout the development process.
+**Customer Collaboration:** Agile development involves continuous collaboration with customers and stakeholders to understand their needs and priorities. Feedback from customers is incorporated throughout the development process.
 
-2. **Iterative and Incremental Development:** Agile projects are divided into small, manageable iterations or increments. At the end of each iteration, a potentially shippable product increment is delivered. This approach allows for flexibility and early value delivery.
+**Iterative and Incremental Development:** Agile projects are divided into small, manageable iterations or increments. At the end of each iteration, a potentially shippable product increment is delivered. This approach allows for flexibility and early value delivery.
 
-3. **Cross-Functional Teams:** Agile teams are typically small and cross-functional, meaning they have all the necessary skills and roles (developers, testers, designers, etc.) to complete a task or feature without dependencies on external teams.
+**Cross-Functional Teams:** Agile teams are typically small and cross-functional, meaning they have all the necessary skills and roles (developers, testers, designers, etc.) to complete a task or feature without dependencies on external teams.
 
-4. **Embracing Change:** Agile welcomes changing requirements, even late in the development process. Changes are seen as opportunities to provide better value to customers.
+**Embracing Change:** Agile welcomes changing requirements, even late in the development process. Changes are seen as opportunities to provide better value to customers.
 
-5. **Frequent Deliveries:** Agile teams aim to deliver working software frequently, often in short cycles. This allows for quick validation of ideas and keeps the product in sync with changing customer needs.
+**Frequent Deliveries:** Agile teams aim to deliver working software frequently, often in short cycles. This allows for quick validation of ideas and keeps the product in sync with changing customer needs.
 
-6. **Continuous Improvement:** Agile teams continuously reflect on their processes and seek ways to improve. This includes regular retrospectives to identify what went well and what needs to change.
+**Continuous Improvement:** Agile teams continuously reflect on their processes and seek ways to improve. This includes regular retrospectives to identify what went well and what needs to change.
 
-7. **Empowerment and Self-Organization:** Team members are empowered to make decisions and self-organize. Agile leaders provide support and guidance but trust the team to make the best choices.
+**Empowerment and Self-Organization:** Team members are empowered to make decisions and self-organize. Agile leaders provide support and guidance but trust the team to make the best choices.
 
-8. **Quality Focus:** Agile emphasizes delivering high-quality software by incorporating testing and quality assurance throughout the development process.
+**Quality Focus:** Agile emphasizes delivering high-quality software by incorporating testing and quality assurance throughout the development process.
 
-9. **Visibility and Transparency:** Agile teams maintain transparency through open communication and the use of visual tools like Kanban boards or Scrum boards to track progress.
+**Visibility and Transparency:** Agile teams maintain transparency through open communication and the use of visual tools like Kanban boards or Scrum boards to track progress.
 
-10. **Simplicity:** Agile teams strive for simplicity in design and development, avoiding unnecessary complexity that can hinder progress.
+**Simplicity:** Agile teams strive for simplicity in design and development, avoiding unnecessary complexity that can hinder progress.
 
-11. **Deliver Value:** The primary goal of Agile development is to deliver value to customers. Teams prioritize work based on its perceived value and focus on delivering features that provide the most benefit.
+**Deliver Value:** The primary goal of Agile development is to deliver value to customers. Teams prioritize work based on its perceived value and focus on delivering features that provide the most benefit.
 
 These Agile principles guide the behavior and mindset of Agile teams, fostering collaboration, adaptability, and a focus on delivering customer-centric solutions. Agile has become a widely adopted approach in software development, and its principles have also influenced practices in other domains, including project management and product development.
 
