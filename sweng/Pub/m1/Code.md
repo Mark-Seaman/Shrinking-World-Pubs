@@ -9,6 +9,21 @@
 - Decide how to publish your project docs
 - User Guide for development workflow
 
+## AI Playbook
+
+Learning to accomplish any task can be easy if you use the correct prompt in ChatGPT.
+Try out these sample prompts and build your own.
+Use ChatGPT to guide you through the specific details of how to accomplish your goals.
+
+Here are some interesting AI prompts to try.
+
+* How do I set up Django development tools?
+
+* How do I create a new Django Project?
+
+* Create a new Django view
+
+
 
 ## Job Description: Software Engineer
 

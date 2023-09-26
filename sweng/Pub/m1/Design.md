@@ -9,6 +9,22 @@
 * AI Prompts
 * Status Report with Video
 
+## AI Playbook
+
+Learning to accomplish any task can be easy if you use the correct prompt in ChatGPT.
+Try out these sample prompts and build your own.
+Use ChatGPT to guide you through the specific details of how to accomplish your goals.
+
+Here are some interesting AI prompts to try.
+
+* What are the most popular web development tools?
+
+* What are the four most popular web frameworks? How can I choose a web framework?
+
+* Write a setup guide for Django development tools.
+
+* Describe the core features in my application which does [...].
+
 
 ## Job Description: Software Designer
 

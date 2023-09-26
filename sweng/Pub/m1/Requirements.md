@@ -15,15 +15,6 @@
 - Sprint Planning meetings
 
 
-**Build your AI Playbook**
-
-Learning to accomplish any task can be easy if you use the correct prompt in ChatGPT.
-
-Try out these sample prompts and build your own.
-
-Use ChatGPT to guide you through the specific details of how to accomplish your goals.
-
-
 ## Requirements for Milestone 1
 
 * Project Charter
@@ -42,6 +33,27 @@ Use ChatGPT to guide you through the specific details of how to accomplish your 
     - Create AI Prompts to learn more about software engineering requirements gathering.
 
 Each deliverable is satisfied or will remain incomplete.  Grading is all or nothing for each item.
+
+## AI Playbook
+
+Learning to accomplish any task can be easy if you use the correct prompt in ChatGPT.
+Try out these sample prompts and build your own.
+Use ChatGPT to guide you through the specific details of how to accomplish your goals.
+
+Here are some interesting AI prompts to try.
+
+* I am building a software application with 7 Milestones. The first Milestone is to define
+the intial requirements for the project.  Tell me the critical tasks that should be complete
+in the first milestone.
+
+* Explain the initial requirements gathering process.
+Select the Four Most Important parts of this work.
+
+* Create user stories for a software app that displays markdown document files.
+
+* Estimate the effort in hours to build a commercial web application.
+
+* Describe the core features in my application.
 
 
 ## Job Description: Requirements Engineer
