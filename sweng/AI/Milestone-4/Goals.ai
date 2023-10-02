@@ -1,0 +1,15 @@
+## Milestone 4: Testing and Quality Assurance
+
+In this milestone, we must complete the product implementation for all of the features.  There will
+be an official checklist of features in the product backlog that will define the work to be done.
+A burn-down graph will track the remaining features and open defects in the product.  We will
+measure velocity to determine when the product will be done.
+
+We will test the web-based software app and ensure that it meets the requirements
+specified in the requirements document. We will use automated testing tools and manual testing to
+verify that the app works as expected. We will identify and fix any defects or issues that arise
+during testing.  50% of all code written must be test code. Code coverage should be over 95%
+
+---
+
+Write a plan to complete milestone 4. Use markdown formatting with h2 headings for each step with prose for the details.
