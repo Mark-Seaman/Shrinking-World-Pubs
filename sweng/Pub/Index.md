@@ -6,7 +6,7 @@
 * [Learn By Doing](/sweng/LearnByDoing.md)                                      
 * [Software Application Team Project](/sweng/TeamProject.md)                                                          
 
-## Milestone 1: Project Charter   
+## [Milestone 1 - Project Startup](/sweng/m1-Milestone.md)
 
 **Lessons**
 
@@ -17,13 +17,12 @@
 
 **Project**
 
-* [Milestone 1](/sweng/m1-Milestone.md)
 * [Requirements](/sweng/m1-Requirements.md)
 * [Design](/sweng/m1-Design.md)
 * [Code](/sweng/m1-Code.md)
 * [Test](/sweng/m1-Test.md)
 
-## Milestone 2: Technical Feasibility  
+## [Milestone 2 - Technical Feasibility](/sweng/m2-Milestone.md)
 
 **Lessons**
 
@@ -34,14 +33,13 @@
 
 **Project**
 
-* [Milestone 2](/sweng/m2-Milestone.md)
 * [Requirements](/sweng/m2-Requirements.md)
 * [Design](/sweng/m2-Design.md)
 * [Code](/sweng/m2-Code.md)
 * [Test](/sweng/m2-Test.md)
 
 
-## Milestone 3: Functional Prototype 
+## [Milestone 3 - Functional Prototype](/sweng/m3-Milestone.md)
 
 **Lessons**
 
@@ -52,14 +50,13 @@
 
 **Project**
 
-* [Milestone 3](/sweng/m3-Milestone.md)
 * [Requirements](/sweng/m3-Requirements.md)
 * [Design](/sweng/m3-Design.md)
 * [Code](/sweng/m3-Code.md)
 * [Test](/sweng/m3-Test.md)
 
 
-## Milestone 4: Functionality Complete
+## [Milestone 4 - Functionality Complete](/sweng/m3-Milestone.md)
 
 **Lessons**
 
@@ -68,10 +65,10 @@
 * [Lesson 11](/sweng/m4-Lesson_15.md) - Build the produce
 * [Lesson 12](/sweng/m4-Lesson_16.md) - Measure test coverage
 
-**Project**
 
-* [Milestone 4 - Functionality Complete](/sweng/m3-Milestone.md)
-<!-- * [Requirements](/sweng/m3-Requirements.md)
+
+<!-- **Project**
+* [Requirements](/sweng/m3-Requirements.md)
 * [Design](/sweng/m3-Design.md)
 * [Code](/sweng/m3-Code.md)
 * [Test](/sweng/m3-Test.md) -->
