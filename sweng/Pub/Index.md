@@ -58,3 +58,21 @@
 * [Code](/sweng/m3-Code.md)
 * [Test](/sweng/m3-Test.md)
 
+
+## Milestone 4: Functionality Complete
+
+**Lessons**
+
+* [Lesson 9](/sweng/m4-Lesson_13.md)   - Track the implementation progress
+* [Lesson 10](/sweng/m4-Lesson_14.md) - Implement all features
+* [Lesson 11](/sweng/m4-Lesson_15.md) - Build the produce
+* [Lesson 12](/sweng/m4-Lesson_16.md) - Measure test coverage
+
+**Project**
+
+* [Milestone 4 - Functionality Complete](/sweng/m3-Milestone.md)
+<!-- * [Requirements](/sweng/m3-Requirements.md)
+* [Design](/sweng/m3-Design.md)
+* [Code](/sweng/m3-Code.md)
+* [Test](/sweng/m3-Test.md) -->
+
