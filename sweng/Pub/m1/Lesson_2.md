@@ -1,4 +1,4 @@
-# Responsibilities in a Software Development Project
+# Lesson 2 - Responsibilities in a Software Development Project
 
 In a software development project, there are several key roles that are essential for success. Each
 role has its own set of responsibilities and contributes to different stages of the project. In

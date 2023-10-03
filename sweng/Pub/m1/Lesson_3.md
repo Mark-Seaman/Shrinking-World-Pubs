@@ -1,4 +1,4 @@
-# Software Development Milestones
+# Lesson 3 - Software Development Milestones
 
 The development proceed through a series of milestones.  At each checkpoint a number of criteria
 must be met in order for development to continue.

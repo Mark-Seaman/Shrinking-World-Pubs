@@ -1,4 +1,4 @@
-# Software Development Life Cycle
+# Lesson 1 - Software Development Life Cycle
 
 The Software Development Life Cycle (SDLC) is a framework that describes the phases and activities
 involved in software development. The SDLC typically consists of six phases:
