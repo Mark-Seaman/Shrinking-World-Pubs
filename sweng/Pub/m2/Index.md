@@ -13,7 +13,6 @@ architecture, prototyping the key feature and creating automated deployment.
 
 **Project**
 
-* [Milestone 2](/sweng/m2-Milestone.md)
 * [Requirements](/sweng/m2-Requirements.md) - Feature Set of MVP
 * [Design](/sweng/m2-Design.md) - Software Architecture
 * [Code](/sweng/m2-Code.md) - Prototype of key feature

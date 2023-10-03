@@ -16,7 +16,7 @@
     "menu": "static/js/nav_sw.json",
     "pub_type": "course",
     "auto_remove": false,
-    "auto_contents": true,
+    "auto_contents": false,
     "auto_index": true,
     "index_folders": false,
     "index_months": false,

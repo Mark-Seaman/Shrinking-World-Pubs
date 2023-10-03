@@ -16,7 +16,6 @@ the app should be working.
 
 **Project**
 
-* [Milestone 3](m3-Milestone.md)
 * [Requirements](m3-Requirements.md) - Plan a Sprint 
 * [Design](m3-Design.md) - Build data and views with Design Patterns
 * [Code](m3-Code.md) - Create basic application

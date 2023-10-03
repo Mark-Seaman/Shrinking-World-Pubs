@@ -16,8 +16,7 @@ Collaboration among team members is key to successful software development. Each
 
 **Project**
 
-* [Milestone 1](m1-Milestone.md)
-    * [Requirements](m1-Requirements.md)
-    * [Design](m1-Design.md)
-    * [Code](m1-Code.md)
-    * [Test](m1-Test.md)
+* [Requirements](m1-Requirements.md)
+* [Design](m1-Design.md)
+* [Code](m1-Code.md)
+* [Test](m1-Test.md)

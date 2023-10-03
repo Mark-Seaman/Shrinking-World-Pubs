@@ -44,7 +44,6 @@ Following these steps will ensure a robust and efficient testing and quality ass
 
 **Project**
 
-* [Milestone 3](m4-Milestone.md)
 * [Requirements](m4-Requirements.md) - Plan a Sprint 
 * [Design](m4-Design.md) - Build data and views with Design Patterns
 * [Code](m4-Code.md) - Create basic application
