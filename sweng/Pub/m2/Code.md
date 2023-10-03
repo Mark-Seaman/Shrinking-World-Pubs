@@ -1,6 +1,8 @@
-# Code Role Assignments - Milestone 2
+# Project - Code Role
 
-## Assignment: Prototype of key feature
+## Assignment for Milestone 2
+
+**Prototype of key feature**
 
 * Prototype of most important feature
 * Automated test of the feature

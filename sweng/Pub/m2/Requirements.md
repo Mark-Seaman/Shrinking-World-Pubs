@@ -1,6 +1,8 @@
-# Requirements Role Assignments - Milestone 2
+# Project - Requirements Role
 
-## Assignment: Project Features
+## Assignment for Milestone 2
+
+**Project Features**
 
 * Product Features for Phase 1 - Minimum Viable Product
 * Product Features for Phase 2 - Future Enhancements

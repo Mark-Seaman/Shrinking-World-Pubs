@@ -1,9 +1,11 @@
-# Design Role Assignments - Milestone 2
+# Project - Test Role
 
-## Assignment: Software Architecture
+## Assignment for Milestone 2
 
-* Software Architecture
-* Map of Data Types and Views
+**Software Architecture**
+
+* Define the data models and fields
+* Define the views to implement
 * AI Prompts
 * Status Report with Video
 

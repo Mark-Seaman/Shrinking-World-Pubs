@@ -1,4 +1,6 @@
-# Code Role Assignments - Milestone 3
+# Project - Code Role
+
+## Assignment for Milestone 3
 
 **Create basic application**
 

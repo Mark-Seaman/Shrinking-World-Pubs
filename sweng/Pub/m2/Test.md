@@ -1,6 +1,8 @@
-# Test Role Assignments - Milestone 2
+# Project - Test Role
 
-## Assignment: Automated deployment
+## Assignment for Milestone 2
+
+**Automated deployment**
 
 * One button deploy
 * Automated app test

@@ -1,4 +1,4 @@
-# Code Role Assignments - Milestone 1
+# Project - Code Role
 
 ## Milestone 1 Code Deliverables
 
@@ -22,7 +22,6 @@ Here are some interesting AI prompts to try.
 * How do I create a new Django Project?
 
 * Create a new Django view
-
 
 
 ## Job Description: Software Engineer

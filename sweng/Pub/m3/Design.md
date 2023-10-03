@@ -1,4 +1,6 @@
-# Design Role Assignments - Milestone 3
+# Project - Design Role
+
+## Assignment for Milestone 3
 
 **Build data and views with Design Patterns**
 

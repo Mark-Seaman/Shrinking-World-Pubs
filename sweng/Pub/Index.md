@@ -1,75 +1,54 @@
 # Software Engineering with AI
 
 
-## [Software Engineering with AI ](/sweng/Overview.md)                         
-
-* [Learn By Doing](/sweng/LearnByDoing.md)                                      
-* [Software Application Team Project](/sweng/TeamProject.md)                                                          
-
-## [Milestone 1 - Project Startup](/sweng/m1-Milestone.md)
-
-**Lessons**
-
-* [Lesson 1](/sweng/m1-Lesson_1.md) - Software Lifecycle
-* [Lesson 2](/sweng/m1-Lesson_2.md) - Development Roles
-* [Lesson 3](/sweng/m1-Lesson_3.md) - Planning Grid
-* [Lesson 4](/sweng/m1-Lesson_4.md) - Software Engineering with AI 
-
-**Project**
-
-* [Requirements](/sweng/m1-Requirements.md)
-* [Design](/sweng/m1-Design.md)
-* [Code](/sweng/m1-Code.md)
-* [Test](/sweng/m1-Test.md)
-
-## [Milestone 2 - Technical Feasibility](/sweng/m2-Milestone.md)
-
-**Lessons**
-
-* [Lesson 5](/sweng/m2-Lesson_5.md) - Feature Set
-* [Lesson 6](/sweng/m2-Lesson_6.md) - Architecture
-* [Lesson 7](/sweng/m2-Lesson_7.md) - Prototype
-* [Lesson 8](/sweng/m2-Lesson_8.md) - Deployment 
-
-**Project**
-
-* [Requirements](/sweng/m2-Requirements.md)
-* [Design](/sweng/m2-Design.md)
-* [Code](/sweng/m2-Code.md)
-* [Test](/sweng/m2-Test.md)
+## [Software Engineering with AI](/sweng/Index.md)                             
 
 
-## [Milestone 3 - Functional Prototype](/sweng/m3-Milestone.md)
-
-**Lessons**
-
-* [Lesson 9](/sweng/m3-Lesson_9.md) - Agile Software Development
-* [Lesson 10](/sweng/m3-Lesson_10.md) - Refactoring
-* [Lesson 11](/sweng/m3-Lesson_11.md) - Iterative Development
-* [Lesson 12](/sweng/m3-Lesson_12.md) - Test-Driven Development 
-
-**Project**
-
-* [Requirements](/sweng/m3-Requirements.md)
-* [Design](/sweng/m3-Design.md)
-* [Code](/sweng/m3-Code.md)
-* [Test](/sweng/m3-Test.md)
+## [Learn By Doing](/sweng/LearnByDoing.md)                                    
 
 
-## [Milestone 4 - Functionality Complete](/sweng/m3-Milestone.md)
-
-**Lessons**
-
-* [Lesson 9](/sweng/m4-Lesson_13.md)   - Track the implementation progress
-* [Lesson 10](/sweng/m4-Lesson_14.md) - Implement all features
-* [Lesson 11](/sweng/m4-Lesson_15.md) - Build the produce
-* [Lesson 12](/sweng/m4-Lesson_16.md) - Measure test coverage
+## [Course Overview](/sweng/Overview.md)                                       
 
 
+## [Software Application Team Project](/sweng/TeamProject.md)                  
 
-<!-- **Project**
-* [Requirements](/sweng/m3-Requirements.md)
-* [Design](/sweng/m3-Design.md)
-* [Code](/sweng/m3-Code.md)
-* [Test](/sweng/m3-Test.md) -->
 
+## [Milestone 1: Project Charter](/sweng/m1-Index.md)                          
+
+* [Project - Code Role](/sweng/m1-Code.md)                                      
+* [Project - Design Role](/sweng/m1-Design.md)                                  
+* [Software Development Life Cycle](/sweng/m1-Lesson_1.md)                      
+* [Responsibilities in a Software Development Project](/sweng/m1-Lesson_2.md)   
+* [Software Development Milestones](/sweng/m1-Lesson_3.md)                      
+* [AI and Software Engineering](/sweng/m1-Lesson_4.md)                          
+* [Project - Requirements Role](/sweng/m1-Requirements.md)                      
+* [Project - Test Role](/sweng/m1-Test.md)                                      
+
+## [Milestone 2: Technical Feasibility](/sweng/m2-Index.md)                    
+
+* [Project - Code Role](/sweng/m2-Code.md)                                      
+* [Project - Test Role](/sweng/m2-Design.md)                                    
+* [Lesson 5 - Milestone 2 - Requirements](/sweng/m2-Lesson_5.md)                
+* [Lesson 6 - Milestone 2 - Design](/sweng/m2-Lesson_6.md)                      
+* [Lesson 6 - Milestone 2 - Code](/sweng/m2-Lesson_7.md)                        
+* [Lesson 6 - Milestone 2 - Test](/sweng/m2-Lesson_8.md)                        
+* [Project - Requirements Role](/sweng/m2-Requirements.md)                      
+* [Project - Test Role](/sweng/m2-Test.md)                                      
+
+## [Milestone 3: Functional Prototype](/sweng/m3-Index.md)                     
+
+* [Project - Code Role](/sweng/m3-Code.md)                                      
+* [Project - Design Role](/sweng/m3-Design.md)                                  
+* [Lesson 10 - Milestone 3 - Design](/sweng/m3-Lesson_10.md)                    
+* [Lesson 11 - Milestone 3 - Code](/sweng/m3-Lesson_11.md)                      
+* [Lesson 12 - Milestone 3 - Test](/sweng/m3-Lesson_12.md)                      
+* [Lesson 9 - Milestone 3 - Requirements](/sweng/m3-Lesson_9.md)                
+* [Project - Requirements Role](/sweng/m3-Requirements.md)                      
+* [Project - Test Role](/sweng/m3-Test.md)                                      
+
+## [Milestone 4: Functionality Complete](/sweng/m4-Index.md)                   
+
+* [Lesson 13 - Milestone 4 - Requirements](/sweng/m4-Lesson_13.md)              
+* [Lesson 14 - Milestone 4 - Design](/sweng/m4-Lesson_14.md)                    
+* [Lesson 15 - Milestone 4 - Code](/sweng/m4-Lesson_15.md)                      
+* [Lesson 16 - Milestone 4 - Test](/sweng/m4-Lesson_16.md)                      
