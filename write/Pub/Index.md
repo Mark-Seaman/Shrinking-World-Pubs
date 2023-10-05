@@ -28,6 +28,7 @@ Tips on better writing
 ## Process
 
 - [The Creative Process](/write/CreativeProcess)
+- [The Golden Hour](/write/GoldenHour)
 - [Defining Moments](/write/Moments)
 - [It Is Not About Output](/write/NotAboutOutput)
 - [Writing Workflow](/write/WritingWorkflow)
