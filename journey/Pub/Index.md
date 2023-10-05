@@ -71,3 +71,5 @@
 * [Banks of the Missouri](/journey/Missouri.md)                                 
 * [Life Is What Happens When You're Busy Making Other Plans](/journey/LifeHappens.md)
 * [Stories To Tell Before I Die](/journey/StoriesToTell.md)                     
+* [The Ultimate Adventure: Exploring the World on a Repositioning Cruise](/journey/Cruise.md)
+* [Cruise 2024](/journey/Cruise2024.md)                                         
