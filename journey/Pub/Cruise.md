@@ -1,4 +1,4 @@
-# The Ultimate Adventure: Exploring the World on a Repositioning Cruise
+# Exploring the World
 
 ## Introduction
 
