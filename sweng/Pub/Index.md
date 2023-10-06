@@ -46,3 +46,7 @@
 * [Lesson 14 - Milestone 4 - Design](/sweng/m4-Lesson_14.md)                    
 * [Lesson 15 - Milestone 4 - Code](/sweng/m4-Lesson_15.md)                      
 * [Lesson 16 - Milestone 4 - Test](/sweng/m4-Lesson_16.md)                      
+* [Project - Requirements Role](/sweng/m4-Requirements.md)                      
+* [Project - Design Role](/sweng/m4-Design.md)                                  
+* [Project - Code Role](/sweng/m4-Code.md)                                      
+* [Project - Test Role](/sweng/m4-Test.md)                                      
