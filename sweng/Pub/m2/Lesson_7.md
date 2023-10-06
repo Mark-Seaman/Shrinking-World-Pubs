@@ -47,7 +47,7 @@ Implement the needed tests for views:
 * DELETE - Delete View
 
 
-# AI Prompts
+## AI Prompts
 
 Here are some interesting AI prompts to try.
 

@@ -66,10 +66,7 @@ By following the principles and practices of refactoring as taught by Martin Fow
 Here are some interesting AI prompts to try.
 
 * Identify the core data types within my app [app overview]
-
 * Try to reduce the data types to support.
-
 * Create Django data model for Student: name, email, github, server
-
 * Write function stubs for views of Student data type: List, Detail, Edit, Create, Delete
 

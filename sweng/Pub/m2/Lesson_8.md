@@ -55,7 +55,7 @@ Setup:
     pip install requests beautifulsoup4
     
 
-# AI Prompts
+## AI Prompts
 
 Here are some interesting AI prompts to try.
 
