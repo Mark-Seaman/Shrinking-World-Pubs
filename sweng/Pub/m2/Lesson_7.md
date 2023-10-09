@@ -1,4 +1,4 @@
-# Lesson 6 - Milestone 2 - Code
+# Lesson 7 - Milestone 2 - Code
 
 The goal of milestone 2 is to prove the technical feasibility.
 

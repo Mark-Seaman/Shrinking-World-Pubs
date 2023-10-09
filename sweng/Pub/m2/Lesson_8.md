@@ -1,4 +1,4 @@
-# Lesson 6 - Milestone 2 - Test
+# Lesson 8 - Milestone 2 - Test
 
 The goal of milestone 2 is to prove the technical feasibility.
 
