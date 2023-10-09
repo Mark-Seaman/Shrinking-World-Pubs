@@ -56,6 +56,7 @@
 * [Pure Water](/poem/PureWater.md)                                              
 * [Touched With Fire](/poem/TouchedWithFire.md)                                 
 * [The Beast](/poem/Beast.md)                                                   
+* [Hour of Bliss](/poem/HourOfBliss.md)                                         
 
 ## [ Part 3 - Herd Nature](/poem/Part3.md)                                     
 
