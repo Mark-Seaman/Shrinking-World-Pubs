@@ -22,8 +22,8 @@
 
 * [Lesson 5 - Milestone 2 - Requirements](/sweng/m2-Lesson_5.md)                
 * [Lesson 6 - Milestone 2 - Design](/sweng/m2-Lesson_6.md)                      
-* [Lesson 6 - Milestone 2 - Code](/sweng/m2-Lesson_7.md)                        
-* [Lesson 6 - Milestone 2 - Test](/sweng/m2-Lesson_8.md)                        
+* [Lesson 7 - Milestone 2 - Code](/sweng/m2-Lesson_7.md)                        
+* [Lesson 8 - Milestone 2 - Test](/sweng/m2-Lesson_8.md)                        
 * [Project - Requirements Role](/sweng/m2-Requirements.md)                      
 * [Project - Test Role](/sweng/m2-Design.md)                                    
 * [Project - Code Role](/sweng/m2-Code.md)                                      
@@ -31,10 +31,10 @@
 
 ## [Milestone 3: Functional Prototype](/sweng/m3-Index.md)                     
 
+* [Lesson 9 - Milestone 3 - Requirements](/sweng/m3-Lesson_9.md)                
 * [Lesson 10 - Milestone 3 - Design](/sweng/m3-Lesson_10.md)                    
 * [Lesson 11 - Milestone 3 - Code](/sweng/m3-Lesson_11.md)                      
 * [Lesson 12 - Milestone 3 - Test](/sweng/m3-Lesson_12.md)                      
-* [Lesson 9 - Milestone 3 - Requirements](/sweng/m3-Lesson_9.md)                
 * [Project - Requirements Role](/sweng/m3-Requirements.md)                      
 * [Project - Design Role](/sweng/m3-Design.md)                                  
 * [Project - Code Role](/sweng/m3-Code.md)                                      
