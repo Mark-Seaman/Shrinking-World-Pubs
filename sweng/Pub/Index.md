@@ -3,6 +3,7 @@
 
 ## [Software Engineering with AI](/sweng/course-Index.md)                      
 
+* [Teaching Software Engineering Skills](/sweng/course-Preface.md)              
 * [Course Overview](/sweng/course-Overview.md)                                  
 * [Learn By Doing](/sweng/course-LearnByDoing.md)                               
 * [Software Application Team Project](/sweng/course-TeamProject.md)             
