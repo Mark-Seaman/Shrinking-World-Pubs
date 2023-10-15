@@ -42,3 +42,6 @@
 * [Each Person has a Unique Perspective](/spirituality/HearDifferently.md)      
 * [The Mind of God within Us All](/spirituality/MindOfGod.md)                   
 * [Five Voices of God](/spirituality/FiveVoices.md)                             
+
+## [Prayer of Surrender](/spirituality/Surrender.md)                           
+
