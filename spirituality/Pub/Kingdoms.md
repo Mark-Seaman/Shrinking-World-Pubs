@@ -1,52 +1,97 @@
+# God's Kingdom vs. Human Ways
 
-God's kingdom is dramatically different than the human way.  Many view this as a subtle distinction that requires a great deal of discernment.  I view the separation between human ways and God's ways as blatantly obvious.  This article is intended to highlight the key differences between kingdoms.
-
-The human way is characterized by having power over others.  All governments operate on the dynamics of control.
-The power to control begins subtle at first but is always based on the threat of violence.  Law breakers are punished
-Sometimes this is wielded for the common good but it is always used to protect those who control the power.
-
-The primary characteristics of God's way stands in marked contrast to the human way of control.
-
-
-Humility
+As someone who has dedicated my life to teaching about discipleship and the path to following God, I
+feel it is important to highlight the profound differences between the ways of God's kingdom and
+the ways of humans. While some may view these differences as subtle and requiring great
+discernment, I believe that the separation between the two is blatantly obvious. In this article, I
+aim to shed light on these key differences and help us understand how we can embrace God's way in
+our own lives.
 
 
-Pride is at the root of our humanity. Every person not only wants to get their way but is also driven to dominate others. We band together as families, tribes, and nations to help our group achieve power over others.  Violence permeates every aspect of our societies as a result.
-
-Our lack of humility fuels the desire to win at the expense of others.  This makes us prone to being manipulated by fear to do evil things while calling them good.  Wanting to protect US we attack THEM.
-
-We do not set out to do evil.   We do, however what to get our way and protect our way of life.  We are willing to do evil deeds with the belief that the ends will justify the means.  Even the most horrific acts in history were promoted as just wars to create a better world.
-
-
-Faith
+The differences between God's way and the human way are fundamental and stark. By recognizing and
+understanding these differences, we can strive to align our lives more closely with God's kingdom.
+Embracing humility, placing our trust in God, fostering hope, and practicing love are central to
+living out God's way in our own lives. It is my hope that through this understanding, we can all
+work towards creating a world that reflects the values and principles of God's kingdom.
 
 
-Our actions are determined by our beliefs and values. Our trust will determine how we live our lives.  Some trust in money or power to make their lives worth living.  Some believe that if we could control the government that we would be able to have good life.
+## The Human Way: Power and Control
 
-I desire to be served by good leaders but also acknowledge that power corrupts.  As leader have more extreme power granted to them their desire to dominate their enemies inevitably follows.  All humans government will eventually be controlled by the powerful to increase their power.
+One of the defining characteristics of the human way is the desire for power and control over
+others. We see this in all aspects of our societies, especially in the operations of governments.
+While this power may start off subtle, it is ultimately based on the threat of violence and the
+punishment of lawbreakers. The intention behind this control may be to serve the common good, but
+it often ends up protecting the interests of those in power.
 
-Some forms of government seek to share the benefits of power with many while others seek to benefit a very few.  Therefore the goodness of our society can largely be measured by the degree to which everyone prospers.  
+## God's Way: Humility
 
-God's people should seek to influence the leaders while recognizing that we can't fully trust any form of government to protect all.  We try to build a more equitable world.  Yet we understand that our impact is quite limited.  Our trust in God lets us enjoy the life we live and release the desire to control what we can't.
+In stark contrast, God's way is characterized by humility. Our human nature is fueled by pride,
+causing us to not only want to get our own way but also to dominate others. We form groups, whether
+it be families, tribes, or nations, with the aim of achieving power over others. Sadly, violence
+becomes a pervasive part of our societies as a result.
 
+Our lack of humility feeds our desire to win at the expense of others. This makes us susceptible to
+manipulation and allows us to do evil things while convincing ourselves that they are good. In our
+quest to protect our own interests, we often attack and vilify those we perceive as threats.
 
-Hope
+It is important to recognize that while we may not set out to do evil, our desire to get our way and
+preserve our way of life can lead us to justify the means by the ends. This justification has been
+used throughout history to promote even the most horrific acts as just wars aimed at creating a
+better world.
 
+## Faith: Trusting in God
 
-Hope is believing that there is a better life available to us.  We all fear that the future is a place of pain and misery.  The news and social media are conduits of fear to manipulate our emotions.  Some have learned to weaponize these channels to accomplish their goals by playing to fear.
+Our actions are a reflection of our beliefs and values, and for many, the foundation of their lives
+lies in trust. Some place their trust in wealth or power, believing that these possessions will
+provide them with a good life. Others believe that if they can gain control over the government,
+they can secure a favorable outcome for themselves.
 
-We are all prone to both conscious manipulation and incidental tendencies to imagine to worst.  We must guard against the call to fear.  We need to become aware of the impact of what we expose our minds to.  It is important for us to develop a personal policy for the information that we consume.
+Personally, I desire good leaders who can serve the people. However, I also acknowledge that power
+has a tendency to corrupt. As leaders gain more and more power, their desire to dominate their
+enemies often follows. This is an inevitable trajectory in all human governments, as the powerful
+seek to increase their power even further.
 
-Our mental and emotional health are largely determined by what we believe.  Our biology makes us prone to believe the worst and live in a state of perpetual threat response.  Religious and political leaders have learned how to use our fear to control the masses to accomplish their goals. Beware of this dynamic and oppose it.
+Different forms of government vary in their approach to power-sharing. Some seek to distribute the
+benefits of power among many, while others concentrate it in the hands of a few. Therefore, the
+quality of our society can be measured by the extent to which everyone prospers.
 
+As God's people, we should strive to influence our leaders while recognizing that no form of
+government can be fully trusted to protect everyone. We can work towards building a more equitable
+world, but we must also understand that our impact is limited. Our trust in God allows us to find
+contentment in the life we have and release our desire to control what is beyond our reach.
 
-Love
+## Hope: Believing in a Better Life
 
+Hope is the belief that a better life is possible for us. We all have fears about the future,
+fearing that it will bring pain and misery. The media, both news and social, often exploit these
+fears, using them to manipulate our emotions. Some have even weaponized these channels to further
+their own goals by playing on our fears.
 
-Each of us need to feel loved.  We are biologically created to require love.  All society (family, tribe, nation, company, school, church, religion, culture) defines a strong sense of identity.  This creates a connection between us that can be profoundly nurishing (and life-giving) or entirely destructive.
+We are all susceptible to conscious manipulation and a natural tendency to imagine the worst.
+Therefore, it is crucial that we guard against the call to fear. We need to be mindful of the
+information we expose our minds to and develop our own personal policy for consuming information.
 
-Every form of social community creates an identity of US (my people) and THEM (those people).  We develop rules to separate US from THEM.  We learn to trust US and fear THEM.
+Our mental and emotional well-being is greatly influenced by what we believe. Our biology
+predisposes us to believe in the worst and live in a constant state of threat response. Religious
+and political leaders have learned to exploit our fear in order to control the masses and achieve
+their own goals. It is important to be aware of this dynamic and actively oppose it.
 
-When nations go to war the leaders systematically demonize THEM to show how killing THEM is making the world better.  This dynamic occurs at every level of community from families, schools, companies, and states.
+## Love: Building Connection
 
-Loving US is truly important but hating THEM is clearly demonic. Whenever we hear hate speak out we know that it is not the voice of God.  It doesn't matter is the person is recognized as a religious or political leader.  Godly leaders are always in favor of loving THEM.
+Every one of us has a fundamental need to feel loved. Our biology is wired to require love and
+connection. In society, whether it be within a family, tribe, nation, company, school, church,
+religion, or culture, we create a strong sense of identity. This identity builds a connection
+between us that can either be profoundly nurturing and life-giving or entirely destructive.
+
+Every social community fosters an "us vs. them" mentality. We establish rules and boundaries to
+separate "us" from "them." We learn to trust "us" and fear "them." Even within families, schools,
+companies, and states, this dynamic persists.
+
+When nations go to war, their leaders systematically demonize the enemy to justify the act of
+killing them as a means to create a better world. Unfortunately, this dynamic is present at all
+levels of community.
+
+Loving our own community is undoubtedly important, but hating others is clearly against the will of
+God. It does not matter whether the person spreading hate is a religious or political leader; their
+words do not align with the voice of God. True leaders guided by God will always advocate for love
+and compassion towards others, regardless of who they are.

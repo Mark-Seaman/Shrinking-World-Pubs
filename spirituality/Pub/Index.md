@@ -45,3 +45,6 @@
 
 ## [Prayer of Surrender](/spirituality/Surrender.md)                           
 
+
+## [God's Kingdom vs. Human Ways](/spirituality/Kingdoms.md)                   
+
