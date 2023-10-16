@@ -54,15 +54,15 @@ testing capabilities within the organization.
 
 **Lessons**
 
-* [Lesson 17](m4-Lesson_17.md) - 
-* [Lesson 18](m4-Lesson_18.md) - 
-* [Lesson 19](m4-Lesson_19.md) - 
-* [Lesson 20](m4-Lesson_20.md) - 
+* [Lesson 17](m4-Lesson_17.md) - Customer Acceptance
+* [Lesson 18](m4-Lesson_18.md) - Refactor with Design Patterns
+* [Lesson 19](m4-Lesson_19.md) - Demonstrate TDD
+* [Lesson 20](m4-Lesson_20.md) - Code Coverage
 
 **Project**
 
-* [Requirements](m5-Requirements.md) -
-* [Design](m5-Design.md) - 
-* [Code](m5-Code.md) - 
-* [Test](m5-Test.md) - 
+* [Requirements](m5-Requirements.md) - Customer Acceptance
+* [Design](m5-Design.md) - Refactor with Design Patterns
+* [Code](m5-Code.md) - Demonstrate TDD
+* [Test](m5-Test.md) - Code Coverage
 
