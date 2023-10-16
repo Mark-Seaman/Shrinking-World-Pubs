@@ -51,3 +51,14 @@
 * [Project - Design Role](/sweng/m4-Design.md)                                  
 * [Project - Code Role](/sweng/m4-Code.md)                                      
 * [Project - Test Role](/sweng/m4-Test.md)                                      
+
+## [Milestone 5 - Code Complete](/sweng/m5-Index.md)                           
+
+* [Lesson 17 - Milestone 5 - Requirements](/sweng/m5-Lesson_17.md)              
+* [Lesson 18 - Milestone 5 - Design](/sweng/m5-Lesson_18.md)                    
+* [Lesson 19 - Milestone 5 - Code](/sweng/m5-Lesson_19.md)                      
+* [Lesson 20 - Milestone 5 - Test](/sweng/m5-Lesson_20.md)                      
+* [Document not found](/sweng/m5-Requirements.md)                               
+* [Document not found](/sweng/m5-Design.md)                                     
+* [Document not found](/sweng/m5-Code.md)                                       
+* [Document not found](/sweng/m5-Test.md)                                       
