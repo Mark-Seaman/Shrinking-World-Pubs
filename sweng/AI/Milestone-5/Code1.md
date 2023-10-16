@@ -1,0 +1,17 @@
+During Milestone 5 the primary goal is to finish out the features of the product and to enure that
+they are what is needed by the customers.
+
+The Programmer must deliver the following items...
+
+- Review code and provide feedback to team members
+- Collaborate with project manager on project evaluation
+- Seek feedback from team members on code improvements
+- Provide progress updates on code development
+- All features complete
+- Record TDD log (features, iterations, pass/fail, time)
+
+Select the four main deliverables for Milestone 5.
+
+Create markdown headings.
+
+Write a one paragraph brief description for each goal.

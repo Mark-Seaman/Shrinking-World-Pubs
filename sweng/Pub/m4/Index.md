@@ -40,10 +40,10 @@ Once defects are fixed, re-test the affected areas of the app to ensure that the
 
 **Lessons**
 
-* [Lesson 9](m4-Lesson_13.md)   - Track the implementation progress
-* [Lesson 10](m4-Lesson_14.md) - Implement all features
-* [Lesson 11](m4-Lesson_15.md) - Build the full product
-* [Lesson 12](m4-Lesson_16.md) - Measure test coverage
+* [Lesson 13](m4-Lesson_13.md) - Track the implementation progress
+* [Lesson 14](m4-Lesson_14.md) - Implement all features
+* [Lesson 15](m4-Lesson_15.md) - Build the full product
+* [Lesson 16](m4-Lesson_16.md) - Measure test coverage
 
 **Project**
 
