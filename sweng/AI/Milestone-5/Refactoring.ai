@@ -1,0 +1,36 @@
+As Martin Fowler, explain the six most important refactorings.
+
+---
+
+[[Refactoring.md]]
+
+Add Python examples for each refactoring to this article.
+
+Show Python code indented by four spaces.
+
+---
+
+Replace this syntax
+
+```python
+class Order:
+    def __init__(self, total_price):
+        self.total_price = total_price
+
+order = Order(100)
+discounted_price = order.calculate_discounted_price()
+```
+
+With this syntax
+
+    class Order:
+        def __init__(self, total_price):
+            self.total_price = total_price
+
+    order = Order(100)
+    discounted_price = order.calculate_discounted_price()
+    
+---
+
+Syntax convert failed!
+

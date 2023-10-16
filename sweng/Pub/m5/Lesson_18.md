@@ -22,15 +22,7 @@ the design, ensuring it meets the needs and expectations of customers. Actively 
 demonstrates the designer's commitment to creating the best possible product.
 
 
-## Design improvements
-
-Keeping stakeholders informed about the project's status is essential, and providing design updates
-and progress reports is one way to do this. These updates may include details on design revisions,
-milestones achieved, and any challenges or obstacles encountered. By regularly communicating
-progress, the designer maintains transparency and ensures that everyone involved in the project has
-a clear understanding of its current state. This enables stakeholders to provide valuable input and
-make informed decisions.
-
+## Refactoring
 
 Refactoring is the process of making changes to the design to improve its structure and readability.
 Selecting one design area and refactoring it can simplify the design and make it more efficient. A
@@ -38,6 +30,152 @@ refactoring report is a comprehensive document that highlights the changes made 
 throughout the development process. It compares the design before and after the refactoring
 process, explaining the reasons for the changes and the impact they had on the overall product.
 This report serves as a reference for future iterations or updates.
+
+Refactoring is a crucial skill for software developers. It's the art of improving the design of existing code without changing its behavior. By refactoring code, we can make it more readable, maintainable, and efficient. While there are many refactoring techniques, here are the six most important ones, as outlined by Martin Fowler:
+
+### Extract Method
+
+Imagine you have a long and convoluted method that performs multiple actions. It's hard to understand and debug. The Extract Method refactoring comes to the rescue. It allows us to take a block of code within a larger method and extract it into a separate method. Let's look at an example in Python:
+
+    def calculate_total_price(quantity, unit_price):
+        total_price = quantity * unit_price
+        tax = total_price * 0.1
+        discounted_price = total_price - tax
+        shipping_cost = calculate_shipping_cost(quantity)
+        final_price = discounted_price + shipping_cost
+        return final_price
+
+    def calculate_shipping_cost(quantity):
+        return 5 * quantity
+
+In this example, we extract the code responsible for calculating shipping cost into a separate method called `calculate_shipping_cost()`. This makes the code more readable and allows us to reuse the shipping cost calculation logic in other parts of our code.
+
+### Inline Method
+
+On the flip side, the Inline Method technique involves removing a method and placing its code directly into the calling code. This refactoring is useful when a method becomes unnecessary due to changes in the codebase or when the method no longer provides value. Let's take a look at an example:
+
+    class Order:
+        def __init__(self, total_price):
+            self.total_price = total_price
+
+        def get_total_price(self):
+            return self.total_price
+
+        def calculate_discounted_price(self):
+            discount = 0.2
+            discounted_price = self.total_price * (1 - discount)
+            return discounted_price
+
+    order = Order(100)
+    discounted_price = order.calculate_discounted_price()
+
+In this example, the `calculate_discounted_price()` method doesn't add much value since it's just a simple calculation. We can inline the method, removing the extra layer of abstraction:
+
+    class Order:
+        def __init__(self, total_price):
+            self.total_price = total_price
+
+        def get_total_price(self):
+            return self.total_price
+
+    order = Order(100)
+    discounted_price = order.total_price * 0.8
+
+By inlining the method, we improve the clarity of the code.
+
+### Extract Variable
+
+Complex expressions can hinder code readability. The Extract Variable refactoring allows us to break down these expressions into smaller, more readable parts by assigning them to variables. Let's see an example:
+
+    def calculate_order_total(quantity, unit_price, tax_rate):
+        total_price = quantity * unit_price
+        tax = total_price * tax_rate
+        discounted_price = total_price - tax
+        shipping_cost = 5 * quantity
+        final_price = discounted_price + shipping_cost
+        return final_price
+
+In this example, the expression `quantity * unit_price` is repeated twice. We can improve the readability by extracting it into a variable:
+
+    def calculate_order_total(quantity, unit_price, tax_rate):
+        total_price = quantity * unit_price
+        tax = total_price * tax_rate
+        discounted_price = total_price - tax
+        shipping_cost = 5 * quantity
+        final_price = discounted_price + shipping_cost
+        return final_price
+
+By assigning the expression to the variable `total_price`, we make the code easier to understand and modify.
+
+### Inline Variable
+
+Sometimes, variables are only referenced once in the code, which adds unnecessary complexity. The Inline Variable technique allows us to replace the variable with its value in places where it is only referenced once. Let's take a look at an example:
+
+    def calculate_circle_area(radius):
+        pi = 3.14
+        circle_area = pi * radius * radius
+        return circle_area
+
+In this example, the variable `pi` is only used once. We can inline it:
+
+    def calculate_circle_area(radius):
+        circle_area = 3.14 * radius * radius
+        return circle_area
+
+By eliminating the variable `pi`, we reduce clutter in the code and make it more concise.
+
+### Move Method
+
+Sometimes, a method is more closely related to another class than its current class. The Move Method refactoring allows us to relocate the method from one class to another. Let's see an example:
+
+    class Rectangle:
+        def __init__(self, width, height):
+            self.width = width
+            self.height = height
+
+        def calculate_area(self):
+            return self.width * self.height
+
+    class Square:
+        def __init__(self, side):
+            self.side = side
+
+        def calculate_area(self):
+            return self.side * self.side
+
+In this example, both `Rectangle` and `Square` classes have a method called `calculate_area()`, even though the calculation logic is different. We can move the `calculate_area()` method from `Square` to `Rectangle` to improve code coherence:
+
+    class Rectangle:
+        def __init__(self, width, height):
+            self.width = width
+            self.height = height
+
+        def calculate_area(self):
+            return self.width * self.height
+
+    class Square(Rectangle):
+        def __init__(self, side):
+            super().__init__(side, side)
+
+By moving the `calculate_area()` method, we ensure that each class is responsible for its own data and behavior.
+
+### Rename Method
+
+Choosing clear and descriptive names for methods is essential for code readability. The Rename Method refactoring involves changing the name of a method to better reflect its purpose and improve its readability. Let's consider an example:
+
+    class Calculator:
+        def calculate(self, a, b):
+            return a + b
+
+In this example, the method name `calculate` is too generic. We can rename it to `add_numbers`:
+
+    class Calculator:
+        def add_numbers(self, a, b):
+            return a + b
+
+By choosing a clearer and more descriptive name, we make the code more self-explanatory and maintainable.
+
+These six important refactorings provide a solid foundation for improving code quality and maintainability. By applying these techniques, we can enhance the structure, readability, and flexibility of our code, making it easier to understand and modify in the long run. Happy refactoring!
 
 
 ## Design pattern catalog
