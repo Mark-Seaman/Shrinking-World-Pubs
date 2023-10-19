@@ -3,6 +3,10 @@
 
 ## [Essence of Life](/spirituality/LifeWithGod.md)                             
 
+* [Experience God Daily](/spirituality/Experience.md)                           
+* [Spiritual Relationships](/spirituality/Relationships.md)                     
+* [Embracing Truth](/spirituality/Truth.md)                                     
+* [Personal Growth](/spirituality/Growth.md)                                    
 
 ## [Worship](/spirituality/Worship.md)                                         
 
