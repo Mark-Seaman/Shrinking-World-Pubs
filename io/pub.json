@@ -14,7 +14,7 @@
     "words": 14139,
     "cover_image": "/static/images/io/Cover-400.png",
     "menu": "static/js/nav_blog.json",
-    "pub_type": "private",
+    "pub_type": "blog",
     "auto_remove": false,
     "auto_contents": true,
     "auto_index": true,

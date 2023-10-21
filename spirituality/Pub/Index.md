@@ -24,6 +24,10 @@
 
 ## [Teaching](/spirituality/Teaching.md)                                       
 
+* [Importance of Sound Teaching](/spirituality/SoundTeaching.md)                
+* [Discerning the True and False](/spirituality/TrueFalse.md)                   
+* [The Truth Hurts](/spirituality/TruthHurts.md)                                
+* [Lies Kill](/spirituality/LiesKill.md)                                        
 
 ## [Discipleship](/spirituality/Discipleship.md)                               
 

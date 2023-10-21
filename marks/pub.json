@@ -14,7 +14,7 @@
     "words": 1183,
     "cover_image": "/static/images/MarkSeaman.org/mark-cover-400.png",
     "menu": "static/js/nav_blog.json",
-    "pub_type": "blog",
+    "pub_type": "private",
     "auto_remove": false,
     "auto_contents": false,
     "auto_index": false,
