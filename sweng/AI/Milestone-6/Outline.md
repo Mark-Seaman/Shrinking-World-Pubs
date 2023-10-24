@@ -1,10 +1,10 @@
-# Milestone 6: Issues Review
+# Milestone 6: Software Product Release
 
 ### Project Manager
-- Review project issues and challenges
-- Identify root causes and develop action plans
+- Gain approval for product release from customer
 - Coordinate with team members to resolve issues
 - Communicate issue resolutions to stakeholders
+- Update operations plans
 
 ### Designer
 - Review design-related issues and challenges
