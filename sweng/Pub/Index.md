@@ -62,3 +62,10 @@
 * [Project - Design Role](/sweng/m5-Design.md)                                  
 * [Project - Code Role](/sweng/m5-Code.md)                                      
 * [Project - Test Role](/sweng/m5-Test.md)                                      
+
+## [[Milestone 6 - Software Release](m6-Index.md)](/sweng/m6-Index.md)         
+
+* [Lesson 21 - Milestone 6 - Requirements](/sweng/m6-Lesson_21.md)              
+* [Lesson 22 - Milestone 6 - Design](/sweng/m6-Lesson_22.md)                    
+* [Lesson 23 - Milestone 6 - Code](/sweng/m6-Lesson_23.md)                      
+* [Lesson 24 - Milestone 6 - Test](/sweng/m6-Lesson_24.md)                      
