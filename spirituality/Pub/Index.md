@@ -59,4 +59,4 @@
 * [God's Way Humility](/spirituality/Humility.md)                               
 * [Faith: Trusting in God](/spirituality/Faith.md)                              
 * [Hope: Believing in a Better Life](/spirituality/Hope.md)                     
-* [ Love: Building Connection](/spirituality/Compassion.md)                     
+* [Love: Building Connection](/spirituality/Compassion.md)                      
