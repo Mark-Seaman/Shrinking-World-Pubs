@@ -56,3 +56,7 @@
 
 ## [God's Kingdom vs. Human Ways](/spirituality/Kingdoms.md)                   
 
+* [God's Way Humility](/spirituality/Humility.md)                               
+* [Faith: Trusting in God](/spirituality/Faith.md)                              
+* [Hope: Believing in a Better Life](/spirituality/Hope.md)                     
+* [ Love: Building Connection](/spirituality/Compassion.md)                     
