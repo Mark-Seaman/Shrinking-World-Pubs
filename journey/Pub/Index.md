@@ -53,7 +53,9 @@
 
 ## [Part 7 - Mature Years](/journey/Part7.md)                                  
 
+* [My Unfolding Career](/journey/Career.md)                                     
 * [Discovering Teaching](/journey/Teaching.md)                                  
+* [Is Higher Education in Crisis?](/journey/HigherEd.md)                        
 * [Ghosts of the Fairgrounds](/journey/Fairgrounds.md)                          
 * [Day on the Volcano](/journey/Volcano.md)                                     
 * [Travel Stories](/journey/TravelStories.md)                                   
@@ -62,7 +64,6 @@
 
 ## [Part 8 - Seniority Years](/journey/Part8.md)                               
 
-* [My Unfolding Career](/journey/Career.md)                                     
 * [4 Essential Skills for a Content Creator](/journey/CreatorSkills.md)         
 * [Season of Old Age](/journey/SeasonOfOldAge.md)                               
 * [Grand Mesa Perspective](/journey/GrandMesa.md)                               
