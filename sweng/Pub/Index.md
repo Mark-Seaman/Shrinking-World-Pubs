@@ -69,3 +69,7 @@
 * [Lesson 22 - Milestone 6 - Design](/sweng/m6-Lesson_22.md)                    
 * [Lesson 23 - Milestone 6 - Code](/sweng/m6-Lesson_23.md)                      
 * [Lesson 24 - Milestone 6 - Test](/sweng/m6-Lesson_24.md)                      
+* [Project - Requirements Role](/sweng/m6-Requirements.md)                      
+* [Project - Design Role](/sweng/m6-Design.md)                                  
+* [Project - Code Role](/sweng/m6-Code.md)                                      
+* [Project - Test Role](/sweng/m6-Test.md)                                      

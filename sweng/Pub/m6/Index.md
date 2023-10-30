@@ -30,8 +30,8 @@ In conclusion, the release of a software product is a significant milestone that
 
 **Project**
 
-* [Requirements](m6-Requirements.md) - Release Criteria
-* [Design](m6-Design.md) - Simplify the Design
-* [Code](m6-Code.md) - Complete the Code
-* [Test](m6-Test.md) - Resolve All Issues
+* [Requirements](m6-Requirements.md) - Customer Feedback from Live Customers
+* [Design](m6-Design.md) - Devops and Data Management
+* [Code](m6-Code.md) - Github Copilot
+* [Test](m6-Test.md) - Automated Server Update
 
