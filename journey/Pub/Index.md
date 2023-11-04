@@ -37,6 +37,7 @@
 * [Weapons of Mass Destruction](/journey/WMD.md)                                
 * [Technology Innovations](/journey/TechTimeline.md)                            
 * [The Prima Donna Farm](/journey/PrimaDonnaFarm.md)                            
+* [Whitewater Rafting](/journey/Whitewater.md)                                  
 
 ## [Part 5 - The Success Years](/journey/Part5.md)                             
 
