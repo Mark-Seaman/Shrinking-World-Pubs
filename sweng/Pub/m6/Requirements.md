@@ -2,12 +2,11 @@
 
 ## Assignment for Milestone 6
 
-* Client Acceptance
+* Client Acceptance Meeting
 * Customer Feedback (6 live customers)
 * Live Production Server
 * Issue Resolution
 * AI Prompts
-* Status Report with Video
 
 
 ## AI Prompts

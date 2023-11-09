@@ -2,8 +2,6 @@
 
 ## Assignment for Milestone 6
 
-**Refactor with Design Patterns**
-
 * Define database management policy and practices
 * Design operations processes
 * AI Prompts
