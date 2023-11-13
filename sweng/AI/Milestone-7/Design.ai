@@ -1,0 +1,23 @@
+
+write a detailed job assignment for the Design work that must be done for Milestone 7.
+
+
+# Milestone 7 - Product Upgrade - Design
+
+## Deliverables
+
+- Report on data management policies and devops
+- Create a plan for how to work with data
+	- Backup
+	- Migration policies
+	- Test servers
+	- Approval process
+	- Performance monitoring
+	- Scaling plan
+
+##  AI Prompts
+
+	- Create a report for the devops policies to implement
+	- Explain how to scale [our software servers] to handle more users
+	- Describe the monitoring software to use
+

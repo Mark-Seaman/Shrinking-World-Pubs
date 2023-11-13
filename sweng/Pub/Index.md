@@ -73,3 +73,10 @@
 * [Project - Design Role](/sweng/m6-Design.md)                                  
 * [Project - Code Role](/sweng/m6-Code.md)                                      
 * [Project - Test Role](/sweng/m6-Test.md)                                      
+
+## [Milestone 7 - Product Upgrade](/sweng/m7-Index.md)                         
+
+* [Lesson 21 - Planning a Product Upgrade](/sweng/m7-Lesson_25.md)              
+* [Lesson 26 - DevOps and Data Management](/sweng/m7-Lesson_26.md)              
+* [Lesson 27 - User Guide and Release Notes](/sweng/m7-Lesson_27.md)            
+* [Lesson 28 - Security Review Checklist](/sweng/m7-Lesson_28.md)               
