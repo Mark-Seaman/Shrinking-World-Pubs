@@ -46,6 +46,7 @@ policies, and develop a sign off form for the security checklist.
 * [Lesson 26](m7-Lesson_26.md) - Engage the Customer
 * [Lesson 27](m7-Lesson_27.md) - Use AI to Write
 * [Lesson 28](m7-Lesson_28.md) - Create a Data Management Plan
+* [Lesson 29](m7-Lesson_29.md) - Productivity and Learning
 
 <!-- **Project**
 

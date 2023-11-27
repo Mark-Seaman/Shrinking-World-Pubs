@@ -1,4 +1,4 @@
-# Lesson 21 - Planning a Product Upgrade
+# Lesson 25 - Planning a Product Upgrade
 
 In this job assignment, your task is to focus on the requirements work that needs to be done for Milestone 7 of the
 product upgrade. Your responsibilities will include planning a product upgrade, fixing defects, enhancing existing
