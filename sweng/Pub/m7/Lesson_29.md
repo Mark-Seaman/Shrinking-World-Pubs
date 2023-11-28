@@ -13,11 +13,14 @@ The goal of this lesson is to learn how to improve productivity by learning. The
 
 ## Lifelong Learning
 
-Lifelong learning is the ticket to success.  Whatever you know will not be enough to carry you forward.  You must learn new skills and knowledge to keep up with the changing world.  
+Lifelong learning is the ticket to success.  Whatever you know will not be enough to carry you forward.  You must learn
+new skills and knowledge to keep up with the changing world.  
 
-Engineers should keep a list of the top skills they need to learn.  This list should be updated every year.  The list should be prioritized and the top 5 skills should be the focus of learning. 
+Engineers should keep a list of the top skills they need to learn.  This list should be updated every year.  The list
+should be prioritized and the top 5 skills should be the focus of learning. 
 
-What you will learn in the next year will be more important than what you already know.  The skills you learn will be the most important factor in your success.  The skills you learn will determine your value to the company.
+What you will learn in the next year will be more important than what you already know.  The skills you learn will be
+the most important factor in your success.  The skills you learn will determine your value to the company.
 
 
 ## 50 Skills to Produce a Web App
@@ -46,8 +49,8 @@ take about 50 hours.
 ![Learning Curve](img/Productivity.png)
 
 The learning curve shows how the time spent learning decreases over time.  The first time you try a new skill, all of your
-time is spent learning.  You are not productive.  But as you practice the skill, you become more productive.  You can  
-apply the skill without thinking.  You can apply the skill in about an hour.  
+time is spent learning.  You are not productive.  But as you practice the skill, you become more productive.  You can
+apply the skill without thinking.  You can apply the skill in about an hour.
 
 As you learn more skills, you become more productive.  Over time you spend a smaller percentage of your time learning and
 a larger percentage of your time applying your skills.  You become more productive.  You can build applications faster.
@@ -60,7 +63,7 @@ practice.
 ## Link to Productivity
 
 The learning curve shows that the time spent learning decreases over time. Each person will learn at a different rate but
-the curve will be the same. 
+the curve will be the same.
 
 My productivity is doubled as the amount of time spent learning decreases.  I believe that this is based on reducing the
 remaining lack of knowledge.  As I learn more, I have less to learn.  
@@ -82,7 +85,7 @@ Imagine that you are a software engineer just starting, and are paid $60,000 per
 to an experienced engineer making $10,000.  This means that you are worth $25,000 per year to the company.  You are paid
 $60,000 per year.  This means that the company is losing $35,000 the first year.
 
-But as your skill grows, your productivity increases.  After 3 years, you are 80% productive.  This means that you are  
+But as your skill grows, your productivity increases.  After 3 years, you are 80% productive.  This means that you are
 worth $80,000 per year to the company.  You are now paid $66,000 per year.  This means that the company is making $14,000
 from your work.  You are now a valuable asset to the company.
 
@@ -94,7 +97,7 @@ be a valuable asset to the company.
 ## Summary
 
 Investing in your learning is the best investment you can make.  The more you learn, the more valuable you become.
-As you follow the learning curve your productivity rises.  Your primary asset is not your current knowledge but your    
+As you follow the learning curve your productivity rises.  Your primary asset is not your current knowledge but your
 ability to learn.
 
 This is most true for software engineers in the early part of the curve.  What you will do over the next two years 
