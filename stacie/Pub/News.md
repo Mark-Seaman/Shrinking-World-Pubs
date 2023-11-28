@@ -3,6 +3,9 @@
 ## Nov 30
 First chemo treatment at Medical Center of the Rockies.  
 
+## Nov 29
+Install port for chemo treatments.
+
 ## Nov 24
 Thanksgiving celebration with kids and grandkids.
 

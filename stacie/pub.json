@@ -5,5 +5,8 @@
     "url": "/stacie",
     "author": "Mark Seaman",
     "description": "News and updates from Stacie Seaman.",
-    "doc_path": "Documents/Shrinking-World-Pubs/stacie/Pub"
+    "css": "/static/css/stacie.css",
+    "doc_path": "Documents/Shrinking-World-Pubs/stacie/Pub",
+    "image_path": "/static/images/Shrinking-World-Pubs/stacie",
+    "logo": "/static/images/Shrinking-World-Pubs/stacie/Stacie.jpg"
 }

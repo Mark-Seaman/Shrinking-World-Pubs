@@ -8,7 +8,4 @@ If you have a story to share, please write it down and post it.  Our moderators 
 
 Think of a time with Stacie's words and action were a source of strength and inspiration and made a difference in your life.
 
-
-## Encouragement from Friends
-
-* [The Love of My Life](stories-LoveOfMyLife.md) by Mark Seaman
+<a class="btn btn-success" href="/note/add">Send a message to Stacie</a>
