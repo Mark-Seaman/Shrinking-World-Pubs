@@ -1,11 +1,12 @@
 {
     "name": "stacie",
-    "site_title": "Stacie's Place",
-    "site_subtitle": "News from Stacie Seaman",
+    "site_title": "Stacie's Cancer Detour",
+    "site_subtitle": "Health News from Stacie Seaman",
     "url": "/stacie",
     "author": "Mark Seaman",
     "description": "News and updates from Stacie Seaman.",
     "css": "/static/css/stacie.css",
+    "menu": "static/js/nav_stacie.json",
     "doc_path": "Documents/Shrinking-World-Pubs/stacie/Pub",
     "image_path": "/static/images/Shrinking-World-Pubs/stacie",
     "logo": "/static/images/Shrinking-World-Pubs/stacie/Stacie.jpg"
