@@ -1,7 +1,10 @@
 # News Updates 
 
+### Dec 1
+Education session for chemo treatment. Schedule the first chemo treatment for Dec 7. 
+
 ### Nov 30
-First chemo treatment at Medical Center of the Rockies.  
+Create a treatment plan at UCHealth Greeley.  
 
 ### Nov 29
 Install port for chemo treatments.
