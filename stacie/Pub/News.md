@@ -38,7 +38,7 @@ MRI with Contrast reveals tumors detected on liver.
 Ultrasound reveals a mass on the liver. Test reveals a blocked bile duct explaining the jaundice.
 
 ### Oct 17
-Blood work reveals elevated liver enzimes and bilirubin.
+Blood work reveals elevated liver enzymes and bilirubin.
 
 ### Oct 10
 Stacie had a lot of pain that we could not explain. Soon she was appearing visibly jaundiced.

@@ -18,7 +18,9 @@ We hope that you will share your thoughts and feelings with Stacie.  We hope tha
 
 ## Meals
 
-If you would like to help with meals, we've set up a [Meal Train](https://www.mealtrain.com/trains/gk5eml).  You can sign up to bring a meal or help with errands.
+If you would like to help with meals, we've set up a 
+<a class="btn brown" href="https://www.mealtrain.com/trains/gk5eml" target="share">Meal Train</a>.  
+You can sign up to bring a meal or help with errands.
 
 
 ## Flowers
