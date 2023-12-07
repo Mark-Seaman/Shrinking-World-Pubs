@@ -1,5 +1,15 @@
 # News Updates 
 
+### Dec 7
+Work on building strength with focus on hydration, eating, and sleeping.
+
+### Dec 6
+Meet with dietician to discuss nutrition during chemo.  
+
+### Dec 5
+Approval received to pay for expensive immunotherapy drug.  But first chemo treatment
+is moved to Dec 14.
+
 ### Dec 1
 Education session for chemo treatment. Schedule the first chemo treatment for Dec 7. 
 

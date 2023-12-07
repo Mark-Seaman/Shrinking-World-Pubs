@@ -5,7 +5,5 @@ It will be reviewed by our moderators and published on this page.
 
 Thank you for your support.
 
-[Back To Encouragement](/stacie/Encouragement.md)
-
-[Back To Stacie's Place](/stacie/Index.md)
+<a class="btn btn-primary" href="/stacie/Encouragement.md">Show All Messages</a>
 
