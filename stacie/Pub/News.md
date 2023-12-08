@@ -1,5 +1,8 @@
 # News Updates 
 
+### Dec 14
+First chemo infusion.
+
 ### Dec 7
 Work on building strength with focus on hydration, eating, and sleeping.
 
