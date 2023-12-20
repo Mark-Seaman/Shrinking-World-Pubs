@@ -1,7 +1,19 @@
 # News Updates 
 
 ### Dec 14
-First chemo infusion.
+Family agrees on memorial service details and works with funeral home.  Gathering at Stacie's house.  Lots more tears.
+
+### Dec 13
+Stacie dies surrounded by family and friends.  Many tearful goodbyes. 
+
+### Dec 12
+Visit Medical Center of the Rockies for imaging.  Emergency Department and then admitted hospital after being stabilized.
+
+### Dec 10
+Write report on decline in eating and sleeping.
+
+### Dec 8
+Get service for supplemental oxygen.
 
 ### Dec 7
 Work on building strength with focus on hydration, eating, and sleeping.
