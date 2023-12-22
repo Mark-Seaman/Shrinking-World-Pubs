@@ -1,4 +1,7 @@
-# News Updates 
+# The Final Days
+
+### Dec 29
+Memorial service at Greeley Vineyard Church.  Many tears and many stories.  Live-streamed to family and friends around the world.
 
 ### Dec 14
 Family agrees on memorial service details and works with funeral home.  Gathering at Stacie's house.  Lots more tears.
