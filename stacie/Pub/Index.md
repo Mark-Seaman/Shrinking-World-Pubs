@@ -1,17 +1,9 @@
-# Stacie's Place
+# Remembering Stacie Seaman
 
+Stacie Seaman was a loving wife, mother, grandmother, sister, aunt, and friend. She loved her family, her community, and
+her church. She was a teacher, a mentor, and a leader. She was a source of inspiration and strength to all who knew her.
 
-Welcome to Stacie's Place where we share updates and encouragements for Stacie
-Seaman. In October 2023 Stacie became ill. Below are links to keep updated on her
-healing progress, and places for you to contribute with encouragement and help.
+This website is dedicated to Stacie Seaman who gave so much to so many. It is a place to share memories and stories
+about your time with Stacie.
 
-This website is dedicated to Stacie Seaman who gives so much to so many. She is a
-source of inspiration and strength to all who know her. Stacie is a loving wife, mother,
-grandmother, sister, aunt, and friend. She is a teacher, a mentor, and a leader. She has
-serves her family, her community, and her church.
-
-Recent events have brought Stacie to a place where she needs our help and
-encouragement. Stacie's Place is a website with an integrated email list for sharing
-updates and coordinating support. 
-
-Please join us in supporting Stacie and her family.
+Please join us in remembering Stacie and celebrating her life.
