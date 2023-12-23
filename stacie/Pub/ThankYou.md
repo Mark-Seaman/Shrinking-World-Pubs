@@ -5,5 +5,5 @@ It will be reviewed by our moderators and published on this page.
 
 Thank you for your support.
 
-<a class="btn btn-primary" href="/stacie/Encouragement.md">Show All Messages</a>
+<a class="btn btn-primary" href="/stacie/Memories.md">Show All Messages</a>
 
