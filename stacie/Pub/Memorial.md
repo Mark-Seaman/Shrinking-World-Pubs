@@ -12,6 +12,9 @@ After the event, the video will be available at the same web page.
 
 Contribute to the service by sharing your memories and stories of Stacie.  
 
+![Stacie Seaman Memorial](img/Memorial.jpg)
+
+
 * [Share Your Memories](/stacie/Memories.md)
 * [Donate Time or Money](/stacie/Donate.md)
 * [Connect with Mark](/stacie/Connect.md)
