@@ -7,3 +7,5 @@ This website is dedicated to Stacie Seaman who gave so much to so many. It is a 
 about your time with Stacie.
 
 Please join us in remembering Stacie and celebrating her life.
+
+<a class="btn brown" href="/stacie/Memorial.md">Memorial Service, Dec 29, 2023</a>
