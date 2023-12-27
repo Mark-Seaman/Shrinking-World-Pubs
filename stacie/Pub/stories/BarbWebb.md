@@ -2,6 +2,9 @@
 
 by Barbara Webb
 
+<a class="btn brown" href="https://photos.app.goo.gl/UuL2NFQEnuwEoRLy5" target="video">Watch the Video</a>
+
+
 Stacie was my co-pilot!
 
 I first met Stacie and Mark in 1985, when they were just 25.  We were moving to Greeley to plant a church.  The

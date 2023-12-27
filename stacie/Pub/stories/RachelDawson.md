@@ -2,6 +2,9 @@
 
 by Rachel Dawson
 
+<a class="btn brown" href="https://drive.google.com/file/d/1YA5ESwJf7f0gWF7depbwHT_sFMe2iV4j/view" target="video">Watch the Video</a>
+
+
 When my family felt called to pick up and move our lives to Greeley, CO, Stacie and Mark were the very first people to
 invite us to their house for dinner. It was my first time away from home, moving to a strange new city and adopting a
 new family of faith. I had grown a lot but always sensed God calling me to more growth, specifically in the area of
