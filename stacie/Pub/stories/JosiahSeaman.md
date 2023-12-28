@@ -3,7 +3,7 @@
 by Josiah Seaman
 
 <a class="btn brown"
-href="https://photos.google.com/share/AF1QipMAmR2TnExF1wT_DggHuzKqJeWSyqf5ulK2kFne6qpnorUNhst-pwYwyTOIaxdmcQ/photo/AF1QipP8eSopAxYCIOkSOFlXKmyhQJUoacRP7RaEwJGb?key=alVfQk85bjUxMGJPb2k0X09qeXFpaEdKaC1GQWNR"
+href="https://photos.app.goo.gl/uJjAXC3GXtRirnZP6"
 target="video">Watch the Video</a>
 
 
