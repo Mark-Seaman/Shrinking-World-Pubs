@@ -5,7 +5,6 @@
 - [My Second Mother](SamanthaSeaman.md) - Samantha Seaman
 - [Family](KelliStanley.md) - Kelli Stanley
 - [Friendship](LynnMora.md) - Lynn Mora
-- [Friendship](ElenHunt.md) - Elen Hunt
 - [Breaking Gender Barriers](RachelDawson.md) - Rachel Dawson
 - [Breaking Cultural Barriers](MigaPena.md) - Miga Peña
 - [My Coach](DukeLancaster.md) - Duke Lancaster
