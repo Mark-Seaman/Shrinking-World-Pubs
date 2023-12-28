@@ -13,6 +13,7 @@
 - [Lifelong Ministry](BarbWebb.md) - Barb Webb
 - [Spiritual Life](KarenFields.md) - Karen Fields
 - [A Life of Meaning](ToddBeilman.md) - Todd Beilman
+- [Shadow of Death](ShadowOfDeath.md) - Mark Seaman
 
 
 ## Memorial Service

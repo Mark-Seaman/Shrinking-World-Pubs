@@ -1,6 +1,9 @@
-# Life Coach
+# My Life Coach
 
 by Duke Lancaster
+
+<a class="btn brown" href="https://www.dropbox.com/scl/fi/8rjipg4z4nvxeis2wbus7/20231228_073801.mp4?rlkey=0s0l45a7vyfhx0l0p3sbc5hax&dl=0" target="video">Watch the Video</a>
+
 
 I met Stacie in late 2020. She was leading a peer coaching cohort that I had been involved in for a while. Coaching is
 an interesting role… essentially it is to bring out the best someone has in them and to help them discover and in my
