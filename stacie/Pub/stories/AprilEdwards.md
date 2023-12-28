@@ -3,7 +3,7 @@
 by April Edwards
 
 
-<a class="btn brown" href="https://drive.google.com/file/d/14WjCkXOquzBETalHIWn6Iv2Nu2kg9yeH/view?usp=sharing" target="video">Watch the Video</a>
+<a class="btn brown" href="https://drive.google.com/file/d/14WjCkXOquzBETalHIWn6Iv2Nu2kg9yeH/view" target="video">Watch the Video</a>
 
 My relationship with Aunt Stacie has always felt easy. After I got married and had kids, she became a mentor and trusted
 advisor. Our visits have always had great conversations and fun adventures.
