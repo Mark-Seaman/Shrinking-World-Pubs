@@ -3,7 +3,7 @@
 - [The Love of My Life](MarkSeaman.md) - Mark Seaman
 - [My Mother](JosiahSeaman.md) - Josiah Seaman
 - [My Second Mother](SamanthaSeaman.md) - Samantha Seaman
-- [Family](KelliStanley.md) - Kelli Stanley
+- [Family](KelliLeslie.md) - Kelli Stanley & Leslie Edgar
 - [Friendship](LynnMora.md) - Lynn Mora
 - [Breaking Gender Barriers](RachelDawson.md) - Rachel Dawson
 - [Breaking Cultural Barriers](MigaPena.md) - Miga Peña
