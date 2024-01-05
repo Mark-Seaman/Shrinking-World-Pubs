@@ -41,7 +41,7 @@ October weekend at a weekend women's conference in Colorado Springs. The blizzar
 a van full of very scared ladies through the streets with less than a car-length of visibility. Stacie was calm and
 confident as she co-piloted us to the motel, which took nearly two hours to go five miles! While we were trapped for two
 days in the motel, Stacie personally encouraged, counseled, calmed and comforted each lady, who just wanted to be
-“safely home!”
+"safely home!”
 
 She was my co-pilot. When I was anxious and stressed, Stacie was calm and steadfast. When I was reactionary and
 frustrated, she was thoughtful and kind. I trusted her wisdom, her insight, her deep commitment to Jesus and her

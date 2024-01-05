@@ -16,16 +16,16 @@ and to really just express the concerns and thoughts we were wrestling with was 
 
 She might do little more than listen, then rephrase our thoughts in a way that would bring clarity and simplicity to our
 challenges. She would always interject something that would continue our exploration into our own thoughts and concerns.
-I can remember discussions where She simply finished the conversation with, “It sounds like you already know what to
+I can remember discussions where She simply finished the conversation with, "It sounds like you already know what to
 do.”
 
 Towards the end of 2021 Marie and I were wrestling with a major transition in our life and ministry. We were feeling
 like God was leading us out of our church and into another ministry and I was super stressed over many aspects of this
 transition. Specifically, I could not imagine how to actually make a living doing what he Invited us to do.
 
-But after one more meeting where I have repeated myself multiple times she summed it up and said. “Duke, it sounds to me
+But after one more meeting where I have repeated myself multiple times she summed it up and said. "Duke, it sounds to me
 like you just don't trust the Lord.” It was a little bit like being smacked in the face. I don't know why that sounded
-different than anything I had already heard but it was one of those clarifying moments. “Yes, Stacie, I think you just
+different than anything I had already heard but it was one of those clarifying moments. "Yes, Stacie, I think you just
 nailed it.” It was exactly what I needed at that time and ultimately had a direct impact on our future.
 
 I think more than anything Stacie was an encourager. I always looked forward to any conversation we were going to have
@@ -35,7 +35,7 @@ affirming and encouraging. I once told her that I thought she needed to be my Ma
 more than I believed in myself.
 
 Somebody like that will motivate you to do much greater things than you would have even thought to attempt if they
-hadn’t been there. One of those things we dealt with was that I had expressed that there was a book or two that I felt
+hadn't been there. One of those things we dealt with was that I had expressed that there was a book or two that I felt
 the Lord had encouraged me to write and I have struggled and struggled with. I just could not get myself started. she
 never let up, not for one second, pushing me to do this book. I'm still not close to having a book written. But the very
 fact that I'm still pursuing it is 100% because of her constant encouragement.

@@ -5,7 +5,7 @@ Stacie was a generous person who supported many causes. In lieu of flowers, plea
 
 ## Convoy of Hope
 
-[Convoy of Hope](https://convoyofhope.org) is a faith-based, nonprofit organization with a driving passion to feed the world through children’s feeding initiatives, community outreaches, and disaster response.
+[Convoy of Hope](https://convoyofhope.org) is a faith-based, nonprofit organization with a driving passion to feed the world through children's feeding initiatives, community outreaches, and disaster response.
 
 Consider donating to the Convoy of Hope that Stacie supported for many years.
 
