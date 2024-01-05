@@ -25,8 +25,7 @@ a 15 minute spot.  The meeting will also have an embedded video link so we can t
 
 ## Take Me to Lunch
 
-We've set up a meal train to help with meals.  You can sign up to take me to lunch or dinner.  
+I've posted my calendar to let you see the available time that are open for me.  Select a time that is good for you.
 
-<a class="btn brown m-3" href="https://www.mealtrain.com/trains/gk5eml" target="share">Meal Train</a>
-<a class="btn brown m-3" href="https://cal.com/mdseaman/lunch-with-mark" target="share">Mark's Calendar</a>
+<a class="btn brown m-3" href="https://cal.com/mdseaman/lunch-with-mark" target="share">Book on Mark's Calendar</a>
 
