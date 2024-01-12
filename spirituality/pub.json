@@ -12,7 +12,7 @@
     "words": 7526,
     "cover_image": "/static/images/Shrinking-World-Pubs/spirituality/Cover.png",
     "menu": "static/js/nav_sw.json",
-    "pub_type": "blog",
+    "pub_type": "private",
     "auto_remove": false,
     "auto_contents": false,
     "auto_index": true,

@@ -1,0 +1,23 @@
+{
+    "name": "after",
+    "site_title": "Life After Death Handbook",
+    "site_subtitle": "Rebuilding your life after a major loss",
+    "url": "/after",
+    "author": "Mark Seaman",
+    "description": "Guide to rebuilding your life after a major loss.",
+    "pub_type": "blog",
+    "doc_path": "Documents/Shrinking-World-Pubs/after/Pub",
+    "image_path": "/static/images/Shrinking-World-Pubs/after",
+    "css": "/static/css/book.css",
+    "domain": "https://seamanfamily.org",
+    "logo": null,
+    "words": 66160,
+    "cover_image": "/static/images/Shrinking-World-Pubs/after/Cover.png",
+    "menu": "static/js/nav_blog.json",
+    "auto_remove": false,
+    "auto_contents": false,
+    "auto_index": true,
+    "index_folders": false,
+    "index_months": false,
+    "simple_index": true
+}
