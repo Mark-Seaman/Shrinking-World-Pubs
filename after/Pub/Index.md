@@ -12,9 +12,9 @@
 
 * [Day 4: Focus on Self-Care](/after/04.md)                                     
 
-* [Document not found](/after/05.md)                                            
+* [Making Decisions ](/after/05.md)                                             
 
-* [Document not found](/after/06.md)                                            
+* [The Chistmas Blues](/after/06.md)                                            
 
-* [Document not found](/after/07.md)                                            
+* [Day 7: Reconnecting Through the Guest Book](/after/07.md)                    
 

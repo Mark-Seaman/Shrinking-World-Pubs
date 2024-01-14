@@ -36,16 +36,28 @@ Eating is difficult and I am rarely hungry and sleeping is a memory from my form
 that can support a healthy life.
 
 
-## Day 5: No Big Decisions
+## [Day 5: Making Decisions](05.md)
 
-By the fifth day, I realized that making significant decisions was not something I was ready for. The fog of grief made it impossible to think clearly, and I felt paralyzed by the weight of choices before me. I decided to give myself time, allowing the grief to settle and my mind to find some clarity. The pressure to make drastic decisions could wait until a later time when I was more equipped to handle them.
+Stacie and I always made decisions together. I make decisions quickly, and she was more deliberate.  I am now faced with
+having to make hundreds of decisions on my own.  I am learning to slow down and think about the consequences but this is not
+easy.  Therefore, I am learning to seek advice from others and trust their input.  Fortunately, I have a network of trusted
+individuals who can give good counsel to take part of the role that Stacie played in my life.  I will not make any major 
+decisions without consulting with them.
 
-## Day 6: Christmas Blues
 
-As the holiday season approached, I couldn't help but feel a deep sense of sorrow. The festive cheer around me contrasted starkly with the emptiness I felt inside. Memories of past celebrations flooded my mind, and I longed for the comfort of your presence. The holiday season served as a bittersweet reminder of the joy we once shared and the void that now existed.
+## [Day 6: Christmas Blues](06.md)
 
-## Day 7: The Guest Book
+Stacie always loved Christmas. For her it was a time of joy and celebration.  She loved the special time to be with
+family and friends. This was a year without Christmas.  Some people from church came over to put up lights on our house a
+few days before Stacie's death.  Some neighbors drove me to get a Christmas tree and our kids all got together to decorate it.
+People were so kind and thoughtful.  I was not in the mood for Christmas.  I did not want to celebrate but I made it through.
+Now each holiday will present a similar challenge.  I will need to find a way to celebrate without Stacie.
 
-On the seventh day, I discovered the power of the guest book. Friends, family, and even acquaintances poured their love and condolences into heartfelt messages. Reading their words reminded me that I was not alone in my pain and that there was a vast network of support surrounding me. The guest book became a tangible source of comfort, providing solace in the days ahead.
 
-Throughout this first week, grief consumed my every thought and emotion. Each day brought a new challenge, a new wave of emotions to navigate. But amidst the pain, I began to recognize the strength within me to face these challenges head-on. And while life after loss seemed uncertain and daunting, I vowed to take it one day at a time, honoring your memory and finding my own path forward.
+## [Day 7: The Guest Book](07.md)
+
+It's been a week since Stacie's memorial service.  At the memorial we had a guest book to collect contact info
+for people that attended.  This allows me have ongoing communication with people that were there.  Many of the people
+that attended the service I had not seen for a decade or more.   What a wonderful blessing it is to be in contact once
+again. I am so grateful for the people that came to the service or watched online and for the opportunity to reconnect with them.
+
