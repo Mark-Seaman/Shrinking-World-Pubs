@@ -12,9 +12,9 @@
 
 * [Day 4: Focus on Self-Care](/after/04.md)                                     
 
-* [Making Decisions ](/after/05.md)                                             
+* [Day 5: Making Decisions ](/after/05.md)                                      
 
-* [The Chistmas Blues](/after/06.md)                                            
+* [Day 6: The Chistmas Blues](/after/06.md)                                     
 
 * [Day 7: Reconnecting Through the Guest Book](/after/07.md)                    
 
