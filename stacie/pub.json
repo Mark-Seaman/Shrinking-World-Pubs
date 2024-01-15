@@ -9,6 +9,6 @@
     "menu": "static/js/nav_stacie.json",
     "doc_path": "Documents/Shrinking-World-Pubs/stacie/Pub",
     "image_path": "/static/images/Shrinking-World-Pubs/stacie",
-    "pub_type": "blog",
+    "pub_type": "private",
     "logo": "/static/images/Shrinking-World-Pubs/stacie/Stacie.jpg"
 }
