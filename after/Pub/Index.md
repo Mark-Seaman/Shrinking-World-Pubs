@@ -23,3 +23,13 @@
 * [ Day 12: Survive Today - Thrive Tomorrow](/after/12.md)                      
 * [Day 13: Meaningful Daily Habits](/after/13.md)                               
 * [Day 14: Pathway Toward Normal](/after/14.md)                                 
+
+## [Week 3: Repositioning](/after/Week3.md)                                    
+
+* [ Day 15: A Step Toward Freedom](/after/15.md)                                
+* [Day 16: Retiring For Real](/after/16.md)                                     
+* [Day 17: Ocean Cruise](/after/17.md)                                          
+* [Day 18: Writing at Sea](/after/18.md)                                        
+* [Day 19: Loss Redeemed](/after/19.md)                                         
+* [Day 20: Join the Adventure](/after/20.md)                                    
+* [Day 21: Surrounded by Love](/after/21.md)                                    
