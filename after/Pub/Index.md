@@ -46,4 +46,4 @@
 
 ## [Week 5: Support Network](/after/Week5.md)                                  
 
-* [Grief Support Group: Healing Together](/after/29.md)                         
+* [Grief Support Group](/after/29.md)                                           

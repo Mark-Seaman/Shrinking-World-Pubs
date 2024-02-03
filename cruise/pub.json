@@ -1,0 +1,23 @@
+{
+    "name": "cruise",
+    "site_title": "A Seaman's Voyage",
+    "site_subtitle": "The trip of a lifetime",
+    "url": "/cruise",
+    "author": "Mark Seaman",
+    "description": "Exploring the world and learning from the experiences.",
+    "pub_type": "blog",
+    "doc_path": "Documents/Shrinking-World-Pubs/cruise/Pub",
+    "image_path": "/static/images/Shrinking-World-Pubs/cruise",
+    "css": "/static/css/book.css",
+    "domain": "https://seamanfamily.org",
+    "logo": null,
+    "words": 0,
+    "cover_image": "/static/images/Shrinking-World-Pubs/cruise/Cover.png",
+    "menu": "static/js/nav_after.json",
+    "auto_remove": false,
+    "auto_contents": false,
+    "auto_index": true,
+    "index_folders": false,
+    "index_months": false,
+    "simple_index": false
+}
