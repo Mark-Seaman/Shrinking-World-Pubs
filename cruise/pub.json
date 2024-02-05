@@ -1,10 +1,10 @@
 {
     "name": "cruise",
     "site_title": "A Seaman's Voyage",
-    "site_subtitle": "The trip of a lifetime",
+    "site_subtitle": "Exploration & Discovery",
     "url": "/cruise",
     "author": "Mark Seaman",
-    "description": "Exploring the world and learning from the experiences.",
+    "description": "I am at a crossroads in my life.  This voyage will give me time and space to ponder my future.  I want to explore the world and learn from the experiences.  This will help me to see everything with fresh insight.",
     "pub_type": "blog",
     "doc_path": "Documents/Shrinking-World-Pubs/cruise/Pub",
     "image_path": "/static/images/Shrinking-World-Pubs/cruise",
