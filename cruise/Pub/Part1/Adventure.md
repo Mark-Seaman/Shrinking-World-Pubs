@@ -30,7 +30,7 @@ the boundaries of my own capabilities and face unexpected situations, I develop 
 self-discovery. By conquering fears and pushing beyond my limits, travel becomes an avenue for personal development and
 self-improvement.
 
-The reasons why I travel to other places are diverse and deeply personal. It’s the allure of discovering
+The reasons why I travel to other places are diverse and deeply personal. It's the allure of discovering
 untold stories, uncovering natural wonders, embracing foreign cultures, and undergoing personal growth that fuels my
 wanderlust. Each journey offers a unique blend of history, nature, culture, and personal growth, making for a truly
 enriching experience. So, let us embrace the unknown and embark on transformative journeys that shape our souls and
