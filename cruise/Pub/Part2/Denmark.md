@@ -45,6 +45,9 @@ stunning architecture. As you explore the winding streets and picturesque canals
 to the days of the Vikings, kings, and conquerors. Allow me to guide you through three key places in Copenhagen that are
 must-visits on your Nordic adventure.
 
+![Copenhagen](img/Copenhagen.webp)
+
+
 ### The National Museum of Denmark: 
 
 Immerse yourself in the rich history and heritage of Denmark at the National Museum. With its vast collection spanning

@@ -37,6 +37,8 @@ However, the legacy of the Vikings endures. Their explorations opened up new tra
 future European conquests. Their tales and sagas continue to captivate our imagination, as we marvel at the bravery and
 audacity of these fierce Scandinavian warriors.
 
+![Vikings](img/Vikings.webp)
+
 
 ## My People
 

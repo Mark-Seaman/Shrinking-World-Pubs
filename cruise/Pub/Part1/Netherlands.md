@@ -45,6 +45,9 @@ Welcome to the beautiful city of Amsterdam! Known for its picturesque canals, hi
 culture, there is something for everyone to enjoy in this charming Dutch city. Whether you're a history buff, a nature
 lover, or a foodie, Amsterdam has it all. Here are three key places you must visit during your time here.
 
+![Amsterdam](img/Amsterdam.webp)
+
+
 **The Anne Frank House**: Step into history as you visit the famous Anne Frank House, the hiding place where young Anne
 wrote her world-renowned diary during World War II. The museum offers a poignant and thought-provoking look into the
 life of Anne Frank and the struggles faced by millions during the Holocaust. Walk through the secret annex, witness the
