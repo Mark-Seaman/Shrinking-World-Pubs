@@ -13,3 +13,6 @@
 * [The Vikings](/cruise/Part2-Vikings.md)                                       
 * [Denmark](/cruise/Part2-Denmark.md)                                           
 * [Norway - Land of Vikings and Fjords](/cruise/Part2-Norway.md)                
+* [Sweden ](/cruise/Part2-Sweden.md)                                            
+* [Estonia ](/cruise/Part2-Estonia.md)                                          
+* [Finland](/cruise/Part2-Finland.md)                                           
