@@ -13,7 +13,7 @@
     "logo": null,
     "words": 0,
     "cover_image": "/static/images/Shrinking-World-Pubs/cruise/Cover.png",
-    "menu": "static/js/nav_after.json",
+    "menu": "static/js/nav_cruise.json",
     "auto_remove": false,
     "auto_contents": false,
     "auto_index": true,
