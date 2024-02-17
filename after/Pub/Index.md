@@ -53,3 +53,11 @@
 * [Day 33 - My Support Network](/after/33.md)                                   
 * [Day 34 - Mentors](/after/34.md)                                              
 * [Day 35 - My Kids](/after/35.md)                                              
+
+## [Week 6 - My Life Quests](/after/Week6.md)                                  
+
+* [Day 36 - The Four Quests of Life](/after/36.md)                              
+* [Day 37 - The Quest for Identity](/after/37.md)                               
+* [Day 38 - Quest for Success](/after/38.md)                                    
+* [Day 39 - The Quest for Purpose](/after/39.md)                                
+* [Day 40 - Quest for Understanding](/after/40.md)                              

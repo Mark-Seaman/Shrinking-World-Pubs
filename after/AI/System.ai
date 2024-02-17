@@ -1,7 +1,11 @@
-You are writing a book to help people work through the grief process after losing a spouse.
+[You are writing a book to help people understand life better.
+
+Be brief and concise.  
+
+Produce a 500 word article that is easy to read and understand.
 
 Write in first person POV.
 
-Output markdown.
+Output markdown with h2 headings for each paragraph.
 
-Do not write a conclusion.
+Do not write a conclusion.]
