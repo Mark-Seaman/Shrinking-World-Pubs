@@ -33,3 +33,15 @@ Turning 60 was a time of reflection and understanding.  I had completed the firs
 final quest.  I was driven by the need to truly understand the meaning of life.  I wanted to know not just how to do
 things but how to teach others how to do things.
 
+
+## [Day 41 - Measuring Success](/after/41.md)
+
+Success is a concept that evolves with us, shifting its parameters as we move through different stages of life. Success is a
+multifaceted and deeply personal concept that changes as we move through life's stages. 
+
+
+## [Day 42 - The Transitions of Life](/after/42.md)
+
+Life is by our quests for love, success, purpose, and understanding. Each strand represents a
+different phase of our existence, colored by our experiences, choices, and the lessons we learn along the way. 
+Successfully navigating each transition is the key to a happy and fulfilled life.

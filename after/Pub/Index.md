@@ -61,3 +61,5 @@
 * [Day 38 - Quest for Success](/after/38.md)                                    
 * [Day 39 - The Quest for Purpose](/after/39.md)                                
 * [Day 40 - Quest for Understanding](/after/40.md)                              
+* [Day 41 - Measuring Success ](/after/41.md)                                   
+* [Day 42 - The Transitions of Life](/after/42.md)                              
