@@ -63,3 +63,9 @@
 * [Day 40 - Quest for Understanding](/after/40.md)                              
 * [Day 41 - Measuring Success ](/after/41.md)                                   
 * [Day 42 - The Transitions of Life](/after/42.md)                              
+
+## [Week 7 - Celebrating Our Life Together](/after/Week7.md)                   
+
+* [Day 43 - Facing Necessary Endings](/after/43.md)                             
+* [Day 44 - Stacie's Final Tour](/after/44.md)                                  
+* [Day 45 - Valentine's Day](/after/45.md)                                      
