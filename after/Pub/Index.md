@@ -69,3 +69,7 @@
 * [Day 43 - Facing Necessary Endings](/after/43.md)                             
 * [Day 44 - Stacie's Final Tour](/after/44.md)                                  
 * [Day 45 - Valentine's Day](/after/45.md)                                      
+* [Day 46 - A Life of Partnership](/after/46.md)                                
+* [Day 47 - What is Integrity?](/after/47.md)                                   
+* [Day 48 - My True Identity](/after/48.md)                                     
+* [Day 49 - Living in Destiny](/after/49.md)                                    
