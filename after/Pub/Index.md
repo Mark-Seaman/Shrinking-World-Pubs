@@ -73,3 +73,13 @@
 * [Day 47 - What is Integrity?](/after/47.md)                                   
 * [Day 48 - My True Identity](/after/48.md)                                     
 * [Day 49 - Living in Destiny](/after/49.md)                                    
+
+## [Week 13 - Process of Transformation](/after/Week13.md)                     
+
+* [Day 85 - My New Life](/after/85.md)                                          
+* [Day 86 - Thriving In What I Do](/after/86.md)                                
+* [Day 87 - Thriving in Relationships](/after/87.md)                            
+* [Day 88 - Thriving In What I Think](/after/88.md)                             
+* [Day 89 - Emotional Health](/after/89.md)                                     
+* [Day 90 - Road to Transformation](/after/90.md)                               
+* [Day 91 - From Death to Life](/after/91.md)                                   
