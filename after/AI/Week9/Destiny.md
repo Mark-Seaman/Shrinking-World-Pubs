@@ -1,4 +1,4 @@
-# Day 49 - Living in Destiny
+# Day ? - Living in Destiny
 
 Living in destiny is about embracing the stage of life you are in and understanding the purpose that
 comes with each stage. As we journey through life, our priorities and goals shift, and it's
