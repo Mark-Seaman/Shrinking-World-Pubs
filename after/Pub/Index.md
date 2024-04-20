@@ -72,7 +72,17 @@
 * [Day 46 - A Life of Partnership](/after/46.md)                                
 * [Day 47 - What is Integrity?](/after/47.md)                                   
 * [Day 48 - My True Identity](/after/48.md)                                     
-* [Day 49 - Living in Destiny](/after/49.md)                                    
+* [Day 49 - Who Am I?](/after/49.md)                                            
+
+## [Week 8 - Who Am I Now?](/after/Week8.md)                                   
+
+* [Day 50 - What Do I Control?](/after/50.md)                                   
+* [Day 51 - What do I Feel?](/after/51.md)                                      
+* [Day 52 - What Do I Have?](/after/52.md)                                      
+* [Day 53 -  What Are My Goals?](/after/53.md)                                  
+* [Day 54 - How Can I Live in the Present Moment?](/after/54.md)                
+* [Day 55 - What Do I Need?](/after/55.md)                                      
+* [Day 56 - What Will I Give?](/after/56.md)                                    
 
 ## [Week 13 - Process of Transformation](/after/Week13.md)                     
 
