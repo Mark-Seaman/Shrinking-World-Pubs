@@ -13,7 +13,7 @@ more balanced and fulfilling life.
 
 ## [What Do I Have?](/after/52.md)         
 
-I have enough of everything needed to build a good life.  It’s just a matter of recognizing and utilizing them.  I do not need to
+I have enough of everything needed to build a good life.  It's just a matter of recognizing and utilizing them.  I do not need to
 seek for more of anything.  The key issue is learning contentment.
 
 
