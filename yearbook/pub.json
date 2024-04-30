@@ -1,0 +1,21 @@
+{
+    "name": "yearbook",
+    "site_title": "Seaman Family Yearbook",
+    "site_subtitle": "Experiencing Life Together",
+    "url": "/yearbook",
+    "author": "Mark Seaman",
+    "pub_type": "blog",
+    "doc_path": "Documents/Shrinking-World-Pubs/yearbook",
+    "image_path": "/static/images/Shrinking-World-Pubs/yearbook",
+    "css": "/static/css/book.css",
+    "domain": "https://seamanfamily.org",
+    "logo": null,
+    "words": 66160,
+    "menu": "static/js/nav_yearbook.json",
+    "auto_remove": false,
+    "auto_contents": false,
+    "auto_index": true,
+    "index_folders": false,
+    "index_months": false,
+    "simple_index": false
+}
