@@ -1,4 +1,4 @@
-# Week 3: Repositioning
+# Chapter 3: Repositioning
 
 
 ## [Day 15: Taking a Step towards Freedom](/after/15.md)                        

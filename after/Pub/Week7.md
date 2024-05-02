@@ -1,4 +1,4 @@
-# Week 7 - Celebrating Our Life Together
+# Chapter 7 - Celebrating Our Life Together
 
 ## [Facing Necessary Endings](/after/43.md)      
 

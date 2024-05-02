@@ -1,4 +1,4 @@
-# Week 2: Relationships
+# Chapter 2: Relationships
 
 ## [Day 8: Meaningful Relationships](08.md)
 

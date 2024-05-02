@@ -1,4 +1,4 @@
-# Week 1: Rebuilding After Loss
+# Chapter 1: Rebuilding After Loss
 
 ## [Day 1: Embracing Life After Death](01.md)
 

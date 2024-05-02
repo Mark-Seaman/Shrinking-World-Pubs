@@ -1,4 +1,4 @@
-# Week 8 - Who Am I Now?
+# Chapter 8 - Who Am I Now?
 
 ## [What Do I Control?](/after/50.md) 
 

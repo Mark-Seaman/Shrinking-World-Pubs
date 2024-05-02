@@ -1,4 +1,4 @@
-# Week 6 - My Life Quests
+# Chapter 6 - My Life Quests
 
 ## [Day 36 - The Four Quests of Life](/after/36.md)
 
