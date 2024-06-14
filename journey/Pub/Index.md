@@ -76,3 +76,4 @@
 * [Exploring the World](/journey/Cruise.md)                                     
 * [Cruise 2024](/journey/Cruise2024.md)                                         
 * [UNC Retirement](/journey/UNCRetirement.md)                                   
+* [A Journey of Healing](/journey/HealingJourney.md)                            
