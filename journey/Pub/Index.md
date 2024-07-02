@@ -30,6 +30,7 @@
 
 ## [Part 4 - Young Adult Years](/journey/Part4.md)                             
 
+* [Life at 20 Something](/journey/20Something.md)                               
 * [Becoming an Adult](/journey/YoungAdult.md)                                   
 * [Shaped by Technology](/journey/Technology.md)                                
 * [The Personal Computer (1980s)](/journey/PersonalComputer.md)                 
@@ -41,6 +42,7 @@
 
 ## [Part 5 - The Success Years](/journey/Part5.md)                             
 
+* [Life at 30 Something](/journey/30Something.md)                               
 * [The Internet (1990s)](/journey/Internet.md)                                  
 * [Struggle for Balance](/journey/Balance.md)                                   
 * [7,666 Shopping Days Left ](/journey/10000Days.md)                            
@@ -48,6 +50,7 @@
 
 ## [Part 6 - Midlife Years](/journey/Part6.md)                                 
 
+* [Life at 40 Something](/journey/40Something.md)                               
 * [Mid-life Journey](/journey/Midlife.md)                                       
 * [My Work Day](/journey/WorkDay.md)                                            
 * [Why Travel](/journey/Travel.md)                                              
