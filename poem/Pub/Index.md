@@ -79,6 +79,7 @@
 
 ## [Part 4 - Spiritual Nature](/poem/Part4.md)                                 
 
+* [The Best of Us](/poem/BestOfUs.md)                                           
 * [The Horizon](/poem/Horizon.md)                                               
 * [Community of Kindness](/poem/Kindness.md)                                    
 * [Caring Brings Healing](/poem/Caring.md)                                      
