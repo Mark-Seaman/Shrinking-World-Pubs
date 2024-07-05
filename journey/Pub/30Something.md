@@ -35,7 +35,7 @@ These years were marked by both professional triumphs and personal challenges. W
 financial stability, balancing our time commitments remained a significant struggle. Stacie's journey to find fulfilling
 work highlighted the complexities of managing dual careers and family life.
 
-Reflecting on this period, it's clear that the decisions we made — whether about our children’s education, our financial
+Reflecting on this period, it's clear that the decisions we made — whether about our children's education, our financial
 contributions to missions, or managing our time — were guided by our commitment to our values. The lessons
 learned during our thirties about balance, sacrifice, and perseverance have continued to shape our lives and
 relationships.

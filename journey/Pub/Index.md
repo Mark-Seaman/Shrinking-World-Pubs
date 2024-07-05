@@ -82,3 +82,4 @@
 * [A Journey of Healing](/journey/HealingJourney.md)                            
 * [Lifelong Friends](/journey/LifeLongFriends.md)                               
 * [Six Months Later](/journey/SixMonths.md)                                     
+* [Through Seven Seasons](/journey/7Seasons.md)                                 

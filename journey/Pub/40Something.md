@@ -2,7 +2,7 @@
 
 Entering our forties brought profound changes to our lives, with a series of significant events and transitions that reshaped our perspectives and priorities.  The changes started as we turned 40 but would take the entire decade to see the full implications.
 
-Our forties were a time of transformation, marked by significant life events and deep introspection. Stacie’s new career, our evolving roles as parents, my departure from HP, and our global travels all contributed to a period of growth and change. 
+Our forties were a time of transformation, marked by significant life events and deep introspection. Stacie's new career, our evolving roles as parents, my departure from HP, and our global travels all contributed to a period of growth and change. 
 
 This decade taught us the importance of adaptability and the value of seeking purpose beyond conventional success. It underscored the significance of financial planning and the joy of exploring the world. Most importantly, it reinforced our commitment to living lives aligned with our values, fostering both personal and collective growth.
 
@@ -14,7 +14,7 @@ As we look back, these years stand out as a pivotal chapter in our journey, shap
 ### HP
 
 The most significant change during our forties was my departure from HP. After years of dedicated service, I felt a
-growing misalignment between my values and the company’s direction. After the founder’s departure, HP underwent a
+growing misalignment between my values and the company's direction. After the founder's departure, HP underwent a
 series of changes that shifted its focus away from innovation and employee well-being. 
 
 The decision to leave was not easy, but it marked a
@@ -50,7 +50,7 @@ retiring to join my software business.
 ## Family and Parenting
 
 Christine graduated from High School in 2001, and we had to adjust our parenting style to accommodate her growing
-independence. This transition was challenging but rewarding, as we learned to trust our children’s judgment and provide
+independence. This transition was challenging but rewarding, as we learned to trust our children's judgment and provide
 support while allowing them to make their own decisions.  If anyone tells you this is easy, they are lying.  With 
 each child, it was a new experience and a new challenge.  But we were always there for them and they knew it.
 
@@ -74,7 +74,7 @@ Japan for 3 years and Josiah moved to England for 4 years.
 We joined a new church, which brought fresh experiences and a different community dynamic. We saw some new models of
 ministry and leadership.  We would be a part of Christ Community Church for 10 years and continued to grow and learn.
 
-Despite professional success, I felt a deep discontent and embarked on a quest to understand my life’s purpose. This
+Despite professional success, I felt a deep discontent and embarked on a quest to understand my life's purpose. This
 journey was about finding meaning beyond career achievements, seeking a deeper sense of fulfillment through
 contributions that resonated with my values.
 
