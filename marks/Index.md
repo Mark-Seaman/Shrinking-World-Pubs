@@ -1,6 +1,50 @@
 # Mark David Seaman
 
-Author, Teacher, Programmer
+<!-- Header -->
+    <header class="bg-primary text-white text-center py-3">
+        <h1>Mark Seaman</h1>
+    </header>
+
+    <div class="container my-4">
+        <!-- Profile Picture -->
+        <div class="text-center mb-4">
+            <img src="profile.jpg" alt="Mark Seaman" class="rounded-circle" width="150">
+        </div>
+
+        <!-- Jumbotron for Writer -->
+        <div class="jumbotron">
+            <h1 class="display-4">Writer</h1>
+            <p class="lead">Mark Seaman is an accomplished writer with numerous publications.</p>
+            <hr class="my-4">
+            <p>Explore Mark's writing work and publications.</p>
+            <a class="btn btn-primary btn-lg" href="writer.html" role="button">Learn more</a>
+        </div>
+
+        <!-- Jumbotron for Teacher -->
+        <div class="jumbotron">
+            <h1 class="display-4">Teacher</h1>
+            <p class="lead">Mark Seaman has been teaching various subjects for over a decade.</p>
+            <hr class="my-4">
+            <p>Discover Mark's teaching philosophy and courses.</p>
+            <a class="btn btn-primary btn-lg" href="teacher.html" role="button">Learn more</a>
+        </div>
+
+        <!-- Jumbotron for Innovator -->
+        <div class="jumbotron">
+            <h1 class="display-4">Innovator</h1>
+            <p class="lead">Mark Seaman is an innovator with several patents and innovative projects.</p>
+            <hr class="my-4">
+            <p>Find out more about Mark's innovations and projects.</p>
+            <a class="btn btn-primary btn-lg" href="innovator.html" role="button">Learn more</a>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-primary text-white text-center py-3">
+        <p>&copy; 2024 Mark Seaman. All rights reserved.</p>
+    </footer>
+    
+Writer, Teacher, Innovator
 
 ## Author
 
