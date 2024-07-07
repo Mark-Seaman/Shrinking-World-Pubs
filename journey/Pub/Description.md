@@ -1,7 +1,7 @@
 **A Seaman's Journey**
 
 Everyone has a story to tell, and for Mark, sharing the adventures and lessons of his life has become essential. Through
-extraordinary adventures and encounters with remarkable people, Mark’s life narrative is both captivating and inspiring.
+extraordinary adventures and encounters with remarkable people, Mark's life narrative is both captivating and inspiring.
 
 Embark on an extraordinary voyage through the life of a man who has witnessed the world's transformations and the
 intimate shifts of his own seasons of life. "A Seaman's Journey" offers readers a compelling exploration of history,

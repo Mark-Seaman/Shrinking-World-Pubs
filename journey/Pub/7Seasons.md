@@ -6,7 +6,7 @@ lived three lifetimes, I could never expect to find such happiness.
 **Childhood**  
 
 We first met in sixth grade at the age of 11, forced to share a desk. Stacie was incredibly annoying, and we constantly
-fought over space, even getting sent to the principal’s office once.
+fought over space, even getting sent to the principal's office once.
 
 **Teen Years**  
 
