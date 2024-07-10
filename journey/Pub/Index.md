@@ -47,6 +47,7 @@
 * [Struggle for Balance](/journey/Balance.md)                                   
 * [7,666 Shopping Days Left ](/journey/10000Days.md)                            
 * [Mike Webb: Larger Than Life](/journey/MikeWebb.md)                           
+* [Tesseract OCR Project](/journey/Tesseract.md)                                
 
 ## [Part 6 - Midlife Years](/journey/Part6.md)                                 
 
@@ -54,6 +55,7 @@
 * [Mid-life Journey](/journey/Midlife.md)                                       
 * [My Work Day](/journey/WorkDay.md)                                            
 * [Why Travel](/journey/Travel.md)                                              
+* [My Life as a Writer](/journey/LifeAsWriter.md)                               
 
 ## [Part 7 - Mature Years](/journey/Part7.md)                                  
 
