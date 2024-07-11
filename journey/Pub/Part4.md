@@ -1,12 +1,4 @@
-# Part 4 - Young Adult Years
+# 20 Something - The 1980s
 
-Age 20-30
+The Young Adult Years
 
-1980-1990
-
-Milestones
-
-* Engineering
-* My First Real Job
-* Building the Future
-* Creating a Family

@@ -1,12 +1,4 @@
-# Part 5 - The Success Years
+# 30 Something - The 1990s
 
-Age 30-40
+The Success Years
 
-1990 - 2000
-
-Milestones
-
-* Trouble in Paradise
-* Cutting Edge of Technology
-* Finding My Place
-* Church Planting

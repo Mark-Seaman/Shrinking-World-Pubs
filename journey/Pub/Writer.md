@@ -1,5 +1,56 @@
 # My Life as a Writer
 
+From a young age, I have always been fascinated by ideas. Bold, difficult ideas captivate my imagination, and I find
+immense joy in exploring crazy, inventive concepts. The attraction to diverse thought processes and the enjoyment of
+delving into new concepts is a cornerstone of my life as a writer. I believe that libraries are museums of human
+thought, and I often find myself hanging out in libraries and bookstores. These places, especially old and historic
+ones, are my sanctuaries where I can immerse myself in the vast array of human knowledge and creativity.
+
+My journey as a writer began in college during a freshman English class. I discovered the joy of writing papers and
+realized how enjoyable it was to express my thoughts through words. Writing quickly became more than just a task; it
+became an integral part of my personal growth. Through writing, I process life, gain understanding, and embrace its
+mysteries. My interests span from technology to philosophy, allowing me to explore a wide range of topics in my work.
+Writing helps me connect with my inner self and the world around me, providing a sense of fulfillment and purpose. 
+
+While I have never pursued commercial success, my focus has always been on striving for excellence in my craft. Whether
+it’s documenting software projects or penning down philosophical musings, writing remains a constant companion in my
+quest to understand and articulate the world of ideas. This dedication to my craft is not about fame or fortune but
+about the passion for expressing and refining my thoughts.
+
+
+## Daily Writing
+
+My life as a writer is extremely diverse.  I have a lot of different interests and it has taken me
+several years to create methods of writing and publishing that are well-suited to my unique
+personality quirks.
+
+The one constant has been my practice of writing.  I try to spend between one and four hours each day
+writing.  I have developed complete outlines for each major topical area that I am interested in
+writing about, which guide the overall structure of what I write.
+
+Daily activity, on the other hand, is completely freestyle and spontaneous. When I wake up each day,
+I have no idea what I will end up writing about.  I do expect to create something great and that I
+will enjoy the process of self-expression.
+
+Once I am happy with the article, then it is posted into the venue where it belongs. This publishing
+activity takes less than a minute and happens many times throughout the day.  This whole process is
+optimized around writing so that publishing is fully automated. As soon as the content is written it
+appears online.
+
+
+## Autonomy
+
+Most writers must make a living through their writing.  This means that everything they write is
+done to fulfill the expectations of readers, critics, editors, publishers, and the general
+marketplace. I have complete freedom in my writing because I do not need to make it profitable.
+This is a luxury that many writers do not have. I and able to pursue the writing goals that excite
+me on any given day.
+
+Writing is my career, but not my job.  I invest in writing even though it will not be a source of
+income.  It is my great joy and core to fulfilling my life's destiny.  I don't care much about what
+publishers might think of my work because I am not writing for them.  I write for the thrill of it.
+
+
 ## Many Projects
 
 I have numerous writing projects that keep me occupied. I love the act of writing and enjoy putting
@@ -96,38 +147,4 @@ I have been working on software to publish content using these principles. The i
 Micropublishing calls for authors to create structured information that can be easily presented 
 in small chunks (one page at a time) and lets the reader navigate through the content from any 
 starting point.
-
-
-## Daily Writing
-
-My life as a writer is extremely diverse.  I have a lot of different interests and it has taken me
-several years to create methods of writing and publishing that are well-suited to my unique
-personality quirks.
-
-The one constant has been my practice of writing.  I try to spend between one and four hours each day
-writing.  I have developed complete outlines for each major topical area that I am interested in
-writing about, which guide the overall structure of what I write.
-
-Daily activity, on the other hand, is completely freestyle and spontaneous. When I wake up each day,
-I have no idea what I will end up writing about.  I do expect to create something great and that I
-will enjoy the process of self-expression.
-
-Once I am happy with the article, then it is posted into the venue where it belongs. This publishing
-activity takes less than a minute and happens many times throughout the day.  This whole process is
-optimized around writing so that publishing is fully automated. As soon as the content is written it
-appears online.
-
-
-## Autonomy
-
-Most writers must make a living through their writing.  This means that everything they write is
-done to fulfill the expectations of readers, critics, editors, publishers, and the general
-marketplace. I have complete freedom in my writing because I do not need to make it profitable.
-This is a luxury that many writers do not have. I and able to pursue the writing goals that excite
-me on any given day.
-
-Writing is my career, but not my job.  I invest in writing even though it will not be a source of
-income.  It is my great joy and core to fulfilling my life's destiny.  I don't care much about what
-publishers might think of my work because I am not writing for them.  I write for the thrill of it.
-
 

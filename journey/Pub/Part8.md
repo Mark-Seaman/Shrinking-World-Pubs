@@ -1,13 +1,3 @@
-# Part 8 - Seniority Years
+# 60 Something - The 2020s
 
-Age 60-70
-
-2020-2030
-
-Milestones
-
-* End of the World
-* Finding Peace
-* Seeking to Understand
-* Spiritual Enlightenment
-
+Seniority Years

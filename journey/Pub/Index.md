@@ -7,13 +7,13 @@
 * [Introduction](/journey/Introduction.md)                                      
 * [Seasons of Life](/journey/Seasons.md)                                        
 
-## [Part 1 - The World Before Me](/journey/Part1.md)                           
+## [The World Before Me - The 1950s](/journey/Part1.md)                        
 
 * [My People](/journey/MyPeople.md)                                             
 * [My Grandfather](/journey/Grandfather.md)                                     
 * [Under the Mushroom Cloud](/journey/MushroomCloud.md)                         
 
-## [Part 2 - The Childhood Years](/journey/Part2.md)                           
+## [Childhood - The 1960s](/journey/Part2.md)                                  
 
 * [Season of Youth](/journey/SeasonOfYouth.md)                                  
 * [Ich bin ein Berliner](/journey/JFK.md)                                       
@@ -21,14 +21,14 @@
 * [Adventures in Greece](/journey/Greece.md)                                    
 * [My Life as an Alien](/journey/Alien.md)                                      
 
-## [Part 3 - The Teen Years](/journey/Part3.md)                                
+## [The Teen Years - 1970s](/journey/Part3.md)                                 
 
 * [Nightmare at Red Rocks](/journey/RedRocks.md)                                
 * [What is Legacy?](/journey/Legacy.md)                                         
 * [Bag of Potatoes](/journey/BagOfPotatoes.md)                                  
 * [Bible Translation](/journey/BibleTranslation.md)                             
 
-## [Part 4 - Young Adult Years](/journey/Part4.md)                             
+## [20 Something - The 1980s](/journey/Part4.md)                               
 
 * [Life at 20 Something](/journey/20Something.md)                               
 * [Becoming an Adult](/journey/YoungAdult.md)                                   
@@ -41,7 +41,7 @@
 * [Whitewater Rafting](/journey/Whitewater.md)                                  
 * [Five Decades of Technology](/journey/TechDecades.md)                         
 
-## [Part 5 - The Success Years](/journey/Part5.md)                             
+## [30 Something - The 1990s](/journey/Part5.md)                               
 
 * [Life at 30 Something](/journey/30Something.md)                               
 * [The Internet (1990s)](/journey/Internet.md)                                  
@@ -50,15 +50,14 @@
 * [Mike Webb: Larger Than Life](/journey/MikeWebb.md)                           
 * [Tesseract OCR Project](/journey/Tesseract.md)                                
 
-## [Part 6 - Midlife Years](/journey/Part6.md)                                 
+## [40 Something - The 2000s](/journey/Part6.md)                               
 
 * [Life at 40 Something](/journey/40Something.md)                               
 * [Mid-life Journey](/journey/Midlife.md)                                       
 * [My Work Day](/journey/WorkDay.md)                                            
 * [Why Travel](/journey/Travel.md)                                              
-* [My Life as a Writer](/journey/LifeAsWriter.md)                               
 
-## [Part 7 - Mature Years](/journey/Part7.md)                                  
+## [50 Something - The 2010s](/journey/Part7.md)                               
 
 * [My Unfolding Career](/journey/Career.md)                                     
 * [Discovering Teaching](/journey/Teaching.md)                                  
@@ -68,8 +67,9 @@
 * [Travel Stories](/journey/TravelStories.md)                                   
 * [When will you Retire?](/journey/Retirement.md)                               
 * [My Life as a Writer](/journey/Writer.md)                                     
+* [The Art of Storytelling](/journey/StoryTelling.md)                           
 
-## [Part 8 - Seniority Years](/journey/Part8.md)                               
+## [60 Something - The 2020s](/journey/Part8.md)                               
 
 * [4 Essential Skills for a Content Creator](/journey/CreatorSkills.md)         
 * [Season of Old Age](/journey/SeasonOfOldAge.md)                               

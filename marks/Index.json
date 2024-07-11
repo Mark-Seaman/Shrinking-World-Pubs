@@ -1,0 +1,22 @@
+{
+    "jumbotrons": [
+        {
+            "title": "Writer",
+            "description": "Books and blogs about life",
+            "content": "He writes about how to utilize technology to thrive in the modern world.\nHe also explores the life stages and how to navigate them.",
+            "link": "/marks/Write.md"
+        },
+        {
+            "title": "Teacher",
+            "description": "Shrinking World Academy",
+            "content": "Training students in technology such as AI, Web Development, and Software Engineering.He also teaches at University of Northern Colorado and writes textbooks.He founded Shrinking World Academy to provide online technology courses.",
+            "link": "/marks/Teach.md"
+        },
+        {
+            "title": "Innovator",
+            "description": "Technical innovation and invention",
+            "content": "Mark has worked over 44 years as a professional software engineer. He has developed over 100 software apps and has 12 patents.",
+            "link": "/marks/Innovate.md"
+        }
+    ]
+}

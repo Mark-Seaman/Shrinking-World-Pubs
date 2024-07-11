@@ -1,12 +1,4 @@
-# Part 6 - Midlife Years
+# 40 Something - The 2000s
 
-Age 40-50
+Midlife Years
 
-2000 - 2010
-
-Milestones
-
-* End of the Dream
-* First Retirement
-* Death Strikes Home
-* World Travels

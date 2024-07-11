@@ -8,7 +8,7 @@ Communists. Then as part of the Cold War my dad was exposed to large amounts of
 radiation as he participated in a live exercise with an atomic bomb being
 detonated.  After many difficulties I was conceived and born healthy.
 
-When I was three my parents were traveling in Europe where they saw JFK in
+When I was three, my parents were traveling in Europe where they saw JFK in
 Germany shortly after the Cuban missile crisis.  This was a time when the US and
 Soviet came within hours of an all out nuclear war.  JFK was in Germany to block
 the Soviet move to take over East Berlin and he gave his famous "Ich Bin Ein
@@ -24,8 +24,10 @@ My wife was born in Flagstaff, Arizona at a time when they were doing atom bomb
 detonations in nearby the nearby Nevada Test Site.  On several occasions there
 were jet stream patterns that carried fallout over Flagstaff. A fairly recent
 lawsuit made certain residents of the city, who conducted cancer, eligible for a
-government payout.  My mother-in-law was one of the plaintiffs and my wife is
-also eligible (if she gets cancer).
+government payout.  My mother-in-law was one of the plaintiffs in the suit.
+My wife recently contracted Bile Duct cancer as a direct result of the fallout 
+that fell on Flagstaff when she was three.  She died at age 63 just six weeks
+after being diagnosed.
 
 When I was ten we spent a year in Greece which was ruled by a dictatorship. 
 Greece was the only Balkan state that was not Communist and the Soviets were

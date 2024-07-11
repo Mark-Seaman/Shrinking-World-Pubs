@@ -1,14 +1,3 @@
-# Part 7 - Mature Years
+# 50 Something - The 2010s
 
-Age 50-60
-
-2010-2020
-
-Milestone
-
-* Shrinking World
-* Death of My Dream
-* Becoming an Author
-* Teaching College
-* Children Abroad
-
+Mature Years

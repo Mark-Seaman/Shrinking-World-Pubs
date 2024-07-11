@@ -1,8 +1,4 @@
-# Part 1 - The World Before Me
+# The World Before Me - The 1950s
 
-Milestones
 
-* My Ancestors
-* My Parents
-* The World I Was Born Into
 
