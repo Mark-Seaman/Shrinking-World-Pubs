@@ -86,3 +86,4 @@
 * [Lifelong Friends](/journey/LifeLongFriends.md)                               
 * [Six Months Later](/journey/SixMonths.md)                                     
 * [Through Seven Seasons](/journey/7Seasons.md)                                 
+* [Quest for Home](/journey/Home.md)                                            
