@@ -1,4 +1,4 @@
-# What is Legacy?
+# Legacy Of Eric Curtis
 
 Some people have influence that extends far beyond their lifetime.  Our everyday
 life can be affected by people that we've never actually met.  It is a paradox that some people can

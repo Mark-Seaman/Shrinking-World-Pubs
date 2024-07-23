@@ -17,16 +17,20 @@
 
 * [Season of Youth](/journey/SeasonOfYouth.md)                                  
 * [Ich bin ein Berliner](/journey/JFK.md)                                       
+* [Conflict Over Integrity](/journey/IntegrityConflict.md)                      
 * [Adventures of Flagstaff](/journey/Flagstaff.md)                              
+* [The Summer Institute of Linguistics](/journey/SIL.md)                        
 * [Adventures in Greece](/journey/Greece.md)                                    
 * [My Life as an Alien](/journey/Alien.md)                                      
 
 ## [The Teen Years - 1970s](/journey/Part3.md)                                 
 
 * [Nightmare at Red Rocks](/journey/RedRocks.md)                                
-* [What is Legacy?](/journey/Legacy.md)                                         
+* [Legacy Of Eric Curtis](/journey/EricCurtis.md)                               
 * [Bag of Potatoes](/journey/BagOfPotatoes.md)                                  
 * [Bible Translation](/journey/BibleTranslation.md)                             
+* [Native American Work](/journey/Native.md)                                    
+* [The Hopi People](/journey/Hopi.md)                                           
 
 ## [20 Something - The 1980s](/journey/Part4.md)                               
 
