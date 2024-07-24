@@ -21,7 +21,7 @@ had to retract his letter. He even dictated the retraction letter, ensuring it w
 himself. The letter stated that my dad was welcome to teach at Asbury College for as long as he liked. "I wish I had
 saved that letter, but I think it's lost now," my dad reminisced.
 
-My dad's bold stand against the president’s integrity helped spark a movement within the college. He was also friends
+My dad's bold stand against the president's integrity helped spark a movement within the college. He was also friends
 with the students who ran the campus paper, and they decided to take matters into their own hands. They brought several
 ethical breaches to light, and eventually, the president's deceit was exposed. A year later, they managed to oust him,
 though he had to be evicted from the president's home by the sheriff.

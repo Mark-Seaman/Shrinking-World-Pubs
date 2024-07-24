@@ -28,7 +28,7 @@ The students were selected from high schools around the country and were require
 From hundreds of applications, only 30 students were selected. These trips offered students, all of whom were top
 achievers from across the country, a chance to bond and learn in a dynamic setting.
 
-The institute wasn’t just about academics; it was an immersive experience. In 12 weeks, the students were taught
+The institute wasn't just about academics; it was an immersive experience. In 12 weeks, the students were taught
 linguistics and how to analyze an unknown language through interviews with native speakers.
 
 Every Saturday, they organized excursions to Flagstaff's local attractions. Walnut Canyon, Meteor Crater, the Grand
@@ -39,7 +39,7 @@ Eventually, Dr. Seaman decided to step back from the institute to focus on other
 Despite its challenges, the Summer Institute of Linguistics had left a lasting legacy. When he stopped applying for
 grants, colleagues and administrators often inquired why he wasn't continuing.
 
-The institute had become an integral part of NAU’s summer programs, influencing not just the students but the entire
+The institute had become an integral part of NAU's summer programs, influencing not just the students but the entire
 academic community. It was held up as an example of how institutes should be run.
 
 Reflecting on those years, Dr. Seaman realized how much the institute had shaped his career and personal life. The
@@ -47,5 +47,5 @@ experiences and memories created during those summer months were invaluable, not
 He couldn't help but feel a deep sense of pride and nostalgia for what they had accomplished.
 
 The Summer Institute of Linguistics was more than just a program; it was a testament to the power of collaboration,
-vision, and dedication. It was a unique chapter in Dr. Seaman’s life, one that he would always cherish.
+vision, and dedication. It was a unique chapter in Dr. Seaman's life, one that he would always cherish.
 
