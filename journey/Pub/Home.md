@@ -57,3 +57,4 @@ But amidst this odyssey, I discovered that "home" isn't merely a geographical pl
 
 In Flagstaff, I found a piece of home, or rather the peace of home. Yet, I realized that home isn't confined to a single location—it manifests wherever love and cherished memories thrive. And so, in the end, I found home not just in Flagstaff, but in the heartwarming embrace of every time and place my journey led me.
 
+
