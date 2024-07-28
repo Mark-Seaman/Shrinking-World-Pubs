@@ -27,8 +27,8 @@ more accurate than our nearest competitor when it came to recognizing text in po
 monumental achievement, yet it posed a significant business dilemma.
 
 Our primary business was selling scanners, and our managers were concerned that by developing our own OCR, we might
-jeopardize our partnerships with existing OCR vendors who helped drive our scanner sales. To justify our team’s
-existence, we needed to demonstrate a product revenue of $50 million annually. Unfortunately, we couldn’t prove such
+jeopardize our partnerships with existing OCR vendors who helped drive our scanner sales. To justify our team's
+existence, we needed to demonstrate a product revenue of $50 million annually. Unfortunately, we couldn't prove such
 revenue potential, and the project was subsequently canceled, with the technology shelved indefinitely.
 
 In a scene reminiscent of the warehouse in *Indiana Jones and the Lost Ark* where forgotten treasures are stored, our

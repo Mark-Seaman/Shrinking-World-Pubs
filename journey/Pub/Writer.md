@@ -13,7 +13,7 @@ mysteries. My interests span from technology to philosophy, allowing me to explo
 Writing helps me connect with my inner self and the world around me, providing a sense of fulfillment and purpose. 
 
 While I have never pursued commercial success, my focus has always been on striving for excellence in my craft. Whether
-it’s documenting software projects or penning down philosophical musings, writing remains a constant companion in my
+it's documenting software projects or penning down philosophical musings, writing remains a constant companion in my
 quest to understand and articulate the world of ideas. This dedication to my craft is not about fame or fortune but
 about the passion for expressing and refining my thoughts.
 
