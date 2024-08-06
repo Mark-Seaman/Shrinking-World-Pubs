@@ -72,6 +72,7 @@
 * [When will you Retire?](/journey/Retirement.md)                               
 * [My Life as a Writer](/journey/Writer.md)                                     
 * [The Art of Storytelling](/journey/StoryTelling.md)                           
+* [The Writing Game](/journey/WritingGame.md)                                   
 
 ## [60 Something - The 2020s](/journey/Part8.md)                               
 
