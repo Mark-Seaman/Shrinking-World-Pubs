@@ -4,6 +4,7 @@ I firmly believe that we were not meant to walk this journey alone. God designed
 for relationships that are rooted in love and built on mutual support and encouragement. The church
 is the embodiment of that community, a place where we can come together to worship, learn, and grow
 together.
+
 Without love and connection to others, we are
 left empty and alone. Love is not just a feeling, but a way of living. It is the true test of our
 maturity and character. 

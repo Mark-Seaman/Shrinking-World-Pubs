@@ -51,11 +51,21 @@
 * [The Mind of God within Us All](/spirituality/MindOfGod.md)                   
 * [Five Voices of God](/spirituality/FiveVoices.md)                             
 
-## [Prayer of Surrender](/spirituality/Surrender.md)                           
+## [Spiritual Disciplines](/spirituality/Disciplines.md)                       
 
+* [Solitude and Silence](/spirituality/Solitude.md)                             
+* [Prayer ](/spirituality/Prayer2.md)                                           
+* [Scripture Meditation](/spirituality/Scripture.md)                            
+* [Worship](/spirituality/Worship2.md)                                          
+* [Fasting](/spirituality/Fasting.md)                                           
+* [Service](/spirituality/Service.md)                                           
+* [Confession and Accountability](/spirituality/Confession.md)                  
+* [Sabbath Rest](/spirituality/Sabbath.md)                                      
+* [Community](/spirituality/Community2.md)                                      
 
 ## [God's Kingdom vs. Human Ways](/spirituality/Kingdoms.md)                   
 
+* [Prayer of Surrender](/spirituality/Surrender.md)                             
 * [God's Way Humility](/spirituality/Humility.md)                               
 * [Faith: Trusting in God](/spirituality/Faith.md)                              
 * [Hope: Believing in a Better Life](/spirituality/Hope.md)                     
