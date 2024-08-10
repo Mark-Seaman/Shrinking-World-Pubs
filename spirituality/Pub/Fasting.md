@@ -7,7 +7,7 @@ to earn favor with God or to show their devotion. The focus is often on the phys
 carry it out, with an underlying assumption that fasting, by its very nature, is meritorious.
 
 In contrast, within the framework of spiritual formation as described by thinkers like Dallas Willard, fasting is
-understood as a deeply transformative practice, not merely a religious obligation. It is not about earning God’s favor
+understood as a deeply transformative practice, not merely a religious obligation. It is not about earning God's favor
 or proving one's spirituality but about reshaping the heart and mind. Fasting is an invitation to realign our desires
 with God's will, focusing less on the physical aspect of hunger and more on spiritual nourishment. It serves as a means
 to humble oneself, developing a greater sense of self-control and dependence on God. Through fasting, we become more

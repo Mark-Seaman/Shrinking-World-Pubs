@@ -40,7 +40,7 @@ With a solid outline in place, you're ready to start drafting your article:
   guiding the reader through your content.
 - **Write Sentences**: For each bullet point in your outline, write a complete sentence. This step is about transforming
   your structured ideas into a narrative.
-- **Focus on Storytelling**: Don’t worry about grammar or perfect wording at this stage. Your aim is to tell the story
+- **Focus on Storytelling**: Don't worry about grammar or perfect wording at this stage. Your aim is to tell the story
   or convey the message you envisioned during brainstorming.
 
 ### 4. Publication
@@ -50,7 +50,7 @@ The final stage involves polishing your draft and preparing it for publication:
   spelling, and sentence structure. Be on the lookout for passive voice and overly complex sentences.
 - **Refine Tone and Point of View**: Ensure that your article's tone is consistent and that the point of view is
   appropriate for your audience.
-- **Self-Critique**: Ask yourself if this is something you would enjoy reading. If not, identify what’s missing and make
+- **Self-Critique**: Ask yourself if this is something you would enjoy reading. If not, identify what's missing and make
   the necessary adjustments.
 - **Publish**: Once satisfied with your revisions, publish your work on your blog or save it as a document.
 

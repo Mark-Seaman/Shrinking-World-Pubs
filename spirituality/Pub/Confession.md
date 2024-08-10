@@ -13,12 +13,12 @@ presence into those places. Rather than being a one-time act, confession becomes
 the disciple regularly examines their life in the light of God's love and truth.
 
 Accountability, when viewed through the lens of spiritual formation, is not about judgment or merely keeping each other
-in line. It’s about mutual support, encouragement, and the deepening of relationships within the body of Christ. It
+in line. It's about mutual support, encouragement, and the deepening of relationships within the body of Christ. It
 fosters an environment where individuals can grow together, helping one another to become more like Christ. This kind of
 accountability is marked by grace and truth, offering both challenge and support as disciples journey together.
 
 By engaging in confession and accountability in this way, we are transformed. These practices help us to break free from
-the power of sin and shame, allowing us to experience the freedom and joy of living in the light of God’s truth. They
+the power of sin and shame, allowing us to experience the freedom and joy of living in the light of God's truth. They
 build deeper, more authentic relationships with others, as we learn to live in honesty and humility. Ultimately, these
 disciplines help us to become more whole, more Christlike, and more deeply rooted in the love and grace of God.
 

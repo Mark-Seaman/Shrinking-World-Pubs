@@ -29,7 +29,7 @@ subtle movements of the Holy Spirit. In this stillness, we are able to wait, lis
 and guidance, leading to profound insights, healing, and direction that are not possible in the noise of everyday life.
 
 The common religious view might treat solitude and silence as optional or occasional practices for personal benefit,
-often focused on the individual’s need for rest or clarity. In contrast, the spiritual formation perspective sees these
+often focused on the individual's need for rest or clarity. In contrast, the spiritual formation perspective sees these
 disciplines as essential for every disciple, not just for personal well-being but for deep spiritual transformation.
 Engaging in solitude and silence as part of spiritual formation allows the disciple to move beyond merely seeking
 temporary relief or personal insight. Instead, they enter into a space where they can be profoundly shaped and
