@@ -1,4 +1,4 @@
-# A Seaman's Quest
+# The Four Quests
 
 
 ## [Season of Spring](/quest/Spring.md)                                        
@@ -48,6 +48,7 @@
 * [The Art of Deep Listening](/quest/Listening.md)                              
 * [My Kingdom Come](/quest/MyKingdom.md)                                        
 * [Learning to Collaborate](/quest/Collaborate.md)                              
+* [Learning by Reading](/quest/Learning.md)                                     
 
 ## [Season of Winter](/quest/Winter.md)                                        
 
@@ -71,3 +72,6 @@
 * [Nurturing Relationships](/quest/Relationships.md)                            
 * [Social Media Wellbeing](/quest/SocialMedia.md)                               
 * [The Quest for Understanding](/quest/Understanding.md)                        
+* [7 Ways to Handle Loss and Thrive Again](/quest/Loss.md)                      
+* [The Process of Grief](/quest/Grief.md)                                       
+* [Understanding Good and Evil](/quest/GoodAndEvil.md)                          

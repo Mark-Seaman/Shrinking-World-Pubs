@@ -1,7 +1,7 @@
 {
     "id": 2210,
     "name": "quest",
-    "title": "A Seaman's Quest",
+    "title": "The Four Quests",
     "subtitle": "One man's search for truth",
     "author": "Mark Seaman",
     "description": "After a lifetime of trying to find meaning in life I finally feel ready to share what I've learned. Why do I exist?\u00a0 This is the question that I have grappled with for decades.\u00a0\nEarly on, I knew that there must be some higher purpose for my existence.\u00a0 In my\nteen years, I embraced easy and trite answers that others told me were true.\n\nBut these simple answers to my life purpose never seemed complete and left me\nwanting\u00a0 a much fuller explanation.\u00a0 Over the five decades since I have toyed\nwith many explanations before settling on the one you will read about here.\u00a0\nAfter actively seeking for the meaning of life I believe that I now understand\nsome truths\u00a0 well enough to share with others.\n\nThe is a record of my journey of personal understanding.\u00a0  It is a long time in\nthe making.\u00a0 I started my journey seeking enlightenment at age 13, and at age 60\nfinally had the breakthrough that I had been seeking most of my life.\u00a0 ",
@@ -13,7 +13,7 @@
     "logo": null,
     "words": 56823,
     "cover_image": "/static/images/seamansguide.com/quest/quest-cover-400.png",
-    "menu": "static/js/nav_blog.json",
+    "menu": "static/js/nav_quest.json",
     "pub_type": "book",
     "auto_remove": false,
     "auto_contents": false,
