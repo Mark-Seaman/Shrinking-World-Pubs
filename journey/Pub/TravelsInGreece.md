@@ -1,0 +1,59 @@
+# Travels in Greece
+
+I've had the unique opportunity to travel to Greece during all four seasons of life: childhood, adulthood, mid-life, and
+old age.  Every time has marked a transition point in my life
+
+Each trip to Greece has been unique and unforgettable, marked by the different stages of life and the evolution of my
+experiences and perspectives. Greece has been a constant thread, weaving through the fabric of my life, each visit
+adding new colors and patterns to the tapestry.
+
+## Greece at 10 in 1969: A Child's Perspective
+
+In 1969, Greece was a land of wonder for a ten-year-old. The culture, language, and atmosphere were entirely different
+from anything I had known. We lived in the upper story a home in Athens, attended an American school. I learned to speak
+Greek well enough to get around the city by myself and act as tour guide to visitors.
+
+This trip was marked by the oppressive atmosphere of a police state. Greece was under military rule, and even as a
+child, I could sense the tension in the air. Despite this, the beauty of the country shone through, especially during
+Easter on Crete. The island was alive with traditions, colors, and celebrations that left a lasting impression. The
+smell of lamb roasting on a spit, the sound of church bells, and the warmth of the people made this Easter one of the
+most memorable I’ve ever experienced.
+
+## Greece at 40 in 1999: An Adult Perspective
+
+Returning to Greece in 1999, thirty years later, felt like a pilgrimage. This time, the trip was centered around the
+"Journeys of Paul" tour led by my dad. We retraced the steps of the apostle Paul through this ancient land. It was a
+spiritual journey for me visiting the places I had read about for years.  Most of the places we visited I remember from
+when I was a child.
+
+The Greece I returned to was different in many ways. The world had changed, and so had I. Traveling had become a
+significant part of my life, shaping my worldview and making this return even more poignant. It was fascinating to see
+how Greece had evolved, yet retained its timeless beauty. Walking through places that held childhood memories, I
+realized how travel transforms us, adding layers of experiences and perspectives.
+
+## Greece at 50 in 2009: Ocean Cruises
+
+By 2009, Greece had become a familiar yet always exciting destination. This time, the trip was about luxury and leisure,
+with ocean cruises taking us through the stunning Greek Islands. The azure waters, whitewashed buildings, and the slow,
+relaxed pace of island life were perfect for savoring the beauty of Greece at a different speed.
+
+Nauplio and Athens were highlights, with their blend of history, culture, and modern vibrancy. We discovered our
+favorite restaurant in Athens, a place that became our go-to spot for enjoying traditional Greek cuisine. The memories
+of sitting in that restaurant, with its view of the Acropolis, sharing delicious meals and laughter, are treasures that
+I carry with me.
+
+We enjoyed this trip so much that we repeated it again the following year to take our daughter who was soon to move to
+Japan.  These two trips last ocean cruises that we were to take for many years.
+
+## Greece at 65 in 2024: A Journey of Reflection
+
+A new trip to Greece is scheduled in 2024 this will be similar to one we took 25 years ago now.  It will undoubtedly be
+a time of reflection and connection. Taking the "Footsteps of Paul" tour once again, this journey will be enriched by the
+presence of friends I’ve known for fifty years. Sharing these experiences with people who have been part of my life for
+so long will add a profound depth to the trip.
+
+This journey is also about life after Stacie (my late wife of 45 years) and embracing my identity as a writer. Greece,
+with its rich history of storytelling, has become a place of inspiration. Wandering through ancient ruins, writing in
+cafes overlooking the Aegean, and contemplating the chapters of my life, I feel a deep connection to the land and its
+stories.
+
