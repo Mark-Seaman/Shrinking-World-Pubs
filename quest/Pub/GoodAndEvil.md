@@ -18,7 +18,7 @@ One of the most striking examples of this confusion between good and evil is see
 follow orders or societal norms. The atrocities committed during times of war, such as the bombing of civilians or the
 massacre of innocents, are often carried out by individuals who believe they are fulfilling their duty. As the artist
 Banksy poignantly observed, "The greatest crimes in the world are not committed by people breaking the rules but by
-people following the rules. It’s people who follow orders that drop bombs and massacre villages." This quote
+people following the rules. It's people who follow orders that drop bombs and massacre villages." This quote
 encapsulates the tragic reality that even those who see themselves as good, law-abiding citizens can be led to commit
 great evils when they adhere to orders or norms without questioning their morality.
 

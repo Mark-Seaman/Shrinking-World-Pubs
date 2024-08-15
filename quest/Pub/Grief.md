@@ -29,7 +29,7 @@ mother, wife, and daughter. Sittser writes about how catastrophic loss can lead 
 even as it remains deeply painful. He argues that while grief does not diminish over time, it can lead to a deeper
 understanding of life and faith. Sittser emphasizes the importance of embracing grief fully, allowing it to work through
 us rather than trying to escape or minimize it. He talks about the concept of "enlargement," where grief, paradoxically,
-expands one's capacity for joy, love, and empathy. Sittser’s perspective is marked by a deep sense of resilience, seeing
+expands one's capacity for joy, love, and empathy. Sittser's perspective is marked by a deep sense of resilience, seeing
 grief as a path to a more profound spiritual and emotional life.
 
 Lewis, Park, and Sittser all recognize grief as a transformative experience. Lewis focuses on the personal, reflective

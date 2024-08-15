@@ -14,7 +14,7 @@ a path forward.
 **2. Embrace the Complexity of Grief**
 
 Grief is not a linear process—it is complex and often confusing. One moment, you may feel numb; the next, you may be
-overwhelmed with emotion. Accept that grief doesn’t follow a straight line. By embracing this complexity, you give
+overwhelmed with emotion. Accept that grief doesn't follow a straight line. By embracing this complexity, you give
 yourself permission to experience grief in all its forms without judgment or pressure to "move on" too quickly.
 
 **3. Lean into Vulnerability and Community**
@@ -26,14 +26,14 @@ can create deeper connections and provide the comfort you need to navigate throu
 **4. Take Your Time—There Is No Rush**
 
 Healing from grief takes time, and it's important to honor your own pace. Some days will be harder than others, and
-that’s okay. Allow yourself to grieve at your own speed, without feeling pressured by societal expectations or
+that's okay. Allow yourself to grieve at your own speed, without feeling pressured by societal expectations or
 timelines. Healing is a gradual process, and taking the time you need is crucial for genuine recovery.
 
 **5. Find Meaning in the Midst of Loss**
 
 While the pain of loss may never fully go away, it can lead to a deeper understanding of life, love, and faith. Grief
 can enlarge our capacity for empathy, compassion, and joy. Look for ways in which your loss might lead to personal
-growth or a new perspective on life. This doesn’t mean minimizing your pain but rather finding ways to incorporate it
+growth or a new perspective on life. This doesn't mean minimizing your pain but rather finding ways to incorporate it
 into a richer, more meaningful existence.
 
 **6. Embrace the Paradox of Grief and Joy**
@@ -44,7 +44,7 @@ paradox, you can begin to see that life after loss can still hold beauty and mea
 
 **7. Rebuild Your Life with Patience and Compassion**
 
-As you begin to heal, remember to be patient and compassionate with yourself. Grief changes us, often in ways we don’t
+As you begin to heal, remember to be patient and compassionate with yourself. Grief changes us, often in ways we don't
 expect. Allow yourself to grow and evolve through this process. Be gentle with yourself on the days when the pain feels
 overwhelming, and celebrate the small steps you take toward rebuilding your life. With time, patience, and
 self-compassion, you can find a new way of living that honors your loss while also allowing you to thrive again.
