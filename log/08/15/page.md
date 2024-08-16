@@ -19,4 +19,6 @@ Now, at age 65, in 2024, I prepare for another journey to Greece, one of reflect
 by my side, I will walk the ancient paths once more, finding inspiration in the land that has always been a constant
 thread in the tapestry of my life.
 
-Read More: https://markseaman.org/journey/TravelsInGreece.md
+
+<a class="btn btn-success" href="https://markseaman.org/journey/TravelsInGreece.md">Read More</a> 
+https://markseaman.org/journey/TravelsInGreece.md

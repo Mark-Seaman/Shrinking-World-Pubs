@@ -9,4 +9,7 @@ savor the serene islands and rich history.
 Now, as I prepare for a reflective journey at 65 in 2024, Greece remains a constant thread, inspiring me to embrace my
 identity as a writer and find new meaning in its enduring stories and landscapes.
 
-Read More: https://markseaman.org/journey/TravelsInGreece.md
+---
+
+<a class="btn btn-success" href="https://markseaman.org/journey/TravelsInGreece.md">Read More</a> 
+https://markseaman.org/journey/TravelsInGreece.md
