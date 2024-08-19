@@ -60,6 +60,7 @@
 * [Mid-life Journey](/journey/Midlife.md)                                       
 * [My Work Day](/journey/WorkDay.md)                                            
 * [Why Travel](/journey/Travel.md)                                              
+* [Top 7 Ways to Overcome Perfectionism](/journey/Perfectionism.md)             
 
 ## [50 Something - The 2010s](/journey/Part7.md)                               
 
@@ -92,4 +93,4 @@
 * [Six Months Later](/journey/SixMonths.md)                                     
 * [Through Seven Seasons](/journey/7Seasons.md)                                 
 * [You Can't Go Home](/journey/Home.md)                                         
-* [Travels in Greece](/journey/TravelsInGreece.md)                              
+* [My Travels in Greece](/journey/TravelsInGreece.md)                           
