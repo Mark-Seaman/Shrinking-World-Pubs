@@ -1,4 +1,4 @@
 # AI Playbook
 
-* [Getting Started](/ai/GettingStarted.md)                                      
+* [orten this article to 250 words](/ai/GettingStarted.md)                      
 
