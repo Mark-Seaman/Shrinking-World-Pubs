@@ -1,6 +1,5 @@
-Shorten this article to 250 words
-
-# Getting Started
+# AI Playbook: Getting Started
+20-minute lesson to get you started with AI
 
 ## Your First Hour
 
