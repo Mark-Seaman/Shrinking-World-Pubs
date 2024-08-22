@@ -7,12 +7,12 @@ by [Mark Seaman](https://markseaman.org)
 The flash was unbelievably bright.  It is hard to imagine that anything could be
 so intensely brilliant. The hands over their eyes did little to block the light.
 
-Dave crouched in a foxhole with his buddy that was only three deep. He wore
+Dave crouched with his buddy in a foxhole that was only three feet deep. He wore
 standard battle gear, helmet, and standard light jacket.  He could not help but
 wonder if it was enough to save him.
 
 They were told to remain as low in the foxhole as possible until the first
-shock-wave had passed over them.  This took a number of seconds after the
+shock-wave had passed over them.  This took several seconds after the
 initial detonation.  Waiting … waiting … waiting .. sheer terror. Superheated
 air driving an atomic hurricane of death.
 
@@ -24,8 +24,8 @@ shock-wave.  The wave of destruction expanded outward for perhaps ten miles,
 well past their point at four miles from the blast.
 
 The bomb had been set to go off 3,400 feet above the ground to minimize the
-amount of fallout that would be created. A humongous ball of fire was roiling
-well off the ground.  The high temperatures of the super heated air were
+amount of fallout created. A humongous ball of fire was roiling
+well off the ground.  The high temperatures of the super-heated air were
 converting the fireball into a giant floating donut of fire. The heat naturally
 produces the characteristic mushroom cloud shape that is the ultimate symbol of
 death and destruction.
@@ -44,8 +44,7 @@ show.  Dave was diligently focused and got down again at the correct time.
 Others were not so fortunate. They became distracted by the intensity of the
 emotions they felt.
 
-The air returning caused a second blast wave filled with lots of debris that had
-become loosened from the initial blast wave. The returning air was still fairly
+The air returning caused a second blast wave filled with lots of debris loosened by the initial blast. The returning air was still fairly
 hot and knocked the distracted soldiers out of their foxholes.
 
 ![](img/Buster-Dog-500.jpg)
@@ -60,12 +59,12 @@ Along the march they passed various structures and vehicles and dead and dying
 animals that had been stationed at  different distances from the blast.  Dave
 could never forget these things.
 
-Once at ground-zero the soldiers were covered with radioactive dust. They were
+By the time they reached ground-zero the soldiers were covered with radioactive dust. They were
 swept off with kitchen brooms trying not to breathe too deeply.  Their dress was
 standard fatigues without even a heavy coat.  They had no protective clothing
-and no breathing equipment or radiation equipment.  The soldier did not wear
+and no breathing or radiation equipment.  The soldiers did not wear
 dosimeters to record how much radiation they had received but when they got to
-ground-zero the technicians had Geiger Counters that were signing away.
+ground-zero the technicians had Geiger Counters that were singing away.
 
 The soldiers were ordered to perform physical and mental exercises. They
 competed to break-down and reassemble firearms and other activities that tested
@@ -74,15 +73,15 @@ overall exercise was to understand how tactical nuclear weapons might be used on
 the battlefield.  Operation Desert Rock involved 6,500 troops as part of seven
 different phases.
 
-In some detonations a number of structures had been constructed to simulate a
+For some detonations several structures had been constructed to simulate a
 small town.  You may have seen the video footage of the small town constructed
-near Frenchman Flats. These included apartment buildings, multi-level stores,
+near Frenchman Flat. These included apartment buildings, multi-level stores,
 houses, highway overpasses, and bomb shelters. Most of these structures were
 devastated within a few seconds. The officials wanted to know just what would
 survive when the inevitable happened. Most could not survive the initial nuclear
 wind.
 
-Corporal Paul David Seaman participated in the Operation Tumbler–Snapper. He was
+Corporal Paul David Seaman participated in "Operation Tumbler–Snapper". He was
 one of 535 troops chosen as 
 observers (with another 1,675 troops doing
 maneuvers) as part of Operation Desert Rock IV.  Dave was one of the 150 men
@@ -97,19 +96,19 @@ during the test, so it is  impossible to know the exact amount. What would the
 real consequences of their exposure ultimately be?  No one knew but it was
 likely to be very bad indeed.
 
-There are sometimes that having a vivid imagination can be terribly cruel. Would
-his hair fall out, lose skin, grow sick, or would there only be long term
-consequences like leukemia or thyroid cancer?  Would he ever be able have
+Sometimes having a vivid imagination can be terribly cruel. Would
+his hair fall out, lose skin, grow sick, or would there only be long-term
+consequences like leukemia or thyroid cancer?  Would he ever be able to have
 children and if so would they be deformed?
 
 Dave turned out to be one of the lucky ones, although there were some serious
-consequences from the radiation.  For the next five years he was
-unable to conceive any children while trying very hard, but eventually my father
-went one to have three normal children.
+consequences from the radiation.  For the next five years, he was
+unable to conceive any children while trying very hard, but eventually, my father
+went on to have three normal children.
 
 He has also had ongoing problems with thyroid tumors that require regular monitoring.
-But considering how many of his peers fared his health history is remarkable.
-He survives to this day and recently celebrated his 87th birthday.
+But considering how many of his peers fared, his health history is remarkable.
+He survives to this day and recently celebrated his 92nd birthday.
 
 He is one of the few people alive to have had such a close encounter with an angry
 atomic bomb. But that day in the Nevada desert will certainly never be
