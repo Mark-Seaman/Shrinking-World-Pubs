@@ -76,7 +76,7 @@ Acropolis, bathed in the golden light of the setting sun, stood as a majestic re
 
 The memories of sitting in that restaurant, with its view of the Acropolis, sharing delicious meals and laughter, are
 treasures that I carry with me. We enjoyed this trip so much that we repeated it the following year, this time with our
-daughter, who was soon to move to Japan. These two trips were the last ocean cruises we took for many years, and they
+daughter, who was soon to move to Japan. These two trips were the last ocean cruises we took together, and they
 hold a special place in my heart.
 
 

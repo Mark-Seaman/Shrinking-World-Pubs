@@ -4,7 +4,7 @@
 ## Moving to Flagstaff
 
 I was seven when we moved to Flagstaff, Arizona.  Being from Kentucky I had never been to an area
-that was so dry. In Kentucky, trees grow naturally and must be mowed regularly if you intend on
+that was so dry. In Kentucky, trees grow so fast that they must be mowed regularly if you intend on
 having a lawn.  When you look at a map you see two different Americas (the wet one and the dry one)
 divided by the Mississippi River.
 
@@ -152,9 +152,9 @@ disrespectfully by us kids as the Hummingbird. I was not known for my decorum in
 making comments and talking to my friends, probably while chewing gum.  This got me sent to The
 Office where discipline was enacted.
 
-The Swat began with Principal Gabaldon saying, "Grab your ankles."  Then WAM out of nowhere the
+The Swat began with Principal Gabaldon saying, "Grab your ankles."  Then WHAM out of nowhere the
 famous Kid Killer would strike. The sharp sting of justice would claim another victim.  The child
-was left to dance a bit and cry softly until the stinging sensation subsided.  Finally, they would
+was left to dance a bit and cry softly until the stinging sensation subsided.  Finally, he would
 go back to class knowing that justice was served.
 
 Now comes the hard part.   Do I tell my dad? Do I really want to bring on additional pain? Or should

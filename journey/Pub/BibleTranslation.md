@@ -1,7 +1,7 @@
 # Bible Translation
 
 Bible translation has affected my life since day one, literally.  When I was
-born my Dad was in Norman, Oklahoma, teaching linguistics.  He was working with
+born my Dad was in Norman, Oklahoma, studying linguistics.  He was working with
 the Wycliffe Bible Translators, whose mission was to translate the scripture into
 all the languages of the earth.
 
@@ -82,7 +82,7 @@ minds we see Jesus as a religious figure. But he was not.
 
 The bible was not written with the religious and scholarly language of the day. 
 That type of language was used for legal and educational purposes.  The language
-the bible is the language of streets, marketplace, and workplace. God meets
+of the bible is the language of streets, marketplace, and workplace. God meets
 humans where they are at, coming down from a place of glory to become lowly in
 order to close the gap.
 

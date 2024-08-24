@@ -7,12 +7,10 @@ Kimon stood on the hillside not far from his small village. He was in shock and
 awe.  Airplanes kept rolling in ... wave after wave.  It must have been
 terrifying and mesmerizing.
 
-He had probably heard his parents discuss the war but did not believe that it
-would never come here. But now the planes were coming in faster than anyone
-could imagine. The planes where filled with soldiers coming to bring
-death to everyone that opposed them.  The sky was filled with parachutes as the
-men raced toward the ground so that their work could begin.  They were on a 
-mission of great importance, creating a foothold for what to follow.
+He had probably heard his parents discuss the war but did not believe that it would ever come to his home village. But
+now the planes were coming in faster than anyone could imagine. The planes where filled with soldiers coming to bring
+death to everyone that opposed them.  The sky was filled with parachutes as the men raced toward the ground so that
+their work could begin.  They were on a mission of great importance, creating a foothold for what to follow.
 
 As a boy of ten, Kimon could not understand the changes that were about to
 happen to his peaceful village home.  But he knew it was bad ... really bad.  It
@@ -26,7 +24,7 @@ the center of town, where they confronted the police resulting in the death of
 sixteen Nazis and four policemen. Hitler himself was wounded during the clash.
 
 Although he was charged with treason he converted his trial to an opportunity to
-publicize in nationalist agenda.  He captured headlines and become the talk of
+publicize in nationalist agenda.  He captured headlines and became the talk of
 the nation.  He was sentenced to five years in prison and served nine months,
 when he documented his plan for world domination that he almost achieved.
 
@@ -69,13 +67,13 @@ released by the United States on the rest of the world would dwarf the
 greatest accomplishments of Adolf in his prime.
 
 During our year in Greece (1969-1970), my dad became close friends with Kimon 
-Farantakis.  He wrote a book about his childhood years in Crete.  "The 
+Farantakis.  Kimon wrote a book about his childhood years in Crete.  "The 
 Leaden-sky Years of World War II" was published in Greek and became quite 
 popular, but was not available in English.  My father translated his friend's
 memoir into English so that it would be available to a wider audience.
 
 The Seaman family and the Farantakis family have maintained lifelong friendships
-and taken many trips across the ocean over the past five decades.  Some 
+and taken 16 trips both ways across the ocean over the past five decades.  Some 
 relationships can transcend time and space.
 
 
@@ -196,7 +194,7 @@ ever knowing what happened to here.
 
 The government  had eyes and ears everywhere, just talking to someone that was
 under suspicion was enough to cast suspicion on you. Although no charges were
-ever filed, she simply vanished one day.  Dave spent several months trying to
+ever filed, she simply vanished one day.  Dave spent several hours trying to
 locate her whereabouts, including working his contacts at the American State
 Department and Red Cross.
 
@@ -210,7 +208,7 @@ Things became quite tense at the Fulbright office, as you can imagine. Think
 about working each day next to the very woman that deliberately caused the
 death of a coworker.  The fear and anger must have been unbearable.
 
-Three of the foreigners that worked at the office went to the place of torture 
+Three of the foreigners that worked at the office, including my dad, went to the place of torture 
 where they were holding Rita and demanded to see her. They refused, but finally allowed
 the team to send her a note in Greek and her to write a brief response.  It may well
 have saved her life.  This kind of aggressive action would also be considered 
@@ -220,7 +218,7 @@ foreigners probably protected them.
 Shortly after that, the three academics were all summoned to the impressive
 residence of the American ambassador to Greece, who told them in no uncertain
 terms that they  were jeopardizing the Fulbright program in Greece.  They were
-ordered, to back off  by the ambassador and were supposed to be intimidated. But
+ordered to back off  by the ambassador and were supposed to be intimidated. But
 the three continued to take Rita's mom out on a regular basis.
 
 In fact, the American government was supporting the dictatorship at the time.
@@ -229,8 +227,9 @@ ruthless actions of the government. Later some American president
 apologized to the Greek people for the American support of that military junta.
 
 The authorities could not get Rita to cooperate so they keep her in solitary
-confinement in a hotel that had been converted into a prison with fantastic
-pizza. No one could see her, nor communicate with her in any way.  
+confinement in a hotel that had been converted into a prison.  The prison hotel was next                    
+door to a restaurant which served fantastic pizza. No one could see her, nor communicate 
+with her in any way.  
 
 Our family used to drive by where we knew her room balcony was at a particular
 time each day. She would wave subtly to us and this simple gesture provided
@@ -245,7 +244,8 @@ the hotel near Marathon, close to the marble quarries for the Parthenon.  Dave
 was given permission to visit her; so on this particular Sunday we were eating
 pizza at the prison hotel.
 
-While we ate pizza Dave and a Rita's mom visited her.  Greece was under the
+One day Dad and Rita's mom were permitted to visit her while our family ate pizza at the 
+restaurant next to the prison hotel.  Greece was under the
 thumb of a military dictatorship at the time.  People disappearing in the middle
 of the night was common practice.  It was also common practice to arrest anyone
 who inquired about their disappearance.  What was uncommon was that someone 

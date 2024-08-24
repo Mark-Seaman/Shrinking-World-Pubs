@@ -12,7 +12,7 @@ those who return to their own culture after having lived aboard.  I cannot say
 what life would have been like had we not lived outside the US, but I can speak
 about the feeling of dislocation that I felt upon my return.
 
-Who am I?  What can I do? Why am I so different that everyone else?  How can
+Who am I?  What can I do? Why am I so different from everyone else?  How can
 I fit in?  How can I break free from the expectations that others place on me?
 It took me twenty years to answer these questions to my satisfaction.  Now I
 have learned to celebrate the differences, but at eleven it was a source of
@@ -24,8 +24,8 @@ judgment.  I am not superior or inferior, just different from others.
 
 I have lived my life as an alien in almost every group I have been a part of. 
 Attempts to communicate how I think and feel have left me with a deep sense of
-disconnection from others.  There are perhaps six people to get me at all and
-only my precious wife that truly understands me.
+disconnection from others.  There are perhaps six people who get me at all and
+only my precious wife who truly understands me.
 
 I have always been a part of several wonderful groups, each  filled  with people
 desiring meaningful relationships. Together we have lived life with purpose and
@@ -62,7 +62,7 @@ else that had been out of the country.  This experience did in fact give me a
 fundamentally different view of the world and politics. This was a time of race
 riots and war protests in which the government fired on its own citizens and
 supported racist laws and mass oppression.  These events looked very different
-when viewed from oversees.
+when viewed from overseas.
 
 Americans were deeply divided along generational lines.  Older people were
 seeking to preserve the way of life that they knew and the power that the status
