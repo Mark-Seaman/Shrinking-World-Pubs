@@ -6,7 +6,7 @@ There is a rest at the end of the journey. There is peace at the end of the stru
 we've had our say, then it is time to rest. I am reminded that this struggle will not go on forever. That the turmoil
 and frustration will end. That the craziness of this world will not prevent us from our ultimate destiny.
 
-Someday our body will turn to ash and it will planted in the earth or scattered in the wind. What happens to our body
+Someday our body will turn to ash and it will be planted in the earth or scattered in the wind. What happens to our body
 will not count for much. But it does serve as a reminder that life is precious and must not be sqaundered.  Right now is
 the only time that we are guaranteed.  Let's make it count.
 
