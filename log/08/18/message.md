@@ -6,6 +6,8 @@ This is Mark Seaman.  It has been a while since we spoke. Would you like to meet
 
 Here is my calendar https://cal.com/mdseaman/hour-meeting. Please pick any time that works for you.
 
+Create an instant meeting with https://cal.video.
+
 ---
 
 Here is my contact information:
