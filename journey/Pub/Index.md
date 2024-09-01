@@ -94,3 +94,4 @@
 * [Through Seven Seasons](/journey/7Seasons.md)                                 
 * [You Can't Go Home](/journey/Home.md)                                         
 * [My Travels in Greece](/journey/TravelsInGreece.md)                           
+* [The Hardest Year](/journey/HardestYear.md)                                   
