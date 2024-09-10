@@ -57,10 +57,13 @@ activities, such as:
 ### Key Tests:
 
 Some of the key nuclear tests associated with Operation Desert Rock include:
+
 - **Buster-Jangle "Dog" (November 1, 1951)**: A 21-kiloton atmospheric test involving over 6,000 military personnel,
   this was one of the largest exercises of Operation Desert Rock.
+
 - **Tumbler-Snapper "Charlie" (April 22, 1952)**: A 31-kiloton test, which included significant troop involvement and
   equipment testing.
+  
 - **Upshot-Knothole "Grable" (May 25, 1953)**: This test included a simulated battlefield exercise with soldiers
   observing from trenches.
 
