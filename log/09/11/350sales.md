@@ -15,7 +15,7 @@
 ---
 
 **Course Details**  
-Students will gain full access to the Python Web Apps course and all accompanying materials, learning how to build web applications using Python & Django.  These are the course materials used in University of Northern Colorado's BACS 350 course in the Fall of 2024.
+These are the course materials used in University of Northern Colorado's BACS 350 course in the Fall of 2024.  Students will gain full access to the Python Web Apps course and all accompanying materials, learning how to build web applications using Python & Django.  
 
 **How to Redeem**  
 1. Visit: [Learn to Build Python Web Apps in 1 Month](https://shrinking-world.org/p/learn-to-build-python-web-apps-in-1-month)  
