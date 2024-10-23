@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Cover</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .cover {
+            position: relative;
+            width: 1000px;
+            height: 1600px;
+            background-image: url('Parthanon.webp');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+        }
+
+        .title-panel {
+            background-color: rgba(50, 50, 50, 0.7);
+            /* Semi-transparent gray */
+            padding: 40px;
+            width: 80%;
+            border-radius: 10px;
+        }
+
+        .cover h1 {
+            font-size: 72px;
+            margin: 0;
+            padding: 0;
+            color: yellow
+        }
+
+        .cover h3 {
+            font-size: 48px;
+            margin: 10px 0;
+            padding: 0;
+        }
+
+        .author {
+            position: absolute;
+            bottom: 50px;
+            width: 100%;
+            font-size: 36px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="cover">
+        <div class="title-panel">
+            <h1>Footsteps of Paul</h1>
+            <h3>Travels in Greece</h3>
+        </div>
+    </div>
+
+</body>
+
+</html>
