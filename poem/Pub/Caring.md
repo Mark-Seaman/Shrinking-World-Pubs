@@ -12,9 +12,9 @@ The difference between a river and a pool is the movement of the water.
 
 Many of us want to receive love without giving any in return.
 
-I have observed thousands of Christ follower over the years.
+I have observed thousands of Christ followers over the years.
 
-I have never seen anyone get healing for the soul that are unwilling to love others.
+I have never seen anyone get healing for the soul without being willing to love others.
 
 Giving love is a means to receiving love.
 
@@ -26,5 +26,5 @@ The path of isolation and selfishness is not the safe path at all.
 
 What can you do this week to give your love to someone else?
 
-The Spirit is a work; what is he inviting you to?
+The Spirit is at work; what is he inviting you to do?
 
