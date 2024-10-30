@@ -6,9 +6,9 @@ DAY 5 – Tuesday, September 24, 2024 - KALAMBAKA / ATHENS
 
 ---
 
-![Mark as a child](img/Turtle.png)
+![Mark as a child](https://shrinking-world-media.sfo2.digitaloceanspaces.com/footsteps/Turtle.png)
 
-![1999](img/Plaka.png)
+![1999](https://shrinking-world-media.sfo2.digitaloceanspaces.com/footsteps/Plaka.png)
 
 
 Childhood, Adulthood, Mid-life, Old age.   I've had the privilege of traveling in Greece in every season.

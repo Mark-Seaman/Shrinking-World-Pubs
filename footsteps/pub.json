@@ -12,7 +12,7 @@
     "domain": "https://seamanfamily.org",
     "logo": null,
     "words": 66160,
-    "cover_image": "/static/images/Shrinking-World-Pubs/footsteps/Footsteps.png",
+    "cover_image": "https://shrinking-world-media.sfo2.digitaloceanspaces.com/footsteps/Footsteps.1000.png",
     "menu": "static/js/nav_footsteps.json",
     "auto_remove": false,
     "auto_contents": false,

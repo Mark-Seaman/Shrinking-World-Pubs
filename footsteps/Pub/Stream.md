@@ -24,5 +24,5 @@ Lord, thank You for Lydia’s gift. I will treasure it always.
 * John 13:34
 * Matthew 22:37-40
 
-![Seta Demirjian](img/Seta-Lydia.png)
+![Seta Demirjian](https://shrinking-world-media.sfo2.digitaloceanspaces.com/footsteps/Seta-Lydia.png)
 

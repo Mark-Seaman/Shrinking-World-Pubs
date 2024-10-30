@@ -6,7 +6,7 @@ DAY 10 – Sunday, September 29, 2024 - ATHENS/San Diego
 
 ---
 
-[ include group photo of pilgrims ] 
+![group photo of pilgrims](https://shrinking-world-media.sfo2.digitaloceanspaces.com/footsteps/Group.jpg)
 
 I've recently lost my wife and have been learning how to live again.  My recovery has been quite remarkable but it is far from complete.
 
