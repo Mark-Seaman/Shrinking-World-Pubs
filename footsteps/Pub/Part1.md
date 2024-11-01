@@ -1,0 +1,12 @@
+# [Part 1 – The Journey Through History](Part1.md)
+
+* [DAY 1 – Travel](Day1.md)
+* [DAY 2 – Thessaloniki](Day2.md)
+* [DAY 3 – Phillipi](Day3.md)
+* [DAY 4 – Meteora](Day4.md)
+* [DAY 5 – Thermopylae](Day5.md)
+* [DAY 6 – Acropolis](Day6.md)
+* [DAY 7 – Corinth](Day7.md)
+* [DAY 8 – Island Cruise](Day8.md)
+* [DAY 9 – Athens](Day9.md)
+* [DAY 10 – Return to USA](Day10.md)
