@@ -7,3 +7,7 @@ well-known sermon (Acts 17:15-34). We see the Acropolis Museum, then have a tour
 Omonia Square, and the Panathenaic Stadium. We have free time in the Plaka area, the ancient city of Athens. Dinner and
 overnight at our hotel. 
 
+## Personal Stories
+
+* [Mars Hill](/footsteps/MarsHill.md) by Carrie Farrell
+

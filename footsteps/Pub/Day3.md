@@ -13,3 +13,5 @@ for dinner and overnight.
 ## Personal Stories
 
 * [Trusting the Stream](/footsteps/Stream.md) by Seta Demirjian
+* [Paul in Jail](/footsteps/PaulInJail.md) by Pam Balla
+* [Jar of Clay](/footsteps/Jars.md) by Beverly Medrano
