@@ -75,3 +75,6 @@
 * [7 Ways to Handle Loss and Thrive Again](/quest/Loss.md)                      
 * [The Process of Grief](/quest/Grief.md)                                       
 * [Understanding Good and Evil](/quest/GoodAndEvil.md)                          
+* [A Journey into Joy](/quest/Joy.md)                                           
+* [When My Life Ended](/quest/LifeEnded.md)                                     
+* [A Year of Transformation](/quest/YearOfTransformation.md)                    

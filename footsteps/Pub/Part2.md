@@ -29,7 +29,7 @@ We want to limit each album to 20 photos, so choose your best shots.
 
 * [DAY 7 – Corinth](https://photos.google.com/share/AF1QipMUj8U2uzE83_RfjIsk0OmbStg99VjVXxSrkX6qodl0u3ktsgO7GqUbF2e5-_3JKg?key=b3N6RW1rRWxYbVNyWmZwdUNqbDN5VFZxZUdHSVB3)
 
-* [DAY 8 – Island Cruise](https://photos.google.com/album/AF1QipPgT133Fok3wsb5EY51L6ANbVqzZWLsTfdGkJRV)
+* [DAY 8 – Island Cruise](https://photos.google.com/share/AF1QipNZycMMmS0-IeC5w3Aiv2xvcjwRecCr1ECT-P6KBp4YH27omlh64ohClh7K3j9_1A?key=SVRlQWlNclpJa0FtT0xxM3pDdFFPT1NQb00yRGx3)
 
 * [DAY 9 – Athens](https://photos.google.com/share/AF1QipMbxAL7W0LfR5FeTpn9zZbh81cqjb5znNxPBqNWu6kj5_lGfiQus7sfjSvCn76BiA?key=anRVU1J3c3NiRjZ6UWw4M1VFT0djUnJiZk1xR2JR)
 

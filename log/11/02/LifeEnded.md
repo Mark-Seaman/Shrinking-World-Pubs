@@ -35,7 +35,7 @@ In November, our lives were consumed by medical appointments, holding onto hope 
 water.  Every day in December, we watched her slip away, knowing that the end was near.
 
 
-### Death and Desolation
+## Death and Desolation
 
 We all know, in theory, that death will come, but it always feels distant until it arrives. Even when faced with grim
 realities, we cling to hope.
@@ -48,7 +48,7 @@ the beginning of my new life, and over the following months, I walked through gr
 valley.
 
 
-### Reliving the Calendar
+## Reliving the Calendar
 
 September, October, November, December 2024. These months mark the worst days of my life, the 120 days when my old life
 disintegrated, leaving a void where my future was supposed to be.
@@ -62,7 +62,7 @@ reminders of those dark moments and what was lost.
 - December, the month we lost the battle, began my life without her.
 
 
-### Recovery
+## Recovery
 
 In the year since, I’ve been on a journey of healing and transformation. I’m healthier and, in some ways, happier than
 I’ve ever been, yet the pain of loss lingers as I watch those dates roll by on the calendar. I remember every
