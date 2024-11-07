@@ -15,3 +15,4 @@ for dinner and overnight.
 * [Trusting the Stream](/footsteps/Stream.md) by Seta Demirjian
 * [Paul in Jail](/footsteps/PaulInJail.md) by Pam Balla
 * [Jar of Clay](/footsteps/Jars.md) by Beverly Medrano
+* [Sharing God's Love](/footsteps/Sharing.md) by Jacque Pegg
