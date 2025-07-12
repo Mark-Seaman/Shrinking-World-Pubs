@@ -1,0 +1,13 @@
+{
+  "title": "Writer Playbook Overview",
+  "course": "Writer Playbook",
+  "author": "Mark Seaman",
+  "organization": "Shrinking World",
+  "cover": "/static/images/Shrinking-World-Pubs/playbook/AIBrain-Slides.png",
+  "logo": "/static/images/MarkSeaman/Mark-Seaman-200.jpg",
+  "theme": "white.css",
+  "stylesheet": "/static/css/slides.css",
+  "images": "/static/images/Shrinking-World-Pubs/playbook",
+  "divider": "/static/images/Shrinking-World-Pubs/playbook/AIBrain-Slides.png",
+  "intro": false
+}
