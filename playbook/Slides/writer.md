@@ -103,3 +103,7 @@
 * Invite feedback and discussion  
 * Repurpose into other formats  
 * Track, learn, iterate, improve  
+
+
+Use this outline to generate 1000 words. Write one paragraph for every bullet point.
+
