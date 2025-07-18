@@ -1,0 +1,87 @@
+- Healing After Loss
+    - Naming the Pain
+        - Grief is love in motion
+            - Grief reveals depth of love
+            - Love has nowhere to go
+            - Grieving means you truly cared
+            - Pain validates what was meaningful
+        - Many faces of deep sorrow
+            - Sadness, anger, guilt, confusion
+            - Each person grieves uniquely
+            - No one path fits all
+            - Feelings change without clear reason
+        - Waves come without clear warning
+            - Triggers can surprise and overwhelm
+            - Some days feel unexpectedly heavy
+            - You are not going backward
+            - Let the wave pass through
+        - Speak your loss with honesty
+            - Say their name aloud often
+            - Tell your grief story freely
+            - Journal what you can't say
+            - Your truth deserves full voice
+    - Staying Present in Wilderness
+        - Numbing delays true emotional healing
+            - Distraction offers temporary escape only
+            - Busyness hides but doesn’t heal
+            - Denial leads to emotional backlog
+            - Courage means facing the ache
+        - Stillness welcomes sacred inner space
+            - Silence allows emotions to surface
+            - Quiet reveals what’s still alive
+            - Presence connects you to yourself
+            - Stillness invites sacred transformation
+        - Honest prayer invites divine presence
+            - God meets us in lament
+            - No need to fake faith
+            - Doubt can live with belief
+            - Surrender makes space for grace
+        - Grief lives in the body
+            - Fatigue may come from nowhere
+            - Tears are physical emotional release
+            - Movement can restore felt safety
+            - Listen to your body’s signals
+    - Letting Go with Love
+        - Honor memories without attachment
+            - Keep what nourishes the soul
+            - Release what burdens your heart
+            - Rituals help mark the shift
+            - Memory can evolve with time
+        - Release guilt and false roles
+            - You’re not responsible for everything
+            - Forgive yourself for being human
+            - Identity loss requires gentle detachment
+            - Shame does not lead healing
+        - Carry legacy into your future
+            - What did they leave you?
+            - Let their wisdom shape growth
+            - Live what they once dreamed
+            - Keep love active in you
+        - Express healing through creative acts
+            - Write letters to your loss
+            - Make meaning through storytelling art
+            - Create space for emotional reflection
+            - Channel sorrow into beauty gently
+    - Living Forward with Courage
+        - Reclaim identity after profound change
+            - You are still becoming whole
+            - Loss does not erase essence
+            - Explore new versions of self
+            - Identity shifts deserve reflection space
+        - Rebuild rhythms that spark joy
+            - Practice small moments of delight
+            - Joy coexists with tender sorrow
+            - Schedule beauty into your day
+            - Find fun without feeling guilt
+        - Love others while still healing
+            - Share your limits with honesty
+            - Give presence, not performance
+            - Boundaries protect your healing process
+            - New relationships need gentleness too
+        - Choose hope as daily practice
+            - Hope can be intentionally planted
+            - Gratitude strengthens future resilience
+            - Envision life beyond the pain
+            - Return to hope when ready
+
+Use this outline for a textbook on healing after loss. Create a table of contents for the book.
